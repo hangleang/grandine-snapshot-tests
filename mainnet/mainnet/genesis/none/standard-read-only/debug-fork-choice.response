@@ -1,0 +1,16 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 250
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "justified_checkpoint": {
+    "epoch": "0",
+    "root": "0x4d611d5b93fdab69013a7f0a2f961caca0c853f87cfe9595fe50038163079360"
+  },
+  "finalized_checkpoint": {
+    "epoch": "0",
+    "root": "0x4d611d5b93fdab69013a7f0a2f961caca0c853f87cfe9595fe50038163079360"
+  },
+  "fork_choice_nodes": []
+}

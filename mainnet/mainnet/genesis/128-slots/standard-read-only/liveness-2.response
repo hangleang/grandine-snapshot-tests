@@ -1,0 +1,9 @@
+HTTP/1.0 400 Bad Request
+content-type: application/json
+content-length: 86
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "code": 400,
+  "message": "invalid epoch: epoch is before previous one relative to state"
+}

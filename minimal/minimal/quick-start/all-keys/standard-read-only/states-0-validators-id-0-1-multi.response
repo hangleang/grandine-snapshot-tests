@@ -1,0 +1,41 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 996
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": [
+    {
+      "balance": "32000000000",
+      "index": "0",
+      "status": "active_ongoing",
+      "validator": {
+        "pubkey": "0xa99a76ed7796f7be22d5b7e85deeb7c5677e88e511e0b337618f8c4eb61349b4bf2d153f649f7b53359fe8b94a38e44c",
+        "withdrawal_credentials": "0x00fad2a6bfb0e7f1f0f45460944fbd8dfa7f37da06a4d13b3983cc90bb46963b",
+        "effective_balance": "32000000000",
+        "slashed": false,
+        "activation_eligibility_epoch": "0",
+        "activation_epoch": "0",
+        "exit_epoch": "18446744073709551615",
+        "withdrawable_epoch": "18446744073709551615"
+      }
+    },
+    {
+      "balance": "32000000000",
+      "index": "1",
+      "status": "active_ongoing",
+      "validator": {
+        "pubkey": "0xb89bebc699769726a318c8e9971bd3171297c61aea4a6578a7a4f94b547dcba5bac16a89108b6b6a1fe3695d1a874a0b",
+        "withdrawal_credentials": "0x00ec7ef7780c9d151597924036262dd28dc60e1228f4da6fecf9d402cb3f3594",
+        "effective_balance": "32000000000",
+        "slashed": false,
+        "activation_eligibility_epoch": "0",
+        "activation_epoch": "0",
+        "exit_epoch": "18446744073709551615",
+        "withdrawable_epoch": "18446744073709551615"
+      }
+    }
+  ],
+  "execution_optimistic": false,
+  "finalized": true
+}

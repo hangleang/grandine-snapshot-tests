@@ -1,0 +1,38 @@
+HTTP/1.0 200 OK
+content-type: application/json
+eth-consensus-version: altair
+content-length: 1377
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": {
+    "message": {
+      "slot": "9",
+      "proposer_index": "16",
+      "parent_root": "0xc453832ca3457596f57b86955aa10726c76a0d92aeb8d9f184e18bf3bc167432",
+      "state_root": "0x6ff9c81d8166b1413b31f78f7f19f396d7cf52011cc94fcfd965c688b06e35c6",
+      "body": {
+        "randao_reveal": "0x857236e8876b01526d3477650012181ea61b67c528603aef030c448c58b7a84c4dc2e7ac0dc5ebb3e9818ee3bb20419217d10eaaa8bae39d91ff5d0ad1b36a89b23714bb9ff971a9dc79fb114ada08897f8d07e20f217975576e62c29186d419",
+        "eth1_data": {
+          "deposit_root": "0x6141b76179b67d7849f34a22d0e529729fb274bbe81374c41623373b649cc63b",
+          "deposit_count": "64",
+          "block_hash": "0x4242424242424242424242424242424242424242424242424242424242424242"
+        },
+        "graffiti": "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "proposer_slashings": [],
+        "attester_slashings": [],
+        "attestations": [],
+        "deposits": [],
+        "voluntary_exits": [],
+        "sync_aggregate": {
+          "sync_committee_bits": "0xffffffff",
+          "sync_committee_signature": "0xb662f6fbc63d8772dbe96d6ab6fe36f798a2a64c55aa261cd2ce1615031c8fdc3e1bfd5f82bff5db7e9c40f1481879f40605fefaf3e8f2b3c66a534b215b196f4b39a9bc8fb77bf34a98ad10a52d363b09e265a3246a039c1b3a67dc93c98c34"
+        }
+      }
+    },
+    "signature": "0x925cd4f9e18764169343db70e2068a88d14500cd3f57eae04210038e62819c79e16ef73de1cbe500f0187ae8c17f7ee00dfb5075b6ff2f56b463ee151820a46474eacbc1778d46a656d7ee16540fbfedcd7c2ec5257310dab8f1acc192bbd0c9"
+  },
+  "version": "altair",
+  "execution_optimistic": false,
+  "finalized": false
+}

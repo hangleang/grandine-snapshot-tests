@@ -1,0 +1,107 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 2025
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": [
+    {
+      "index": "25713622",
+      "validator_index": "393263",
+      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
+      "amount": "17265504"
+    },
+    {
+      "index": "25713623",
+      "validator_index": "393264",
+      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
+      "amount": "17248366"
+    },
+    {
+      "index": "25713624",
+      "validator_index": "393265",
+      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
+      "amount": "17274027"
+    },
+    {
+      "index": "25713625",
+      "validator_index": "393266",
+      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
+      "amount": "59078347"
+    },
+    {
+      "index": "25713626",
+      "validator_index": "393267",
+      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
+      "amount": "17200481"
+    },
+    {
+      "index": "25713627",
+      "validator_index": "393268",
+      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
+      "amount": "17235425"
+    },
+    {
+      "index": "25713628",
+      "validator_index": "393269",
+      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
+      "amount": "17171794"
+    },
+    {
+      "index": "25713629",
+      "validator_index": "393270",
+      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
+      "amount": "17232827"
+    },
+    {
+      "index": "25713630",
+      "validator_index": "393271",
+      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
+      "amount": "17265151"
+    },
+    {
+      "index": "25713631",
+      "validator_index": "393272",
+      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
+      "amount": "17247247"
+    },
+    {
+      "index": "25713632",
+      "validator_index": "393273",
+      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
+      "amount": "17217151"
+    },
+    {
+      "index": "25713633",
+      "validator_index": "393274",
+      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
+      "amount": "58080212"
+    },
+    {
+      "index": "25713634",
+      "validator_index": "393275",
+      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
+      "amount": "17268861"
+    },
+    {
+      "index": "25713635",
+      "validator_index": "393276",
+      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
+      "amount": "17248029"
+    },
+    {
+      "index": "25713636",
+      "validator_index": "393277",
+      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
+      "amount": "17270335"
+    },
+    {
+      "index": "25713637",
+      "validator_index": "393278",
+      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
+      "amount": "17269787"
+    }
+  ],
+  "execution_optimistic": false,
+  "finalized": false
+}

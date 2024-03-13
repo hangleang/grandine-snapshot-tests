@@ -1,0 +1,13 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 93
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": {
+    "head_slot": "3078976",
+    "sync_distance": "0",
+    "is_syncing": false,
+    "is_optimistic": false
+  }
+}

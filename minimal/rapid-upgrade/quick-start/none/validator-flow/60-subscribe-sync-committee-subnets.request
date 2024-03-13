@@ -1,0 +1,230 @@
+POST /eth/v1/validator/sync_committee_subscriptions HTTP/1.0
+Content-Type: application/json
+Content-Length: 3762
+
+[
+  {
+    "validator_index": "0",
+    "sync_committee_indices": [
+      "22"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "2",
+    "sync_committee_indices": [
+      "6"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "3",
+    "sync_committee_indices": [
+      "4"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "4",
+    "sync_committee_indices": [
+      "27"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "5",
+    "sync_committee_indices": [
+      "8"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "6",
+    "sync_committee_indices": [
+      "25"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "9",
+    "sync_committee_indices": [
+      "24"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "12",
+    "sync_committee_indices": [
+      "2"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "13",
+    "sync_committee_indices": [
+      "0"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "15",
+    "sync_committee_indices": [
+      "17"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "16",
+    "sync_committee_indices": [
+      "7"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "18",
+    "sync_committee_indices": [
+      "11"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "20",
+    "sync_committee_indices": [
+      "5"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "27",
+    "sync_committee_indices": [
+      "15"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "31",
+    "sync_committee_indices": [
+      "18"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "32",
+    "sync_committee_indices": [
+      "26"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "33",
+    "sync_committee_indices": [
+      "9"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "36",
+    "sync_committee_indices": [
+      "1"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "39",
+    "sync_committee_indices": [
+      "28"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "40",
+    "sync_committee_indices": [
+      "20"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "42",
+    "sync_committee_indices": [
+      "16"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "44",
+    "sync_committee_indices": [
+      "31"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "45",
+    "sync_committee_indices": [
+      "3"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "47",
+    "sync_committee_indices": [
+      "23"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "49",
+    "sync_committee_indices": [
+      "12"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "50",
+    "sync_committee_indices": [
+      "29"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "51",
+    "sync_committee_indices": [
+      "19"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "53",
+    "sync_committee_indices": [
+      "21"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "56",
+    "sync_committee_indices": [
+      "30"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "60",
+    "sync_committee_indices": [
+      "13"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "62",
+    "sync_committee_indices": [
+      "14"
+    ],
+    "until_epoch": "8"
+  },
+  {
+    "validator_index": "63",
+    "sync_committee_indices": [
+      "10"
+    ],
+    "until_epoch": "8"
+  }
+]

@@ -1,0 +1,51 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 1299
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": [
+    {
+      "pubkey": "0x92f43d79d9f488010b310a54f3fc2e7f4be191ca06d93e588c30c8abf59a52190e060b285ac626eb13cd95bbcc3a0a2a",
+      "validator_index": "46",
+      "slot": "8"
+    },
+    {
+      "pubkey": "0x8f467e5723deac7659e1ca273e28410cbaa6d495ab66ae77014f4cd21c64b6b5ab9987c9b5537fe0279bd063fe609be7",
+      "validator_index": "16",
+      "slot": "9"
+    },
+    {
+      "pubkey": "0x81054bd51ce57a8415f0c8e0f2fbf94f5a8464552baa33263c20a4da062e5ed994a4d32c171106d2008cd063f48f6fe2",
+      "validator_index": "35",
+      "slot": "10"
+    },
+    {
+      "pubkey": "0x876dd4705157eb66dc71bc2e07fb151ea53e1a62a0bb980a7ce72d15f58944a8a3752d754f52f4a60dbfc7b18169f268",
+      "validator_index": "10",
+      "slot": "11"
+    },
+    {
+      "pubkey": "0xb5bb0162a4f27d1bab4c7dc3d20f5a75d6ee98c56bcd309a1f0f307685ad47ffb8a35bfdf8431b9b954b59662a74c478",
+      "validator_index": "57",
+      "slot": "12"
+    },
+    {
+      "pubkey": "0x925b1fb57c06b5668567bd5aa196531032d6f8918dd4f702017c11b59288e3bdb98e3820ac22780f73580a4119de4bbc",
+      "validator_index": "38",
+      "slot": "13"
+    },
+    {
+      "pubkey": "0xab8d3a9bcc160e518fac0756d3e192c74789588ed4a2b1debf0c78f78479ca8edb05b12ce21103076df6af4eb8756ff9",
+      "validator_index": "18",
+      "slot": "14"
+    },
+    {
+      "pubkey": "0x9314c6de0386635e2799af798884c2ea09c63b9f079e572acc00b06a7faccce501ea4dfc0b1a23b8603680a5e3481327",
+      "validator_index": "12",
+      "slot": "15"
+    }
+  ],
+  "dependent_root": "0xc9a3323b6c59a7374e60501768ff4b47e4603a837c9ed42634bb5a6d6be58b6e",
+  "execution_optimistic": false
+}

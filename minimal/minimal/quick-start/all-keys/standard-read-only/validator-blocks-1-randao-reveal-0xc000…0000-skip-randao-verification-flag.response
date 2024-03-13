@@ -1,0 +1,29 @@
+HTTP/1.0 200 OK
+content-type: application/json
+eth-consensus-version: phase0
+content-length: 831
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": {
+    "slot": "1",
+    "proposer_index": "29",
+    "parent_root": "0xc9a3323b6c59a7374e60501768ff4b47e4603a837c9ed42634bb5a6d6be58b6e",
+    "state_root": "0xea4b139cc21284c1f1e4e489b486c2aa9175f298aba4204684a07701ea846e17",
+    "body": {
+      "randao_reveal": "0xc00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "eth1_data": {
+        "deposit_root": "0x6141b76179b67d7849f34a22d0e529729fb274bbe81374c41623373b649cc63b",
+        "deposit_count": "64",
+        "block_hash": "0x4242424242424242424242424242424242424242424242424242424242424242"
+      },
+      "graffiti": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "proposer_slashings": [],
+      "attester_slashings": [],
+      "attestations": [],
+      "deposits": [],
+      "voluntary_exits": []
+    }
+  },
+  "version": "phase0"
+}

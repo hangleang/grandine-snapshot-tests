@@ -1,0 +1,37 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 323
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "api_to_p2p": [],
+  "fc_to_p2p": [
+    {
+      "Slot": 9
+    }
+  ],
+  "fc_to_sync": [],
+  "pool_to_p2p": [],
+  "subnet_service_to_p2p": [
+    {
+      "UpdateAttestationSubnets": {
+        "0": "DiscoverPeers",
+        "1": "DiscoverPeers",
+        "2": {
+          "Subscribe": {
+            "advertise": false
+          }
+        },
+        "3": {
+          "Subscribe": {
+            "advertise": false
+          }
+        },
+        "62": "DiscoverPeers",
+        "63": "DiscoverPeers"
+      }
+    }
+  ],
+  "validator_to_p2p": [],
+  "debug": []
+}

@@ -1,0 +1,9 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 50
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "beacon_state_reports": {},
+  "validator_reports": {}
+}

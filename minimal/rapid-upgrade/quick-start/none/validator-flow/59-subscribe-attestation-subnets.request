@@ -1,0 +1,454 @@
+POST /eth/v1/validator/beacon_committee_subscriptions HTTP/1.0
+Content-Type: application/json
+Content-Length: 9465
+
+[
+  {
+    "validator_index": "0",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "20",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "1",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "23",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "2",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "22",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "3",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "18",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "4",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "17",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "5",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "18",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "6",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "16",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "7",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "20",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "8",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "16",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "9",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "23",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "10",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "19",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "11",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "20",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "12",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "22",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "13",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "19",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "14",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "21",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "15",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "17",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "16",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "23",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "17",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "18",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "18",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "17",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "19",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "22",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "20",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "19",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "21",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "19",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "22",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "23",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "23",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "21",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "24",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "23",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "25",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "23",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "26",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "22",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "27",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "18",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "28",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "18",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "29",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "17",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "30",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "22",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "31",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "21",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "32",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "16",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "33",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "18",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "34",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "16",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "35",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "19",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "36",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "18",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "37",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "17",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "38",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "21",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "39",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "17",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "40",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "16",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "41",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "22",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "42",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "23",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "43",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "20",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "44",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "21",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "45",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "21",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "46",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "22",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "47",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "16",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "48",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "23",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "49",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "19",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "50",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "20",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "51",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "21",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "52",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "17",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "53",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "20",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "54",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "20",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "55",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "18",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "56",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "16",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "57",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "20",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "58",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "19",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "59",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "22",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "60",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "16",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "61",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "21",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "62",
+    "committee_index": "1",
+    "committees_at_slot": "2",
+    "slot": "19",
+    "is_aggregator": true
+  },
+  {
+    "validator_index": "63",
+    "committee_index": "0",
+    "committees_at_slot": "2",
+    "slot": "17",
+    "is_aggregator": true
+  }
+]

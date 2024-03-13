@@ -1,0 +1,31 @@
+POST /eth/v1/beacon/blocks HTTP/1.0
+Content-Type: application/json
+Content-Length: 1511
+
+{
+  "message": {
+    "slot": "8",
+    "proposer_index": "46",
+    "parent_root": "0xc9a3323b6c59a7374e60501768ff4b47e4603a837c9ed42634bb5a6d6be58b6e",
+    "state_root": "0xaf26a3b8b2da478ae98147c22a4c0e2a287e93ca6edc0ecf206e65c6851369a8",
+    "body": {
+      "randao_reveal": "0x888c0a270766804ea6e1cdeb11d6345fabea1b2cb716929679dcbdce9fb51d90c2db905e95f1677ac68d21dd889a50c2141dcefd409395e5d79bd765cf37f575d63ff15b12b19ae37fa17627b205bb371135161bd7cb5a42e61003b0aed60382",
+      "eth1_data": {
+        "deposit_root": "0x6141b76179b67d7849f34a22d0e529729fb274bbe81374c41623373b649cc63b",
+        "deposit_count": "64",
+        "block_hash": "0x4242424242424242424242424242424242424242424242424242424242424242"
+      },
+      "graffiti": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "proposer_slashings": [],
+      "attester_slashings": [],
+      "attestations": [],
+      "deposits": [],
+      "voluntary_exits": [],
+      "sync_aggregate": {
+        "sync_committee_bits": "0x00000000",
+        "sync_committee_signature": "0xc00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    }
+  },
+  "signature": "0xafd3bde69df4290b195d2e6d5fa67ce8baf229412a99fe8ae1bc4415fa2029c1ce1e1c8d6a47a8a1400cdd540bfab33e0255d0897d6e91eab9bb30e6ee33a6c7e2b6391852b41eba1acb9bf5f999fe2b143130886e2cc26b8ebbffe2e9779b80"
+}

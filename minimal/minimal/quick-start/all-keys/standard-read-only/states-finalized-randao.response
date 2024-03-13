@@ -1,0 +1,12 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 134
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": {
+    "randao": "0x4242424242424242424242424242424242424242424242424242424242424242"
+  },
+  "execution_optimistic": false,
+  "finalized": true
+}

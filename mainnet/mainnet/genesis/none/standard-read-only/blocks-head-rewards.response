@@ -1,0 +1,17 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 179
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": {
+    "proposer_index": "0",
+    "total": "0",
+    "attestations": "0",
+    "sync_aggregate": "0",
+    "proposer_slashings": "0",
+    "attester_slashings": "0"
+  },
+  "execution_optimistic": false,
+  "finalized": true
+}

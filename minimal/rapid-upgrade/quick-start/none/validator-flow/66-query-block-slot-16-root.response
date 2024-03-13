@@ -1,0 +1,12 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 133
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": {
+    "root": "0xd4970c236c67a4fd0fa72b22c622bca4d9f333c1acaa06d7f492886dc7853d17"
+  },
+  "execution_optimistic": false,
+  "finalized": false
+}

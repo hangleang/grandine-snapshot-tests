@@ -1,0 +1,11 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 215
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "block_root": "0xee4fa02e30108df0cd31b81627fe04d15f3c47f698b494f6b6c2b2a88b899e39",
+  "finalized_block_root": "0x380f190bda6fef6e7b358c58c7361bb8601b707b883a7b33a0626dd0e7c2468c",
+  "finalized_slot": 7834176,
+  "slot": 7834240
+}

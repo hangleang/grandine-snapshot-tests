@@ -1,0 +1,91 @@
+HTTP/1.0 200 OK
+content-type: application/json
+eth-consensus-version: capella
+content-length: 3700
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": {
+    "message": {
+      "slot": "24",
+      "proposer_index": "53",
+      "parent_root": "0xa7c6511edac6be30f80fdb19b1aa59d75d512b9e203b384522e6aea23160a7ce",
+      "state_root": "0x8c94c7856bdb22ebcaa032dc7e56eb61bcc75522573e6e3166b957670a6e4c29",
+      "body": {
+        "randao_reveal": "0x8a1cdc53822e64549911bc2c310f8b5c7d2a11a62c44d503f9e10e98dc72bd605b58763d68a4711b1c3bcf8f7298bd8d010d0b9123a435ea9cc5a84e680e0a8b0f9ec93c9a029d994459f09846ccf7f404c605453bb926f2cbfb7fc25edd1db3",
+        "eth1_data": {
+          "deposit_root": "0x6141b76179b67d7849f34a22d0e529729fb274bbe81374c41623373b649cc63b",
+          "deposit_count": "64",
+          "block_hash": "0x4242424242424242424242424242424242424242424242424242424242424242"
+        },
+        "graffiti": "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "proposer_slashings": [],
+        "attester_slashings": [],
+        "attestations": [
+          {
+            "aggregation_bits": "0x1f",
+            "data": {
+              "slot": "23",
+              "index": "0",
+              "beacon_block_root": "0xa7c6511edac6be30f80fdb19b1aa59d75d512b9e203b384522e6aea23160a7ce",
+              "source": {
+                "epoch": "0",
+                "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+              },
+              "target": {
+                "epoch": "2",
+                "root": "0x9fa3d0e076d689702eac218dc6e29002e1d209b4dcba6cebdba452704896b702"
+              }
+            },
+            "signature": "0xb4f8b662a433213257845498e3ffce92f8a02e398fded6da5b5383e260a46bd9e15829923d548b55a97ac787783a72530c3258f5ce31cc897920caac435838a5a6191fe631d30789a661f2bc30a8ed3c5b4b7f776c1e80fc8c302ba33b38a086"
+          },
+          {
+            "aggregation_bits": "0x1f",
+            "data": {
+              "slot": "23",
+              "index": "1",
+              "beacon_block_root": "0xa7c6511edac6be30f80fdb19b1aa59d75d512b9e203b384522e6aea23160a7ce",
+              "source": {
+                "epoch": "0",
+                "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+              },
+              "target": {
+                "epoch": "2",
+                "root": "0x9fa3d0e076d689702eac218dc6e29002e1d209b4dcba6cebdba452704896b702"
+              }
+            },
+            "signature": "0xb8fda53eb63f90fba6726497533570bad4bc80f5002cad7784ecb1e703ea725730ff194c042b3ad26a463ecd07c1f1b0115362384bd4699525417905a9b43b3787344092057cba98ea0dc341b68437a3b358cf1d4888acb186daf0f32429d5ad"
+          }
+        ],
+        "deposits": [],
+        "voluntary_exits": [],
+        "sync_aggregate": {
+          "sync_committee_bits": "0xffffffff",
+          "sync_committee_signature": "0xa2ddc6c5bf6e86d08c3360d57714b6d553254e5675951ab1c24d31ed778af3a5feacb62868bafaef0b9547a70d87816507b3895118ce8e1c723f25175163ef66be3c0de0a687047267a4a50d22eaa747be72620fbdbb2d3e2ecb6259522fa192"
+        },
+        "execution_payload": {
+          "parent_hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "fee_recipient": "0x0000000000000000000000000000000000000000",
+          "state_root": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "receipts_root": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "logs_bloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+          "prev_randao": "0x1b78f014a3f2d0dad19adaab2a330978ac43c91601aefa8975965b23896e5f71",
+          "block_number": "0",
+          "gas_limit": "0",
+          "gas_used": "0",
+          "timestamp": "1578009744",
+          "extra_data": "0x",
+          "base_fee_per_gas": "0",
+          "block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+          "transactions": [],
+          "withdrawals": []
+        },
+        "bls_to_execution_changes": []
+      }
+    },
+    "signature": "0x86c71547645f2f65738c1f9f52f04e3e85bbaeba413fee5a99318eedc120bbbd89dd71cd3443d56090af1e894812473b0fa7bf825f96343512bbbe9a8347bfeb332a04d3363e76d52f204602a2b0cbd9aa434ba2baa8e398f276f8d140448617"
+  },
+  "version": "capella",
+  "execution_optimistic": true,
+  "finalized": false
+}

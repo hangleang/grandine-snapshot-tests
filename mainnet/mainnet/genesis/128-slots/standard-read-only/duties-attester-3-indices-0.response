@@ -1,0 +1,20 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 377
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": [
+    {
+      "committee_index": "4",
+      "committee_length": "132",
+      "committees_at_slot": "5",
+      "pubkey": "0x933ad9491b62059dd065b560d256d8957a8c402cc6e8d8ee7290ae11e8f7329267a8811c397529dac52ae1342ba58c95",
+      "slot": "110",
+      "validator_committee_index": "78",
+      "validator_index": "0"
+    }
+  ],
+  "dependent_root": "0xace2240dfe1fd056fba17e84e617578c5ec2dd96f6190009b32116dc7b9aae67",
+  "execution_optimistic": false
+}

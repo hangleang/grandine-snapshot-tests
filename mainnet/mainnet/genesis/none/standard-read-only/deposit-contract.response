@@ -1,0 +1,11 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 80
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": {
+    "address": "0x00000000219ab540356cbb839cbe05303d7705fa",
+    "chain_id": "1"
+  }
+}

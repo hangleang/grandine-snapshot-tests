@@ -1,0 +1,171 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 1022
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": [
+    {
+      "index": "0",
+      "slot": "16",
+      "validators": [
+        "46",
+        "50",
+        "57",
+        "47"
+      ]
+    },
+    {
+      "index": "1",
+      "slot": "16",
+      "validators": [
+        "44",
+        "34",
+        "27",
+        "14"
+      ]
+    },
+    {
+      "index": "0",
+      "slot": "17",
+      "validators": [
+        "59",
+        "33",
+        "62",
+        "25"
+      ]
+    },
+    {
+      "index": "1",
+      "slot": "17",
+      "validators": [
+        "38",
+        "10",
+        "23",
+        "5"
+      ]
+    },
+    {
+      "index": "0",
+      "slot": "18",
+      "validators": [
+        "4",
+        "3",
+        "8",
+        "49"
+      ]
+    },
+    {
+      "index": "1",
+      "slot": "18",
+      "validators": [
+        "7",
+        "21",
+        "51",
+        "17"
+      ]
+    },
+    {
+      "index": "0",
+      "slot": "19",
+      "validators": [
+        "22",
+        "1",
+        "40",
+        "63"
+      ]
+    },
+    {
+      "index": "1",
+      "slot": "19",
+      "validators": [
+        "31",
+        "61",
+        "41",
+        "12"
+      ]
+    },
+    {
+      "index": "0",
+      "slot": "20",
+      "validators": [
+        "52",
+        "39",
+        "19",
+        "16"
+      ]
+    },
+    {
+      "index": "1",
+      "slot": "20",
+      "validators": [
+        "15",
+        "28",
+        "18",
+        "29"
+      ]
+    },
+    {
+      "index": "0",
+      "slot": "21",
+      "validators": [
+        "55",
+        "0",
+        "6",
+        "2"
+      ]
+    },
+    {
+      "index": "1",
+      "slot": "21",
+      "validators": [
+        "35",
+        "37",
+        "32",
+        "60"
+      ]
+    },
+    {
+      "index": "0",
+      "slot": "22",
+      "validators": [
+        "20",
+        "48",
+        "11",
+        "54"
+      ]
+    },
+    {
+      "index": "1",
+      "slot": "22",
+      "validators": [
+        "24",
+        "30",
+        "26",
+        "9"
+      ]
+    },
+    {
+      "index": "0",
+      "slot": "23",
+      "validators": [
+        "43",
+        "58",
+        "36",
+        "45"
+      ]
+    },
+    {
+      "index": "1",
+      "slot": "23",
+      "validators": [
+        "56",
+        "53",
+        "42",
+        "13"
+      ]
+    }
+  ],
+  "execution_optimistic": false,
+  "finalized": true
+}

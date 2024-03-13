@@ -1,0 +1,23 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 196
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": [
+    {
+      "validator_index": "214135",
+      "reward": "11744"
+    },
+    {
+      "validator_index": "214135",
+      "reward": "11744"
+    },
+    {
+      "validator_index": "116711",
+      "reward": "-11744"
+    }
+  ],
+  "execution_optimistic": false,
+  "finalized": false
+}

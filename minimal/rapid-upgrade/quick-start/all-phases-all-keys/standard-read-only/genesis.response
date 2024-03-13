@@ -1,0 +1,12 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 169
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": {
+    "genesis_time": "1578009600",
+    "genesis_validators_root": "0x83431ec7fcf92cfc44947fc0418e831c25e1d0806590231c439830db7ad54fda",
+    "genesis_fork_version": "0x00000001"
+  }
+}

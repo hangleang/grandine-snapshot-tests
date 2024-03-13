@@ -1,0 +1,14 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 370
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": {
+    "slot": "8",
+    "beacon_block_root": "0xc453832ca3457596f57b86955aa10726c76a0d92aeb8d9f184e18bf3bc167432",
+    "subcommittee_index": "3",
+    "aggregation_bits": "0xff",
+    "signature": "0xa4bcd01963aefd94f9d5d543a9095bb13988a3b5f198a2c62e9b74731b6c7540de484302b95f4f807722209402cacced12e2110c79174885afb8810ae47213fe2f7d45f048cace1e10282c6bef1a14a9650e2dc3fcd0ef4a41a4ba8dd270802f"
+  }
+}

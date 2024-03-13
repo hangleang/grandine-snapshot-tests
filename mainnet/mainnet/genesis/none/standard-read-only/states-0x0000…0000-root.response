@@ -1,0 +1,9 @@
+HTTP/1.0 404 Not Found
+content-type: application/json
+content-length: 40
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "code": 404,
+  "message": "state not found"
+}

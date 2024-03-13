@@ -1,0 +1,81 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 786
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "api_to_p2p": [],
+  "fc_to_p2p": [
+    {
+      "Slot": 24
+    }
+  ],
+  "fc_to_sync": [],
+  "pool_to_p2p": [],
+  "subnet_service_to_p2p": [
+    {
+      "UpdateAttestationSubnets": {
+        "0": {
+          "Subscribe": {
+            "advertise": false
+          }
+        },
+        "1": {
+          "Subscribe": {
+            "advertise": false
+          }
+        },
+        "10": {
+          "Unsubscribe": {
+            "discover_peers": false
+          }
+        },
+        "11": {
+          "Unsubscribe": {
+            "discover_peers": false
+          }
+        },
+        "12": {
+          "Unsubscribe": {
+            "discover_peers": false
+          }
+        },
+        "13": {
+          "Unsubscribe": {
+            "discover_peers": false
+          }
+        },
+        "14": {
+          "Unsubscribe": {
+            "discover_peers": false
+          }
+        },
+        "15": {
+          "Unsubscribe": {
+            "discover_peers": false
+          }
+        },
+        "62": "DiscoverPeers",
+        "63": "DiscoverPeers"
+      }
+    },
+    {
+      "UpdateSyncCommitteeSubnets": {
+        "0": "DiscoverPeers",
+        "1": "DiscoverPeers",
+        "2": "DiscoverPeers",
+        "3": "DiscoverPeers"
+      }
+    },
+    {
+      "UpdateAttestationSubnets": {
+        "0": "DiscoverPeers",
+        "1": "DiscoverPeers",
+        "62": "DiscoverPeers",
+        "63": "DiscoverPeers"
+      }
+    }
+  ],
+  "validator_to_p2p": [],
+  "debug": []
+}

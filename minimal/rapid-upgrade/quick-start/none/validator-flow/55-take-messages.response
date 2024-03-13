@@ -1,0 +1,53 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 501
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "api_to_p2p": [],
+  "fc_to_p2p": [
+    {
+      "Slot": 16
+    }
+  ],
+  "fc_to_sync": [],
+  "pool_to_p2p": [],
+  "subnet_service_to_p2p": [
+    {
+      "UpdateAttestationSubnets": {
+        "0": {
+          "Unsubscribe": {
+            "discover_peers": false
+          }
+        },
+        "1": {
+          "Unsubscribe": {
+            "discover_peers": false
+          }
+        },
+        "2": {
+          "Unsubscribe": {
+            "discover_peers": false
+          }
+        },
+        "3": {
+          "Unsubscribe": {
+            "discover_peers": false
+          }
+        },
+        "62": "DiscoverPeers",
+        "63": "DiscoverPeers"
+      }
+    },
+    {
+      "UpdateSyncCommitteeSubnets": {
+        "0": "DiscoverPeers",
+        "1": "DiscoverPeers",
+        "2": "DiscoverPeers",
+        "3": "DiscoverPeers"
+      }
+    }
+  ],
+  "validator_to_p2p": [],
+  "debug": []
+}

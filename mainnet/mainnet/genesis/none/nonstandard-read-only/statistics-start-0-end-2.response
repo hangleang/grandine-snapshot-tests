@@ -1,0 +1,49 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 1069
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "beacon_state_reports": {
+    "0": {
+      "Phase0": {
+        "post_finalized_epoch": 0,
+        "in_inactivity_leak": false,
+        "statistics": {
+          "previous_epoch_source_attesting_balance": 1000000000,
+          "previous_epoch_target_attesting_balance": 1000000000,
+          "previous_epoch_head_attesting_balance": 1000000000,
+          "current_epoch_active_balance": 674016000000000,
+          "current_epoch_target_attesting_balance": 1000000000
+        }
+      }
+    },
+    "1": {
+      "Phase0": {
+        "post_finalized_epoch": 0,
+        "in_inactivity_leak": false,
+        "statistics": {
+          "previous_epoch_source_attesting_balance": 1000000000,
+          "previous_epoch_target_attesting_balance": 1000000000,
+          "previous_epoch_head_attesting_balance": 1000000000,
+          "current_epoch_active_balance": 674016000000000,
+          "current_epoch_target_attesting_balance": 1000000000
+        }
+      }
+    },
+    "2": {
+      "Phase0": {
+        "post_finalized_epoch": 0,
+        "in_inactivity_leak": false,
+        "statistics": {
+          "previous_epoch_source_attesting_balance": 1000000000,
+          "previous_epoch_target_attesting_balance": 1000000000,
+          "previous_epoch_head_attesting_balance": 1000000000,
+          "current_epoch_active_balance": 674016000000000,
+          "current_epoch_target_attesting_balance": 1000000000
+        }
+      }
+    }
+  },
+  "validator_reports": {}
+}

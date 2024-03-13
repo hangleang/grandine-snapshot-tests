@@ -1,0 +1,29 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 231
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "api_to_p2p": [],
+  "fc_to_p2p": [],
+  "fc_to_sync": [],
+  "pool_to_p2p": [],
+  "subnet_service_to_p2p": [
+    {
+      "UpdateAttestationSubnets": {
+        "0": {
+          "Subscribe": {
+            "advertise": false
+          }
+        },
+        "1": {
+          "Subscribe": {
+            "advertise": false
+          }
+        }
+      }
+    }
+  ],
+  "validator_to_p2p": [],
+  "debug": []
+}

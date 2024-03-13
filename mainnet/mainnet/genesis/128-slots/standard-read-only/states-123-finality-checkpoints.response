@@ -1,0 +1,23 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 380
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": {
+    "previous_justified": {
+      "epoch": "0",
+      "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+    },
+    "current_justified": {
+      "epoch": "2",
+      "root": "0xace2240dfe1fd056fba17e84e617578c5ec2dd96f6190009b32116dc7b9aae67"
+    },
+    "finalized": {
+      "epoch": "0",
+      "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  },
+  "execution_optimistic": false,
+  "finalized": false
+}

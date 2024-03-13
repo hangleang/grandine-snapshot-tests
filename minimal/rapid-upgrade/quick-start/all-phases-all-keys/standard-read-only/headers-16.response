@@ -1,0 +1,23 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 660
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": {
+    "root": "0x9fa3d0e076d689702eac218dc6e29002e1d209b4dcba6cebdba452704896b702",
+    "canonical": true,
+    "header": {
+      "message": {
+        "slot": "16",
+        "proposer_index": "8",
+        "parent_root": "0xd0f267c937d4b635cc43000aba6377406e0557d2c24b7dddc82b55ea4df7e6f3",
+        "state_root": "0x3328f5b703182123ed94b36ee5ab80411b12a514b1c61195072131f4bdb1d1aa",
+        "body_root": "0x5782b5506a2cd4e1b3f33469c61b5c9d43ff3f1a9bab34198fca3d8a4e31e1a4"
+      },
+      "signature": "0x8ba652eb1c614c68fc7e1ded445f316212b6efeb6a94340a23fb78bb245e498e8a12cf2fbe7269447669f94a2a5d756e032b0ec5ae366c0ed729c186c887a195c7541c40e8884b09274d783ca7dde2053d242fce7ea4396e2684095a499066bf"
+    }
+  },
+  "execution_optimistic": false,
+  "finalized": true
+}

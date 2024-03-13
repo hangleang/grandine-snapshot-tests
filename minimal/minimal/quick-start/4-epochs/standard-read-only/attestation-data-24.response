@@ -1,0 +1,20 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 321
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": {
+    "slot": "24",
+    "index": "0",
+    "beacon_block_root": "0x117d9b6873f99691efce2f99a88728f0ebfa208a0d5d6262ad6fcd8c572f2dc0",
+    "source": {
+      "epoch": "2",
+      "root": "0x4e54d7d4a1d434cf282d5613d9eddb2bf3261658acff89451b195919cec35765"
+    },
+    "target": {
+      "epoch": "3",
+      "root": "0x117d9b6873f99691efce2f99a88728f0ebfa208a0d5d6262ad6fcd8c572f2dc0"
+    }
+  }
+}

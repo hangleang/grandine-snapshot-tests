@@ -1,0 +1,5 @@
+POST /eth/v1/validator/duties/attester/5 HTTP/1.0
+Content-Type: application/json
+Content-Length: 5
+
+["0"]

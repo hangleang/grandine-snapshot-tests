@@ -1,0 +1,823 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 17393
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "beacon_state_reports": {
+    "0": {
+      "Phase0": {
+        "post_finalized_epoch": 0,
+        "in_inactivity_leak": false,
+        "statistics": {
+          "previous_epoch_source_attesting_balance": 1000000000,
+          "previous_epoch_target_attesting_balance": 1000000000,
+          "previous_epoch_head_attesting_balance": 1000000000,
+          "current_epoch_active_balance": 674016000000000,
+          "current_epoch_target_attesting_balance": 554528000000000
+        }
+      }
+    },
+    "1": {
+      "Phase0": {
+        "post_finalized_epoch": 0,
+        "in_inactivity_leak": false,
+        "statistics": {
+          "previous_epoch_source_attesting_balance": 575008000000000,
+          "previous_epoch_target_attesting_balance": 575008000000000,
+          "previous_epoch_head_attesting_balance": 573056000000000,
+          "current_epoch_active_balance": 674016000000000,
+          "current_epoch_target_attesting_balance": 573760000000000
+        }
+      }
+    },
+    "2": {
+      "Phase0": {
+        "post_finalized_epoch": 0,
+        "in_inactivity_leak": false,
+        "statistics": {
+          "previous_epoch_source_attesting_balance": 593216000000000,
+          "previous_epoch_target_attesting_balance": 592992000000000,
+          "previous_epoch_head_attesting_balance": 591744000000000,
+          "current_epoch_active_balance": 674016000000000,
+          "current_epoch_target_attesting_balance": 571136000000000
+        }
+      }
+    },
+    "3": {
+      "Phase0": {
+        "post_finalized_epoch": 2,
+        "in_inactivity_leak": false,
+        "statistics": {
+          "previous_epoch_source_attesting_balance": 590080000000000,
+          "previous_epoch_target_attesting_balance": 589984000000000,
+          "previous_epoch_head_attesting_balance": 588160000000000,
+          "current_epoch_active_balance": 674016000000000,
+          "current_epoch_target_attesting_balance": 572832000000000
+        }
+      }
+    }
+  },
+  "validator_reports": {
+    "0x8e323fd501233cd4d1b9d63d74076a38de50f2f584b001a5ac2412e4e46adb26d2fb2a6041e7e8c57cd4df0916729219": {
+      "validator_index": 3,
+      "active_epochs": 4,
+      "source_matches": 3,
+      "target_matches": 3,
+      "head_matches": 3,
+      "inclusion_delay_sum": 3,
+      "rewards": 205937,
+      "penalties": 0,
+      "epoch_reports": {
+        "0": {
+          "Phase0": {
+            "summary": {
+              "effective_balance": 32000000000,
+              "slashed": false,
+              "withdrawable_epoch": 18446744073709551615,
+              "eligible_for_penalties": true
+            },
+            "performance": {
+              "previous_epoch_source": null,
+              "previous_epoch_target": null,
+              "previous_epoch_head": null,
+              "previous_epoch_fastest_inclusion": null,
+              "current_epoch_matching_target": true
+            },
+            "epoch_deltas": {
+              "source_reward": 0,
+              "source_penalty": 0,
+              "target_reward": 0,
+              "target_penalty": 0,
+              "head_reward": 0,
+              "head_penalty": 0,
+              "proposer_reward": 0,
+              "inclusion_delay_reward": 0,
+              "canceling_penalty": 0,
+              "inactivity_penalty": 0
+            },
+            "slashing_penalty": null,
+            "post_balance": 32000000000,
+            "previous_epoch_proposals": {},
+            "previous_epoch_attestation_assignment": null,
+            "previous_epoch_slot_deltas": {}
+          }
+        },
+        "1": {
+          "Phase0": {
+            "summary": {
+              "effective_balance": 32000000000,
+              "slashed": false,
+              "withdrawable_epoch": 18446744073709551615,
+              "eligible_for_penalties": true
+            },
+            "performance": {
+              "previous_epoch_source": "0x0000000000000000000000000000000000000000000000000000000000000000",
+              "previous_epoch_target": {
+                "Match": {
+                  "root": "0x4d611d5b93fdab69013a7f0a2f961caca0c853f87cfe9595fe50038163079360"
+                }
+              },
+              "previous_epoch_head": {
+                "Match": {
+                  "root": "0x8425c842669d35758baedd7295ebe289eaccb8a67f084d408f8040c654be934d"
+                }
+              },
+              "previous_epoch_fastest_inclusion": {
+                "delay": 1,
+                "proposer_index": 8296
+              },
+              "current_epoch_matching_target": true
+            },
+            "epoch_deltas": {
+              "source_reward": 16824,
+              "source_penalty": 0,
+              "target_reward": 16824,
+              "target_penalty": 0,
+              "head_reward": 16767,
+              "head_penalty": 0,
+              "proposer_reward": 0,
+              "inclusion_delay_reward": 17256,
+              "canceling_penalty": 0,
+              "inactivity_penalty": 0
+            },
+            "slashing_penalty": null,
+            "post_balance": 32000067671,
+            "previous_epoch_proposals": {},
+            "previous_epoch_attestation_assignment": {
+              "slot": 8,
+              "committee_index": 0
+            },
+            "previous_epoch_slot_deltas": {}
+          }
+        },
+        "2": {
+          "Phase0": {
+            "summary": {
+              "effective_balance": 32000000000,
+              "slashed": false,
+              "withdrawable_epoch": 18446744073709551615,
+              "eligible_for_penalties": true
+            },
+            "performance": {
+              "previous_epoch_source": "0x0000000000000000000000000000000000000000000000000000000000000000",
+              "previous_epoch_target": {
+                "Match": {
+                  "root": "0x03dfea04ec332d814a75c768d53196ad3f2b938a6b3927062b35c7a15810c1a1"
+                }
+              },
+              "previous_epoch_head": {
+                "Match": {
+                  "root": "0x18c4e3ead79af2f8720ce8f7019d6e13d1fe5dac65c2399b0deb89069f723b7d"
+                }
+              },
+              "previous_epoch_fastest_inclusion": {
+                "delay": 1,
+                "proposer_index": 4481
+              },
+              "current_epoch_matching_target": true
+            },
+            "epoch_deltas": {
+              "source_reward": 17356,
+              "source_penalty": 0,
+              "target_reward": 17350,
+              "target_penalty": 0,
+              "head_reward": 17313,
+              "head_penalty": 0,
+              "proposer_reward": 0,
+              "inclusion_delay_reward": 17256,
+              "canceling_penalty": 0,
+              "inactivity_penalty": 0
+            },
+            "slashing_penalty": null,
+            "post_balance": 32000136946,
+            "previous_epoch_proposals": {},
+            "previous_epoch_attestation_assignment": {
+              "slot": 40,
+              "committee_index": 2
+            },
+            "previous_epoch_slot_deltas": {}
+          }
+        },
+        "3": {
+          "Phase0": {
+            "summary": {
+              "effective_balance": 32000000000,
+              "slashed": false,
+              "withdrawable_epoch": 18446744073709551615,
+              "eligible_for_penalties": true
+            },
+            "performance": {
+              "previous_epoch_source": "0x0000000000000000000000000000000000000000000000000000000000000000",
+              "previous_epoch_target": {
+                "Match": {
+                  "root": "0xace2240dfe1fd056fba17e84e617578c5ec2dd96f6190009b32116dc7b9aae67"
+                }
+              },
+              "previous_epoch_head": {
+                "Match": {
+                  "root": "0x75f8e938f0c7450244992d40aa5f563662f8a6ff405ee1d3493d119f6f51d74f"
+                }
+              },
+              "previous_epoch_fastest_inclusion": {
+                "delay": 1,
+                "proposer_index": 20581
+              },
+              "current_epoch_matching_target": true
+            },
+            "epoch_deltas": {
+              "source_reward": 17265,
+              "source_penalty": 0,
+              "target_reward": 17262,
+              "target_penalty": 0,
+              "head_reward": 17208,
+              "head_penalty": 0,
+              "proposer_reward": 0,
+              "inclusion_delay_reward": 17256,
+              "canceling_penalty": 0,
+              "inactivity_penalty": 0
+            },
+            "slashing_penalty": null,
+            "post_balance": 32000205937,
+            "previous_epoch_proposals": {},
+            "previous_epoch_attestation_assignment": {
+              "slot": 76,
+              "committee_index": 2
+            },
+            "previous_epoch_slot_deltas": {}
+          }
+        }
+      }
+    },
+    "0x933ad9491b62059dd065b560d256d8957a8c402cc6e8d8ee7290ae11e8f7329267a8811c397529dac52ae1342ba58c95": {
+      "validator_index": 0,
+      "active_epochs": 4,
+      "source_matches": 3,
+      "target_matches": 3,
+      "head_matches": 3,
+      "inclusion_delay_sum": 4,
+      "rewards": 197309,
+      "penalties": 0,
+      "epoch_reports": {
+        "0": {
+          "Phase0": {
+            "summary": {
+              "effective_balance": 32000000000,
+              "slashed": false,
+              "withdrawable_epoch": 18446744073709551615,
+              "eligible_for_penalties": true
+            },
+            "performance": {
+              "previous_epoch_source": null,
+              "previous_epoch_target": null,
+              "previous_epoch_head": null,
+              "previous_epoch_fastest_inclusion": null,
+              "current_epoch_matching_target": true
+            },
+            "epoch_deltas": {
+              "source_reward": 0,
+              "source_penalty": 0,
+              "target_reward": 0,
+              "target_penalty": 0,
+              "head_reward": 0,
+              "head_penalty": 0,
+              "proposer_reward": 0,
+              "inclusion_delay_reward": 0,
+              "canceling_penalty": 0,
+              "inactivity_penalty": 0
+            },
+            "slashing_penalty": null,
+            "post_balance": 32000000000,
+            "previous_epoch_proposals": {},
+            "previous_epoch_attestation_assignment": null,
+            "previous_epoch_slot_deltas": {}
+          }
+        },
+        "1": {
+          "Phase0": {
+            "summary": {
+              "effective_balance": 32000000000,
+              "slashed": false,
+              "withdrawable_epoch": 18446744073709551615,
+              "eligible_for_penalties": true
+            },
+            "performance": {
+              "previous_epoch_source": "0x0000000000000000000000000000000000000000000000000000000000000000",
+              "previous_epoch_target": {
+                "Match": {
+                  "root": "0x4d611d5b93fdab69013a7f0a2f961caca0c853f87cfe9595fe50038163079360"
+                }
+              },
+              "previous_epoch_head": {
+                "Match": {
+                  "root": "0xce8705f118066636e1e8fc089cce898eb85bea31abee4728582eb2f280d29d6b"
+                }
+              },
+              "previous_epoch_fastest_inclusion": {
+                "delay": 2,
+                "proposer_index": 3997
+              },
+              "current_epoch_matching_target": true
+            },
+            "epoch_deltas": {
+              "source_reward": 16824,
+              "source_penalty": 0,
+              "target_reward": 16824,
+              "target_penalty": 0,
+              "head_reward": 16767,
+              "head_penalty": 0,
+              "proposer_reward": 0,
+              "inclusion_delay_reward": 8628,
+              "canceling_penalty": 0,
+              "inactivity_penalty": 0
+            },
+            "slashing_penalty": null,
+            "post_balance": 32000059043,
+            "previous_epoch_proposals": {},
+            "previous_epoch_attestation_assignment": {
+              "slot": 15,
+              "committee_index": 4
+            },
+            "previous_epoch_slot_deltas": {}
+          }
+        },
+        "2": {
+          "Phase0": {
+            "summary": {
+              "effective_balance": 32000000000,
+              "slashed": false,
+              "withdrawable_epoch": 18446744073709551615,
+              "eligible_for_penalties": true
+            },
+            "performance": {
+              "previous_epoch_source": "0x0000000000000000000000000000000000000000000000000000000000000000",
+              "previous_epoch_target": {
+                "Match": {
+                  "root": "0x03dfea04ec332d814a75c768d53196ad3f2b938a6b3927062b35c7a15810c1a1"
+                }
+              },
+              "previous_epoch_head": {
+                "Match": {
+                  "root": "0xee25f50146e3c263ccdfa1e11afbe82e0855e57011c48db815577c8151bf0dab"
+                }
+              },
+              "previous_epoch_fastest_inclusion": {
+                "delay": 1,
+                "proposer_index": 1394
+              },
+              "current_epoch_matching_target": true
+            },
+            "epoch_deltas": {
+              "source_reward": 17356,
+              "source_penalty": 0,
+              "target_reward": 17350,
+              "target_penalty": 0,
+              "head_reward": 17313,
+              "head_penalty": 0,
+              "proposer_reward": 0,
+              "inclusion_delay_reward": 17256,
+              "canceling_penalty": 0,
+              "inactivity_penalty": 0
+            },
+            "slashing_penalty": null,
+            "post_balance": 32000128318,
+            "previous_epoch_proposals": {},
+            "previous_epoch_attestation_assignment": {
+              "slot": 52,
+              "committee_index": 3
+            },
+            "previous_epoch_slot_deltas": {}
+          }
+        },
+        "3": {
+          "Phase0": {
+            "summary": {
+              "effective_balance": 32000000000,
+              "slashed": false,
+              "withdrawable_epoch": 18446744073709551615,
+              "eligible_for_penalties": true
+            },
+            "performance": {
+              "previous_epoch_source": "0x0000000000000000000000000000000000000000000000000000000000000000",
+              "previous_epoch_target": {
+                "Match": {
+                  "root": "0xace2240dfe1fd056fba17e84e617578c5ec2dd96f6190009b32116dc7b9aae67"
+                }
+              },
+              "previous_epoch_head": {
+                "Match": {
+                  "root": "0x75f8e938f0c7450244992d40aa5f563662f8a6ff405ee1d3493d119f6f51d74f"
+                }
+              },
+              "previous_epoch_fastest_inclusion": {
+                "delay": 1,
+                "proposer_index": 20581
+              },
+              "current_epoch_matching_target": true
+            },
+            "epoch_deltas": {
+              "source_reward": 17265,
+              "source_penalty": 0,
+              "target_reward": 17262,
+              "target_penalty": 0,
+              "head_reward": 17208,
+              "head_penalty": 0,
+              "proposer_reward": 0,
+              "inclusion_delay_reward": 17256,
+              "canceling_penalty": 0,
+              "inactivity_penalty": 0
+            },
+            "slashing_penalty": null,
+            "post_balance": 32000197309,
+            "previous_epoch_proposals": {},
+            "previous_epoch_attestation_assignment": {
+              "slot": 76,
+              "committee_index": 3
+            },
+            "previous_epoch_slot_deltas": {}
+          }
+        }
+      }
+    },
+    "0xa1d1ad0714035353258038e964ae9675dc0252ee22cea896825c01458e1807bfad2f9969338798548d9858a571f7425c": {
+      "validator_index": 1,
+      "active_epochs": 4,
+      "source_matches": 3,
+      "target_matches": 3,
+      "head_matches": 3,
+      "inclusion_delay_sum": 3,
+      "rewards": 205937,
+      "penalties": 0,
+      "epoch_reports": {
+        "0": {
+          "Phase0": {
+            "summary": {
+              "effective_balance": 32000000000,
+              "slashed": false,
+              "withdrawable_epoch": 18446744073709551615,
+              "eligible_for_penalties": true
+            },
+            "performance": {
+              "previous_epoch_source": null,
+              "previous_epoch_target": null,
+              "previous_epoch_head": null,
+              "previous_epoch_fastest_inclusion": null,
+              "current_epoch_matching_target": true
+            },
+            "epoch_deltas": {
+              "source_reward": 0,
+              "source_penalty": 0,
+              "target_reward": 0,
+              "target_penalty": 0,
+              "head_reward": 0,
+              "head_penalty": 0,
+              "proposer_reward": 0,
+              "inclusion_delay_reward": 0,
+              "canceling_penalty": 0,
+              "inactivity_penalty": 0
+            },
+            "slashing_penalty": null,
+            "post_balance": 32000000000,
+            "previous_epoch_proposals": {},
+            "previous_epoch_attestation_assignment": null,
+            "previous_epoch_slot_deltas": {}
+          }
+        },
+        "1": {
+          "Phase0": {
+            "summary": {
+              "effective_balance": 32000000000,
+              "slashed": false,
+              "withdrawable_epoch": 18446744073709551615,
+              "eligible_for_penalties": true
+            },
+            "performance": {
+              "previous_epoch_source": "0x0000000000000000000000000000000000000000000000000000000000000000",
+              "previous_epoch_target": {
+                "Match": {
+                  "root": "0x4d611d5b93fdab69013a7f0a2f961caca0c853f87cfe9595fe50038163079360"
+                }
+              },
+              "previous_epoch_head": {
+                "Match": {
+                  "root": "0xfc3f17476c9439ff306213b98dba18c8933671fc5275c2a4f1eb30c47b73e8ba"
+                }
+              },
+              "previous_epoch_fastest_inclusion": {
+                "delay": 1,
+                "proposer_index": 7429
+              },
+              "current_epoch_matching_target": true
+            },
+            "epoch_deltas": {
+              "source_reward": 16824,
+              "source_penalty": 0,
+              "target_reward": 16824,
+              "target_penalty": 0,
+              "head_reward": 16767,
+              "head_penalty": 0,
+              "proposer_reward": 0,
+              "inclusion_delay_reward": 17256,
+              "canceling_penalty": 0,
+              "inactivity_penalty": 0
+            },
+            "slashing_penalty": null,
+            "post_balance": 32000067671,
+            "previous_epoch_proposals": {},
+            "previous_epoch_attestation_assignment": {
+              "slot": 19,
+              "committee_index": 1
+            },
+            "previous_epoch_slot_deltas": {}
+          }
+        },
+        "2": {
+          "Phase0": {
+            "summary": {
+              "effective_balance": 32000000000,
+              "slashed": false,
+              "withdrawable_epoch": 18446744073709551615,
+              "eligible_for_penalties": true
+            },
+            "performance": {
+              "previous_epoch_source": "0x0000000000000000000000000000000000000000000000000000000000000000",
+              "previous_epoch_target": {
+                "Match": {
+                  "root": "0x03dfea04ec332d814a75c768d53196ad3f2b938a6b3927062b35c7a15810c1a1"
+                }
+              },
+              "previous_epoch_head": {
+                "Match": {
+                  "root": "0x51420b0029776617f8ef57f73d4613277119240143b38d4b331388a04d9afa1c"
+                }
+              },
+              "previous_epoch_fastest_inclusion": {
+                "delay": 1,
+                "proposer_index": 12242
+              },
+              "current_epoch_matching_target": true
+            },
+            "epoch_deltas": {
+              "source_reward": 17356,
+              "source_penalty": 0,
+              "target_reward": 17350,
+              "target_penalty": 0,
+              "head_reward": 17313,
+              "head_penalty": 0,
+              "proposer_reward": 0,
+              "inclusion_delay_reward": 17256,
+              "canceling_penalty": 0,
+              "inactivity_penalty": 0
+            },
+            "slashing_penalty": null,
+            "post_balance": 32000136946,
+            "previous_epoch_proposals": {},
+            "previous_epoch_attestation_assignment": {
+              "slot": 62,
+              "committee_index": 2
+            },
+            "previous_epoch_slot_deltas": {}
+          }
+        },
+        "3": {
+          "Phase0": {
+            "summary": {
+              "effective_balance": 32000000000,
+              "slashed": false,
+              "withdrawable_epoch": 18446744073709551615,
+              "eligible_for_penalties": true
+            },
+            "performance": {
+              "previous_epoch_source": "0x0000000000000000000000000000000000000000000000000000000000000000",
+              "previous_epoch_target": {
+                "Match": {
+                  "root": "0xace2240dfe1fd056fba17e84e617578c5ec2dd96f6190009b32116dc7b9aae67"
+                }
+              },
+              "previous_epoch_head": {
+                "Match": {
+                  "root": "0x83f33761d3ae7c22580fe20c230baaf46b69a5bc406e377872ca96189742d4d2"
+                }
+              },
+              "previous_epoch_fastest_inclusion": {
+                "delay": 1,
+                "proposer_index": 20711
+              },
+              "current_epoch_matching_target": true
+            },
+            "epoch_deltas": {
+              "source_reward": 17265,
+              "source_penalty": 0,
+              "target_reward": 17262,
+              "target_penalty": 0,
+              "head_reward": 17208,
+              "head_penalty": 0,
+              "proposer_reward": 0,
+              "inclusion_delay_reward": 17256,
+              "canceling_penalty": 0,
+              "inactivity_penalty": 0
+            },
+            "slashing_penalty": null,
+            "post_balance": 32000205937,
+            "previous_epoch_proposals": {},
+            "previous_epoch_attestation_assignment": {
+              "slot": 94,
+              "committee_index": 1
+            },
+            "previous_epoch_slot_deltas": {}
+          }
+        }
+      }
+    },
+    "0xb2ff4716ed345b05dd1dfc6a5a9fa70856d8c75dcc9e881dd2f766d5f891326f0d10e96f3a444ce6c912b69c22c6754d": {
+      "validator_index": 2,
+      "active_epochs": 4,
+      "source_matches": 3,
+      "target_matches": 3,
+      "head_matches": 3,
+      "inclusion_delay_sum": 3,
+      "rewards": 205937,
+      "penalties": 0,
+      "epoch_reports": {
+        "0": {
+          "Phase0": {
+            "summary": {
+              "effective_balance": 32000000000,
+              "slashed": false,
+              "withdrawable_epoch": 18446744073709551615,
+              "eligible_for_penalties": true
+            },
+            "performance": {
+              "previous_epoch_source": null,
+              "previous_epoch_target": null,
+              "previous_epoch_head": null,
+              "previous_epoch_fastest_inclusion": null,
+              "current_epoch_matching_target": true
+            },
+            "epoch_deltas": {
+              "source_reward": 0,
+              "source_penalty": 0,
+              "target_reward": 0,
+              "target_penalty": 0,
+              "head_reward": 0,
+              "head_penalty": 0,
+              "proposer_reward": 0,
+              "inclusion_delay_reward": 0,
+              "canceling_penalty": 0,
+              "inactivity_penalty": 0
+            },
+            "slashing_penalty": null,
+            "post_balance": 32000000000,
+            "previous_epoch_proposals": {},
+            "previous_epoch_attestation_assignment": null,
+            "previous_epoch_slot_deltas": {}
+          }
+        },
+        "1": {
+          "Phase0": {
+            "summary": {
+              "effective_balance": 32000000000,
+              "slashed": false,
+              "withdrawable_epoch": 18446744073709551615,
+              "eligible_for_penalties": true
+            },
+            "performance": {
+              "previous_epoch_source": "0x0000000000000000000000000000000000000000000000000000000000000000",
+              "previous_epoch_target": {
+                "Match": {
+                  "root": "0x4d611d5b93fdab69013a7f0a2f961caca0c853f87cfe9595fe50038163079360"
+                }
+              },
+              "previous_epoch_head": {
+                "Match": {
+                  "root": "0x2757f6fd8590925cd000a86a3e543f98a93eae23781783a33e34504729a8ad0c"
+                }
+              },
+              "previous_epoch_fastest_inclusion": {
+                "delay": 1,
+                "proposer_index": 20640
+              },
+              "current_epoch_matching_target": true
+            },
+            "epoch_deltas": {
+              "source_reward": 16824,
+              "source_penalty": 0,
+              "target_reward": 16824,
+              "target_penalty": 0,
+              "head_reward": 16767,
+              "head_penalty": 0,
+              "proposer_reward": 0,
+              "inclusion_delay_reward": 17256,
+              "canceling_penalty": 0,
+              "inactivity_penalty": 0
+            },
+            "slashing_penalty": null,
+            "post_balance": 32000067671,
+            "previous_epoch_proposals": {},
+            "previous_epoch_attestation_assignment": {
+              "slot": 2,
+              "committee_index": 2
+            },
+            "previous_epoch_slot_deltas": {}
+          }
+        },
+        "2": {
+          "Phase0": {
+            "summary": {
+              "effective_balance": 32000000000,
+              "slashed": false,
+              "withdrawable_epoch": 18446744073709551615,
+              "eligible_for_penalties": true
+            },
+            "performance": {
+              "previous_epoch_source": "0x0000000000000000000000000000000000000000000000000000000000000000",
+              "previous_epoch_target": {
+                "Match": {
+                  "root": "0x03dfea04ec332d814a75c768d53196ad3f2b938a6b3927062b35c7a15810c1a1"
+                }
+              },
+              "previous_epoch_head": {
+                "Match": {
+                  "root": "0xe3e31a2b56b80a7fa071d05a24e1f85e56478129cb3d2645eaab1e5001b4d1a1"
+                }
+              },
+              "previous_epoch_fastest_inclusion": {
+                "delay": 1,
+                "proposer_index": 13827
+              },
+              "current_epoch_matching_target": true
+            },
+            "epoch_deltas": {
+              "source_reward": 17356,
+              "source_penalty": 0,
+              "target_reward": 17350,
+              "target_penalty": 0,
+              "head_reward": 17313,
+              "head_penalty": 0,
+              "proposer_reward": 0,
+              "inclusion_delay_reward": 17256,
+              "canceling_penalty": 0,
+              "inactivity_penalty": 0
+            },
+            "slashing_penalty": null,
+            "post_balance": 32000136946,
+            "previous_epoch_proposals": {},
+            "previous_epoch_attestation_assignment": {
+              "slot": 46,
+              "committee_index": 1
+            },
+            "previous_epoch_slot_deltas": {}
+          }
+        },
+        "3": {
+          "Phase0": {
+            "summary": {
+              "effective_balance": 32000000000,
+              "slashed": false,
+              "withdrawable_epoch": 18446744073709551615,
+              "eligible_for_penalties": true
+            },
+            "performance": {
+              "previous_epoch_source": "0x0000000000000000000000000000000000000000000000000000000000000000",
+              "previous_epoch_target": {
+                "Match": {
+                  "root": "0xace2240dfe1fd056fba17e84e617578c5ec2dd96f6190009b32116dc7b9aae67"
+                }
+              },
+              "previous_epoch_head": {
+                "Match": {
+                  "root": "0x83f33761d3ae7c22580fe20c230baaf46b69a5bc406e377872ca96189742d4d2"
+                }
+              },
+              "previous_epoch_fastest_inclusion": {
+                "delay": 1,
+                "proposer_index": 20711
+              },
+              "current_epoch_matching_target": true
+            },
+            "epoch_deltas": {
+              "source_reward": 17265,
+              "source_penalty": 0,
+              "target_reward": 17262,
+              "target_penalty": 0,
+              "head_reward": 17208,
+              "head_penalty": 0,
+              "proposer_reward": 0,
+              "inclusion_delay_reward": 17256,
+              "canceling_penalty": 0,
+              "inactivity_penalty": 0
+            },
+            "slashing_penalty": null,
+            "post_balance": 32000205937,
+            "previous_epoch_proposals": {},
+            "previous_epoch_attestation_assignment": {
+              "slot": 94,
+              "committee_index": 1
+            },
+            "previous_epoch_slot_deltas": {}
+          }
+        }
+      }
+    }
+  }
+}

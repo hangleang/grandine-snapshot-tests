@@ -1,0 +1,62 @@
+POST /eth/v1/beacon/blocks HTTP/1.0
+Content-Type: application/json
+Content-Length: 2797
+
+{
+  "message": {
+    "slot": "1",
+    "proposer_index": "29",
+    "parent_root": "0xc9a3323b6c59a7374e60501768ff4b47e4603a837c9ed42634bb5a6d6be58b6e",
+    "state_root": "0x515dc9a4a0a16f03d4480b24b77ea4bb4c19481618188a5cd7746f64eb031193",
+    "body": {
+      "randao_reveal": "0xa22bdcca992b3eb79d00de3ea3ffed43f087d4d5c1b8840a6d5fbce8c9ef1b1b4207333567880b01806e9978a6240f4d0d30266ad83531657aa89437111873ddc28702144611abc6f58174b63cd770d42acc4d40987361d42a271eba1f21ce2d",
+      "eth1_data": {
+        "deposit_root": "0x6141b76179b67d7849f34a22d0e529729fb274bbe81374c41623373b649cc63b",
+        "deposit_count": "64",
+        "block_hash": "0x4242424242424242424242424242424242424242424242424242424242424242"
+      },
+      "graffiti": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "proposer_slashings": [],
+      "attester_slashings": [],
+      "attestations": [
+        {
+          "aggregation_bits": "0x1f",
+          "data": {
+            "slot": "0",
+            "index": "1",
+            "beacon_block_root": "0xc9a3323b6c59a7374e60501768ff4b47e4603a837c9ed42634bb5a6d6be58b6e",
+            "source": {
+              "epoch": "0",
+              "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "target": {
+              "epoch": "0",
+              "root": "0xc9a3323b6c59a7374e60501768ff4b47e4603a837c9ed42634bb5a6d6be58b6e"
+            }
+          },
+          "signature": "0xb97e525089255e92cbad3885e51199890b785950803297e6030cbd1c28846dc18604ca319ca344b19d1bf14a33511e6410b09fd9cfe671df8f08a6d48f80ed8b40bf916350354aadf336cd7dce870fc738c0cf2f8953ee6227e083067721cfa5"
+        },
+        {
+          "aggregation_bits": "0x1f",
+          "data": {
+            "slot": "0",
+            "index": "0",
+            "beacon_block_root": "0xc9a3323b6c59a7374e60501768ff4b47e4603a837c9ed42634bb5a6d6be58b6e",
+            "source": {
+              "epoch": "0",
+              "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+            },
+            "target": {
+              "epoch": "0",
+              "root": "0xc9a3323b6c59a7374e60501768ff4b47e4603a837c9ed42634bb5a6d6be58b6e"
+            }
+          },
+          "signature": "0xaafe2bb78860ed3ef7c8963f355896157f6b596cc636faa3d33d29d9c1e55711d916cd57e0bb2acc7bda18cf52b5e5140fe95d3c3e957ebdcdc7bb3ba15ba7d5fb123df3d39bc7418a22f884dd9264e816c307a1d9a21ddd389bdbe9d875f097"
+        }
+      ],
+      "deposits": [],
+      "voluntary_exits": []
+    }
+  },
+  "signature": "0xb9b103e9b924203f46a695f4dfb78782c46567b23d0af348ba284433baff420f2a8b37766d2f8b3dfaebbc4411ce4a9002db24f00249e97636933edb2a59292d22a46b52d8f5caa289be74742ed02d08db3b78064babe54ed1e4bfa66fda8d1a"
+}

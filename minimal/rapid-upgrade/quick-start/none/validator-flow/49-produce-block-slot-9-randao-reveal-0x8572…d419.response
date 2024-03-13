@@ -1,0 +1,37 @@
+HTTP/1.0 200 OK
+content-type: application/json
+eth-consensus-version: altair
+eth-execution-payload-blinded: false
+eth-execution-payload-value: 0
+content-length: 1173
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": {
+    "slot": "9",
+    "proposer_index": "16",
+    "parent_root": "0x826a377c54973522a9de60ea5a75af9b1a9880ae246a02a669f1a9b8da7633b7",
+    "state_root": "0xe99feeb0a89e6da061ff9bd923f6107edb1967f26bb9be22668a45332bcbe235",
+    "body": {
+      "randao_reveal": "0x857236e8876b01526d3477650012181ea61b67c528603aef030c448c58b7a84c4dc2e7ac0dc5ebb3e9818ee3bb20419217d10eaaa8bae39d91ff5d0ad1b36a89b23714bb9ff971a9dc79fb114ada08897f8d07e20f217975576e62c29186d419",
+      "eth1_data": {
+        "deposit_root": "0x6141b76179b67d7849f34a22d0e529729fb274bbe81374c41623373b649cc63b",
+        "deposit_count": "64",
+        "block_hash": "0x4242424242424242424242424242424242424242424242424242424242424242"
+      },
+      "graffiti": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "proposer_slashings": [],
+      "attester_slashings": [],
+      "attestations": [],
+      "deposits": [],
+      "voluntary_exits": [],
+      "sync_aggregate": {
+        "sync_committee_bits": "0xffffffff",
+        "sync_committee_signature": "0x9056050052d7a3d3d433c12324de2546718f3dc9f224e6c36363ddf252ecccbad065c960fa5b5508dc5362d447919a7e145c6700999d42ef36acc68d37980029fdf31b7116f651eeb02a4f6cf5a04f067de3e41f88801454ce67b550ebd194a7"
+      }
+    }
+  },
+  "version": "altair",
+  "execution_payload_blinded": false,
+  "execution_payload_value": "0"
+}

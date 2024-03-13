@@ -1,0 +1,5 @@
+POST /eth/v1/beacon/rewards/sync_committee/3078976 HTTP/1.0
+Content-Type: application/json
+Content-Length: 124
+
+["0","214135","214135","0x8ba6968b6f6ead9248a7a882665322d093ba68ab543f184133aaf10ea4370cf13e2992a5230f9b671a1052809c0d93e5"]

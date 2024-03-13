@@ -1,0 +1,35 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 876
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "AlwaysPrepackAttestations": false,
+  "CacheTargetStates": false,
+  "DebugCollectionLengths": false,
+  "DebugEth1": false,
+  "DebugP2p": false,
+  "DisableBlockVerificationPool": false,
+  "IgnoreAttestationsForUnknownBlocks": false,
+  "IgnoreFutureAttestations": false,
+  "InhibitApplicationRestart": false,
+  "LogBlockProcessingTime": false,
+  "LogHttpBodies": false,
+  "LogHttpHeaders": false,
+  "LogHttpRequests": false,
+  "PatchHttpContentType": false,
+  "PublishAttestationsEarly": false,
+  "PublishSyncCommitteeMessagesEarly": false,
+  "ServeCostlyEndpoints": true,
+  "ServeEffectfulEndpoints": true,
+  "ServeLeakyEndpoints": true,
+  "SubscribeToAllAttestationSubnets": false,
+  "SubscribeToAllSyncCommitteeSubnets": false,
+  "TrackMetrics": false,
+  "TrustBackSyncBlocks": false,
+  "TrustOwnAttestationSignatures": false,
+  "TrustOwnAttesterSlashingSignatures": false,
+  "TrustOwnBlockSignatures": false,
+  "TrustOwnStateRoots": false,
+  "WarnOnStateCacheSlotProcessing": false
+}
