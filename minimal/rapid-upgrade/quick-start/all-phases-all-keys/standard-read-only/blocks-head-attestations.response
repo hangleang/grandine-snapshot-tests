@@ -8,36 +8,36 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     {
       "aggregation_bits": "0x1f",
       "data": {
-        "slot": "31",
+        "slot": "39",
         "index": "0",
-        "beacon_block_root": "0x02d9b4a4ce6b991066df2baa6c88754d85a4d8cf152ab2c0e63f0c1f8174ee46",
+        "beacon_block_root": "0x5bc50e76dd62bfa71dfa2e4a7db1ccd0fac46645c943dc051a714fb95de4e45c",
         "source": {
-          "epoch": "2",
-          "root": "0x9fa3d0e076d689702eac218dc6e29002e1d209b4dcba6cebdba452704896b702"
-        },
-        "target": {
           "epoch": "3",
           "root": "0x46f02f34f5a4bee4f0d001144a375bd94df11efe1d872b4e6104af5c0c975428"
+        },
+        "target": {
+          "epoch": "4",
+          "root": "0xfd33277e0f3fff9e5dd7c0937e970c88fea8b1d007d7951d75d239e6b84bb65e"
         }
       },
-      "signature": "0xa3bafa91f39da23503411b9c06b843ac1c135f30eabe5e922986f4b148b8be7dc3ee1614ffc6cbd8770e218302adb0ee10031981c93984947246da670fc2c5412f5c46dcc93fc1ac930d3493bd500b5f76ff7c66f04eec48b9bafc5be53668db"
+      "signature": "0x8f008b190b13100dc7f8ebfa216472d632ba3b6ed0f43f3c07503d1b4fcd5791c516a35d415410726e4c062923fa8c430b7f580762723ee55352f5f5d24e3032fa66207172e054b59e9e67091e319f140135a834a26bc25d0ee25c07bdd14e7a"
     },
     {
       "aggregation_bits": "0x1f",
       "data": {
-        "slot": "31",
+        "slot": "39",
         "index": "1",
-        "beacon_block_root": "0x02d9b4a4ce6b991066df2baa6c88754d85a4d8cf152ab2c0e63f0c1f8174ee46",
+        "beacon_block_root": "0x5bc50e76dd62bfa71dfa2e4a7db1ccd0fac46645c943dc051a714fb95de4e45c",
         "source": {
-          "epoch": "2",
-          "root": "0x9fa3d0e076d689702eac218dc6e29002e1d209b4dcba6cebdba452704896b702"
-        },
-        "target": {
           "epoch": "3",
           "root": "0x46f02f34f5a4bee4f0d001144a375bd94df11efe1d872b4e6104af5c0c975428"
+        },
+        "target": {
+          "epoch": "4",
+          "root": "0xfd33277e0f3fff9e5dd7c0937e970c88fea8b1d007d7951d75d239e6b84bb65e"
         }
       },
-      "signature": "0xa554d3d1ee07397782c96e8e55cf8f629a68d4f5a6d927404142254f9ff4657a7ede5f361db1828e5319407108f8d6940114fc81ab0b88598cb9a5cc7f7da2c35844b81873042906d3cb535b9d659c37edf73ceef548bf2d457483899ae96b86"
+      "signature": "0x8c94e7858d276f7c1d94bcf2bd4729e41a57391bad6d8215b79d1ea07c3670c38cb69a5ef4b0a5a40b061f725701988f129ca79fc51a1e2c514766a99ad6fad2f18d45afd1e76093ea6d44994c2fc7aa4bfcd0a8d11a3915fd5f1e58d9b3a913"
     }
   ],
   "execution_optimistic": true,

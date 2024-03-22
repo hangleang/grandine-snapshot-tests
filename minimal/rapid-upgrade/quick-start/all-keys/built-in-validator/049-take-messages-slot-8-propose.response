@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 53248
+content-length: 53023
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -1340,56 +1340,38 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
   "subnet_service_to_p2p": [
     {
       "UpdateAttestationSubnets": {
-        "0": {
-          "Subscribe": {
-            "advertise": false
+        "discoveries": [
+          {
+            "subnet_id": 2,
+            "expiration": 10
+          },
+          {
+            "subnet_id": 3,
+            "expiration": 10
+          },
+          {
+            "subnet_id": 62,
+            "expiration": null
+          },
+          {
+            "subnet_id": 63,
+            "expiration": null
           }
-        },
-        "1": {
-          "Subscribe": {
-            "advertise": false
-          }
-        },
-        "10": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "11": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "12": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "13": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "14": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "15": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "62": "DiscoverPeers",
-        "63": "DiscoverPeers"
+        ],
+        "enr": {},
+        "subscriptions": {
+          "2": true,
+          "3": true,
+          "14": false,
+          "15": false
+        }
       }
     },
     {
       "UpdateAttestationSubnets": {
-        "0": "DiscoverPeers",
-        "1": "DiscoverPeers",
-        "62": "DiscoverPeers",
-        "63": "DiscoverPeers"
+        "discoveries": [],
+        "enr": {},
+        "subscriptions": {}
       }
     },
     {
@@ -1466,6 +1448,5 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
         "signature": "0xa52ce7188f1aa4654078cc68a21ceb546d47cfc2d388e4f9e6363db03b1525526490f8c41bfc50e85838d746bbc7527c0576bcbd7f022bab422dcab48beac4fced21f62b45e2ec1893d50ca2944b21c5e9c19ef325274a7d9edd9d2f66380834"
       }
     }
-  ],
-  "debug": []
+  ]
 }

@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 57171
+content-length: 56946
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -1396,48 +1396,31 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
   "subnet_service_to_p2p": [
     {
       "UpdateAttestationSubnets": {
-        "0": {
-          "Subscribe": {
-            "advertise": false
+        "discoveries": [
+          {
+            "subnet_id": 2,
+            "expiration": 18
+          },
+          {
+            "subnet_id": 3,
+            "expiration": 18
+          },
+          {
+            "subnet_id": 62,
+            "expiration": null
+          },
+          {
+            "subnet_id": 63,
+            "expiration": null
           }
-        },
-        "1": {
-          "Subscribe": {
-            "advertise": false
-          }
-        },
-        "10": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "11": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "12": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "13": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "14": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "15": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "62": "DiscoverPeers",
-        "63": "DiscoverPeers"
+        ],
+        "enr": {},
+        "subscriptions": {
+          "2": true,
+          "3": true,
+          "14": false,
+          "15": false
+        }
       }
     },
     {
@@ -1450,10 +1433,9 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     },
     {
       "UpdateAttestationSubnets": {
-        "0": "DiscoverPeers",
-        "1": "DiscoverPeers",
-        "62": "DiscoverPeers",
-        "63": "DiscoverPeers"
+        "discoveries": [],
+        "enr": {},
+        "subscriptions": {}
       }
     }
   ],
@@ -1538,6 +1520,5 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
         "signature": "0x92eada410f883f8154b81eca54f4fd6a069bbe70fabdd983679c6f3d3db02bae95769da214dd7213ac02ce50ca1cdc4b0adbf9236420fd086e8eaccb0657111924157d293e058e1c21274d972673bff54054215e0e7c8018d4a4ba13d6352f18"
       }
     }
-  ],
-  "debug": []
+  ]
 }

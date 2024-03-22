@@ -1,7 +1,7 @@
 HTTP/1.0 200 OK
 content-type: application/json
 eth-consensus-version: capella
-content-length: 3700
+content-length: 3699
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -87,5 +87,5 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
   },
   "version": "capella",
   "execution_optimistic": true,
-  "finalized": false
+  "finalized": true
 }

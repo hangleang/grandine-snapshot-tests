@@ -1,12 +1,11 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 876
+content-length: 871
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "AlwaysPrepackAttestations": false,
   "CacheTargetStates": false,
-  "DebugCollectionLengths": false,
   "DebugEth1": false,
   "DebugP2p": false,
   "DisableBlockVerificationPool": false,
@@ -18,6 +17,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
   "LogHttpHeaders": false,
   "LogHttpRequests": false,
   "PatchHttpContentType": false,
+  "PrometheusMetrics": false,
   "PublishAttestationsEarly": false,
   "PublishSyncCommitteeMessagesEarly": false,
   "ServeCostlyEndpoints": true,

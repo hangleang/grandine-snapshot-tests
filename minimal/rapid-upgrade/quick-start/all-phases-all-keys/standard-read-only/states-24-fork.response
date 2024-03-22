@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 131
+content-length: 130
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -10,5 +10,5 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     "epoch": "3"
   },
   "execution_optimistic": true,
-  "finalized": false
+  "finalized": true
 }

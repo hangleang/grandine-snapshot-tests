@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 8594
+content-length: 8583
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -218,6 +218,5 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
         "signature": "0xa29bf72acadf2708d15f5464f093f944599b7b311f1e707ba6e68fee7245a79f015c4bb28ec30055b3ca97b3453a482a0288bcc7a954eba791728f6eab019c0323bdbfac33c2ec7b318633ac9b91804807c781267f3143bc4c0f55902f9fbb1b"
       }
     }
-  ],
-  "debug": []
+  ]
 }

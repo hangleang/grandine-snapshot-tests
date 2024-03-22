@@ -5,19 +5,19 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "data": {
-    "root": "0x9fa3d0e076d689702eac218dc6e29002e1d209b4dcba6cebdba452704896b702",
+    "root": "0x46f02f34f5a4bee4f0d001144a375bd94df11efe1d872b4e6104af5c0c975428",
     "canonical": true,
     "header": {
       "message": {
-        "slot": "16",
-        "proposer_index": "8",
-        "parent_root": "0xd0f267c937d4b635cc43000aba6377406e0557d2c24b7dddc82b55ea4df7e6f3",
-        "state_root": "0x3328f5b703182123ed94b36ee5ab80411b12a514b1c61195072131f4bdb1d1aa",
-        "body_root": "0x5782b5506a2cd4e1b3f33469c61b5c9d43ff3f1a9bab34198fca3d8a4e31e1a4"
+        "slot": "24",
+        "proposer_index": "53",
+        "parent_root": "0xa7c6511edac6be30f80fdb19b1aa59d75d512b9e203b384522e6aea23160a7ce",
+        "state_root": "0x8c94c7856bdb22ebcaa032dc7e56eb61bcc75522573e6e3166b957670a6e4c29",
+        "body_root": "0xebe44d3243481817c1deda230bd79ea59a396deff32da75d5513f73c9e5522c1"
       },
-      "signature": "0x8ba652eb1c614c68fc7e1ded445f316212b6efeb6a94340a23fb78bb245e498e8a12cf2fbe7269447669f94a2a5d756e032b0ec5ae366c0ed729c186c887a195c7541c40e8884b09274d783ca7dde2053d242fce7ea4396e2684095a499066bf"
+      "signature": "0x86c71547645f2f65738c1f9f52f04e3e85bbaeba413fee5a99318eedc120bbbd89dd71cd3443d56090af1e894812473b0fa7bf825f96343512bbbe9a8347bfeb332a04d3363e76d52f204602a2b0cbd9aa434ba2baa8e398f276f8d140448617"
     }
   },
-  "execution_optimistic": false,
+  "execution_optimistic": true,
   "finalized": true
 }

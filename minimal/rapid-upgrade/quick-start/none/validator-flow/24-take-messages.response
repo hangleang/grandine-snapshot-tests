@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 44214
+content-length: 44203
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -1128,6 +1128,5 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
   "fc_to_sync": [],
   "pool_to_p2p": [],
   "subnet_service_to_p2p": [],
-  "validator_to_p2p": [],
-  "debug": []
+  "validator_to_p2p": []
 }

@@ -1,9 +1,10 @@
 HTTP/1.0 200 OK
 content-type: application/json
 eth-consensus-version: altair
+eth-consensus-block-value: 51104
 eth-execution-payload-blinded: false
 eth-execution-payload-value: 0
-content-length: 1173
+content-length: 1205
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -32,6 +33,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     }
   },
   "version": "altair",
+  "consensus_block_value": "51104",
   "execution_payload_blinded": false,
   "execution_payload_value": "0"
 }

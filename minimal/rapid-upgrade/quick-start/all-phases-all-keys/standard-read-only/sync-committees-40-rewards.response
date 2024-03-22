@@ -1,0 +1,139 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 1396
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": [
+    {
+      "validator_index": "0",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "4",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "5",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "9",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "12",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "14",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "15",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "16",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "17",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "18",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "19",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "21",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "23",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "24",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "26",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "32",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "34",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "36",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "37",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "38",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "40",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "41",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "42",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "45",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "47",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "53",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "54",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "55",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "57",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "58",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "59",
+      "reward": "11180"
+    },
+    {
+      "validator_index": "61",
+      "reward": "11180"
+    }
+  ],
+  "execution_optimistic": true,
+  "finalized": false
+}

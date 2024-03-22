@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 231
+content-length: 347
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -11,19 +11,33 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
   "subnet_service_to_p2p": [
     {
       "UpdateAttestationSubnets": {
-        "0": {
-          "Subscribe": {
-            "advertise": false
+        "discoveries": [
+          {
+            "subnet_id": 0,
+            "expiration": 1
+          },
+          {
+            "subnet_id": 1,
+            "expiration": 1
+          },
+          {
+            "subnet_id": 2,
+            "expiration": 2
+          },
+          {
+            "subnet_id": 3,
+            "expiration": 2
           }
-        },
-        "1": {
-          "Subscribe": {
-            "advertise": false
-          }
+        ],
+        "enr": {},
+        "subscriptions": {
+          "0": true,
+          "1": true,
+          "2": true,
+          "3": true
         }
       }
     }
   ],
-  "validator_to_p2p": [],
-  "debug": []
+  "validator_to_p2p": []
 }

@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 379
+content-length: 378
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -10,14 +10,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
       "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
     },
     "current_justified": {
-      "epoch": "0",
-      "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      "epoch": "2",
+      "root": "0x9fa3d0e076d689702eac218dc6e29002e1d209b4dcba6cebdba452704896b702"
     },
     "finalized": {
       "epoch": "0",
       "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
     }
   },
-  "execution_optimistic": false,
+  "execution_optimistic": true,
   "finalized": true
 }

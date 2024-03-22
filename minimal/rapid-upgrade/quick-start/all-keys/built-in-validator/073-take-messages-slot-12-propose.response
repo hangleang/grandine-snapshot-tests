@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 53694
+content-length: 53544
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -1360,32 +1360,23 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
   "subnet_service_to_p2p": [
     {
       "UpdateAttestationSubnets": {
-        "2": {
-          "Unsubscribe": {
-            "discover_peers": false
+        "discoveries": [
+          {
+            "subnet_id": 10,
+            "expiration": 14
+          },
+          {
+            "subnet_id": 11,
+            "expiration": 14
           }
-        },
-        "3": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "4": "DiscoverPeers",
-        "5": "DiscoverPeers",
-        "6": "DiscoverPeers",
-        "7": "DiscoverPeers",
-        "8": {
-          "Subscribe": {
-            "advertise": false
-          }
-        },
-        "9": {
-          "Subscribe": {
-            "advertise": false
-          }
-        },
-        "62": "DiscoverPeers",
-        "63": "DiscoverPeers"
+        ],
+        "enr": {},
+        "subscriptions": {
+          "6": false,
+          "7": false,
+          "10": true,
+          "11": true
+        }
       }
     }
   ],
@@ -1454,6 +1445,5 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
         "signature": "0xb9ffecdf5117c8150b7dc52c10ce8fb0c3847d368df06ebda51f13a3f3cb87bbe0387d85c1a34b802e598b3a772d7b4a03d771111af7f15d96d5752a209734517526210b13c59209cbb5a941d331ec4e38d46f1991f3d5d6c3f34f1dad0f2edf"
       }
     }
-  ],
-  "debug": []
+  ]
 }

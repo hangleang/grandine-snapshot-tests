@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 786
+content-length: 561
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -15,48 +15,31 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
   "subnet_service_to_p2p": [
     {
       "UpdateAttestationSubnets": {
-        "0": {
-          "Subscribe": {
-            "advertise": false
+        "discoveries": [
+          {
+            "subnet_id": 2,
+            "expiration": 26
+          },
+          {
+            "subnet_id": 3,
+            "expiration": 26
+          },
+          {
+            "subnet_id": 62,
+            "expiration": null
+          },
+          {
+            "subnet_id": 63,
+            "expiration": null
           }
-        },
-        "1": {
-          "Subscribe": {
-            "advertise": false
-          }
-        },
-        "10": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "11": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "12": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "13": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "14": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "15": {
-          "Unsubscribe": {
-            "discover_peers": false
-          }
-        },
-        "62": "DiscoverPeers",
-        "63": "DiscoverPeers"
+        ],
+        "enr": {},
+        "subscriptions": {
+          "2": true,
+          "3": true,
+          "14": false,
+          "15": false
+        }
       }
     },
     {
@@ -69,13 +52,11 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     },
     {
       "UpdateAttestationSubnets": {
-        "0": "DiscoverPeers",
-        "1": "DiscoverPeers",
-        "62": "DiscoverPeers",
-        "63": "DiscoverPeers"
+        "discoveries": [],
+        "enr": {},
+        "subscriptions": {}
       }
     }
   ],
-  "validator_to_p2p": [],
-  "debug": []
+  "validator_to_p2p": []
 }
