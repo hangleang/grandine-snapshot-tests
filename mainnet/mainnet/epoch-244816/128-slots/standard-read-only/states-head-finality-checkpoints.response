@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 395
+content-length: 394
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -18,6 +18,6 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
       "root": "0x380f190bda6fef6e7b358c58c7361bb8601b707b883a7b33a0626dd0e7c2468c"
     }
   },
-  "execution_optimistic": false,
+  "execution_optimistic": true,
   "finalized": false
 }
