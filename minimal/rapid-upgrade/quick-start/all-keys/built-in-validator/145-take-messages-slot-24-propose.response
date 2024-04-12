@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 561
+content-length: 485
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -48,13 +48,6 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
         "1": "DiscoverPeers",
         "2": "DiscoverPeers",
         "3": "DiscoverPeers"
-      }
-    },
-    {
-      "UpdateAttestationSubnets": {
-        "discoveries": [],
-        "enr": {},
-        "subscriptions": {}
       }
     }
   ],

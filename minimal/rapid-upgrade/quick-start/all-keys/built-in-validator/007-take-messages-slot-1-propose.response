@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 44416
+content-length: 44496
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -1074,6 +1074,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
       "UpdateAttestationSubnets": {
         "discoveries": [
           {
+            "subnet_id": 4,
+            "expiration": 3
+          },
+          {
+            "subnet_id": 5,
+            "expiration": 3
+          },
+          {
             "subnet_id": 62,
             "expiration": null
           },
@@ -1089,6 +1097,8 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
         "subscriptions": {
           "0": false,
           "1": false,
+          "4": true,
+          "5": true,
           "62": true,
           "63": true
         }
