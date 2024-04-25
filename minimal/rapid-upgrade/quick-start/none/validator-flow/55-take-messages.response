@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 421
+content-length: 98
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -12,36 +12,5 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
   ],
   "fc_to_sync": [],
   "pool_to_p2p": [],
-  "subnet_service_to_p2p": [
-    {
-      "UpdateAttestationSubnets": {
-        "discoveries": [
-          {
-            "subnet_id": 62,
-            "expiration": null
-          },
-          {
-            "subnet_id": 63,
-            "expiration": null
-          }
-        ],
-        "enr": {},
-        "subscriptions": {
-          "2": false,
-          "3": false,
-          "4": false,
-          "5": false
-        }
-      }
-    },
-    {
-      "UpdateSyncCommitteeSubnets": {
-        "0": "DiscoverPeers",
-        "1": "DiscoverPeers",
-        "2": "DiscoverPeers",
-        "3": "DiscoverPeers"
-      }
-    }
-  ],
   "validator_to_p2p": []
 }
