@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 4864
+content-length: 4908
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -72,6 +72,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     "CAPELLA_FORK_VERSION": "0x03000000",
     "DENEB_FORK_EPOCH": "269568",
     "DENEB_FORK_VERSION": "0x04000000",
+    "EIP7594_FORK_EPOCH": "18446744073709551615",
     "ETH1_FOLLOW_DISTANCE": "2048",
     "MIN_VALIDATOR_WITHDRAWABILITY_DELAY": "256",
     "SECONDS_PER_ETH1_BLOCK": "14",
