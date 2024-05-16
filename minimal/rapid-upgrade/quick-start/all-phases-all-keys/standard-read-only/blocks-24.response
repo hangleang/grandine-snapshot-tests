@@ -1,7 +1,7 @@
 HTTP/1.0 200 OK
 content-type: application/json
 eth-consensus-version: capella
-content-length: 3699
+content-length: 3700
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -86,6 +86,6 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     "signature": "0x86c71547645f2f65738c1f9f52f04e3e85bbaeba413fee5a99318eedc120bbbd89dd71cd3443d56090af1e894812473b0fa7bf825f96343512bbbe9a8347bfeb332a04d3363e76d52f204602a2b0cbd9aa434ba2baa8e398f276f8d140448617"
   },
   "version": "capella",
-  "execution_optimistic": true,
+  "execution_optimistic": false,
   "finalized": true
 }

@@ -1,18 +1,18 @@
 HTTP/1.0 200 OK
 content-type: application/json
-eth-consensus-version: deneb
-content-length: 3766
+eth-consensus-version: electra
+content-length: 3312
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "data": {
     "message": {
-      "slot": "40",
-      "proposer_index": "59",
-      "parent_root": "0x5bc50e76dd62bfa71dfa2e4a7db1ccd0fac46645c943dc051a714fb95de4e45c",
-      "state_root": "0xcf7b0184ed257955d4e8978961e0ae3e7ecd22e603a0ffef537666cc7c40bd66",
+      "slot": "48",
+      "proposer_index": "39",
+      "parent_root": "0xfbdaad81314e6aa1d8fa871e5847e3fecc9a3067ce65bb38c555327c9b975715",
+      "state_root": "0xbe3e232e67827980b940e73e6b7f9649c6e664c304a5744a59ace737148c723e",
       "body": {
-        "randao_reveal": "0x91a8c9abc3af7cdd61d964075c159cb6583b5231b976d7a96ddfe98795f279999fc6077c232861e3973dae5b027f860f19ddf241fb7b084821a251e33b45c5a54f2ed6e5b5e4d9695372e3fd4d516941cbd7c4b1f09d7edc3a72a0005ddd6ac7",
+        "randao_reveal": "0xa6b2978272490e694714840f05b24ce7b1c5de6549ce5712865888a3082a2776e5085305223aeac2e0ffbd87645c7ded05da0fbc9153ac2d854eabdad1c289038279392816652432c883a796eb1a143a0a0f19805ecc002f96dc022fd2b80d7d",
         "eth1_data": {
           "deposit_root": "0x6141b76179b67d7849f34a22d0e529729fb274bbe81374c41623373b649cc63b",
           "deposit_count": "64",
@@ -23,45 +23,29 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
         "attester_slashings": [],
         "attestations": [
           {
-            "aggregation_bits": "0x1f",
+            "aggregation_bits": "0xff01",
             "data": {
-              "slot": "39",
+              "slot": "47",
               "index": "0",
-              "beacon_block_root": "0x5bc50e76dd62bfa71dfa2e4a7db1ccd0fac46645c943dc051a714fb95de4e45c",
+              "beacon_block_root": "0xfbdaad81314e6aa1d8fa871e5847e3fecc9a3067ce65bb38c555327c9b975715",
               "source": {
-                "epoch": "3",
-                "root": "0x46f02f34f5a4bee4f0d001144a375bd94df11efe1d872b4e6104af5c0c975428"
-              },
-              "target": {
                 "epoch": "4",
                 "root": "0xfd33277e0f3fff9e5dd7c0937e970c88fea8b1d007d7951d75d239e6b84bb65e"
-              }
-            },
-            "signature": "0x8f008b190b13100dc7f8ebfa216472d632ba3b6ed0f43f3c07503d1b4fcd5791c516a35d415410726e4c062923fa8c430b7f580762723ee55352f5f5d24e3032fa66207172e054b59e9e67091e319f140135a834a26bc25d0ee25c07bdd14e7a"
-          },
-          {
-            "aggregation_bits": "0x1f",
-            "data": {
-              "slot": "39",
-              "index": "1",
-              "beacon_block_root": "0x5bc50e76dd62bfa71dfa2e4a7db1ccd0fac46645c943dc051a714fb95de4e45c",
-              "source": {
-                "epoch": "3",
-                "root": "0x46f02f34f5a4bee4f0d001144a375bd94df11efe1d872b4e6104af5c0c975428"
               },
               "target": {
-                "epoch": "4",
-                "root": "0xfd33277e0f3fff9e5dd7c0937e970c88fea8b1d007d7951d75d239e6b84bb65e"
+                "epoch": "5",
+                "root": "0xe02b977d1da22c7af029efb98f357c4b43179f81fda84ac08117f6a8abfacbbf"
               }
             },
-            "signature": "0x8c94e7858d276f7c1d94bcf2bd4729e41a57391bad6d8215b79d1ea07c3670c38cb69a5ef4b0a5a40b061f725701988f129ca79fc51a1e2c514766a99ad6fad2f18d45afd1e76093ea6d44994c2fc7aa4bfcd0a8d11a3915fd5f1e58d9b3a913"
+            "signature": "0xb059724787bbb83e8688e51f6420d7fe013617972c8b49aff2db9d9c8d125c2089a28d8e827ed56dde5dba904187ef921701105f6ca6d326309733a3f0783e290d5fa06a61caa2f7fd9d531f8e99bfa4bd57123d477417c97cb1bba4889958e8",
+            "committee_bits": "0x03"
           }
         ],
         "deposits": [],
         "voluntary_exits": [],
         "sync_aggregate": {
           "sync_committee_bits": "0xffffffff",
-          "sync_committee_signature": "0xa00b8a1b020c4b49553e5b8c8ba12e07e47b750755bf41e91ffb51de91e14945cdbbab2d5ec819f5aab4b63528c2506507de10a8dc77c18c9fe84add795c893535fe507dcbdd7cc33f4cd838cc6989b7a6ffe2958bff73bb01f5456568c0e791"
+          "sync_committee_signature": "0xab1d0c14786182367764ae66bd62bffd9f643aa2849ab8497495b725ba9b4fe3f50ac81644ba847116e2919292df553a0df1d3e0a56275bffb81a4e900b269eb47ecfdd2b1f09cb12727902c3ea202e39a8fdac42905c83f731af6f4eff90110"
         },
         "execution_payload": {
           "parent_hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
@@ -69,26 +53,29 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "state_root": "0x0000000000000000000000000000000000000000000000000000000000000000",
           "receipts_root": "0x0000000000000000000000000000000000000000000000000000000000000000",
           "logs_bloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-          "prev_randao": "0xd4a91bc26f8f1b2ed33ca859d3540339f3647bfca9700d6a379bfcb14f86ba1e",
+          "prev_randao": "0x003e54d6f7ed56580cea06ed5034d86facc9112c2b4e415c6bdc44c2e5ad8f35",
           "block_number": "0",
           "gas_limit": "0",
           "gas_used": "0",
-          "timestamp": "1578009840",
+          "timestamp": "1578009888",
           "extra_data": "0x",
           "base_fee_per_gas": "0",
           "block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
           "transactions": [],
           "withdrawals": [],
           "blob_gas_used": "0",
-          "excess_blob_gas": "0"
+          "excess_blob_gas": "0",
+          "deposit_requests": [],
+          "withdrawal_requests": [],
+          "consolidation_requests": []
         },
         "bls_to_execution_changes": [],
         "blob_kzg_commitments": []
       }
     },
-    "signature": "0x92e8d981d17cee9d538409ba2498eed79bf9283727a669b91462a9714710fe616c19d41efa39bbc145c870fbededdb8f0294e5b1fa4895e7a968806cc657cdfba089716de2245b4389525fa2297b06bfe5cb3bb392db6d8ae6ed1cae6332fc9e"
+    "signature": "0x9980b71671f0cdbe8a5b5296d7c012017ef232eb7549109b37a2b21878c96d8c5d75d752ba9a2addbaf764a80bda75a217c33022551a0f96b930109b59ed6f867d2d1e5606e70e88e8c5c653a222fd03c047d660568577869dc8975914a6a8d1"
   },
-  "version": "deneb",
+  "version": "electra",
   "execution_optimistic": true,
   "finalized": false
 }

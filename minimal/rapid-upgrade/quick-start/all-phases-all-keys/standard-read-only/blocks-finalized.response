@@ -1,18 +1,18 @@
 HTTP/1.0 200 OK
 content-type: application/json
-eth-consensus-version: capella
-content-length: 3699
+eth-consensus-version: deneb
+content-length: 3765
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "data": {
     "message": {
-      "slot": "24",
-      "proposer_index": "53",
-      "parent_root": "0xa7c6511edac6be30f80fdb19b1aa59d75d512b9e203b384522e6aea23160a7ce",
-      "state_root": "0x8c94c7856bdb22ebcaa032dc7e56eb61bcc75522573e6e3166b957670a6e4c29",
+      "slot": "32",
+      "proposer_index": "40",
+      "parent_root": "0x02d9b4a4ce6b991066df2baa6c88754d85a4d8cf152ab2c0e63f0c1f8174ee46",
+      "state_root": "0x989198bfc86a42626615a9cb193552393a7d1d61bb1f9a4183c2d35bc828dfb5",
       "body": {
-        "randao_reveal": "0x8a1cdc53822e64549911bc2c310f8b5c7d2a11a62c44d503f9e10e98dc72bd605b58763d68a4711b1c3bcf8f7298bd8d010d0b9123a435ea9cc5a84e680e0a8b0f9ec93c9a029d994459f09846ccf7f404c605453bb926f2cbfb7fc25edd1db3",
+        "randao_reveal": "0xa549d37a9ec9a71012d322b90580cc53cd6a21f4e527f8c095627c0dcd0542484ee5daeec05f5e6402a3b56fc361915e175f9c0ea32c1f2f1ed051127dc3f4001e141fbcae3a8e277d556f9e93180cc70d2db95b170323072a5007b7b6a648de",
         "eth1_data": {
           "deposit_root": "0x6141b76179b67d7849f34a22d0e529729fb274bbe81374c41623373b649cc63b",
           "deposit_count": "64",
@@ -25,43 +25,43 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           {
             "aggregation_bits": "0x1f",
             "data": {
-              "slot": "23",
+              "slot": "31",
               "index": "0",
-              "beacon_block_root": "0xa7c6511edac6be30f80fdb19b1aa59d75d512b9e203b384522e6aea23160a7ce",
+              "beacon_block_root": "0x02d9b4a4ce6b991066df2baa6c88754d85a4d8cf152ab2c0e63f0c1f8174ee46",
               "source": {
-                "epoch": "0",
-                "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
-              },
-              "target": {
                 "epoch": "2",
                 "root": "0x9fa3d0e076d689702eac218dc6e29002e1d209b4dcba6cebdba452704896b702"
+              },
+              "target": {
+                "epoch": "3",
+                "root": "0x46f02f34f5a4bee4f0d001144a375bd94df11efe1d872b4e6104af5c0c975428"
               }
             },
-            "signature": "0xb4f8b662a433213257845498e3ffce92f8a02e398fded6da5b5383e260a46bd9e15829923d548b55a97ac787783a72530c3258f5ce31cc897920caac435838a5a6191fe631d30789a661f2bc30a8ed3c5b4b7f776c1e80fc8c302ba33b38a086"
+            "signature": "0xa3bafa91f39da23503411b9c06b843ac1c135f30eabe5e922986f4b148b8be7dc3ee1614ffc6cbd8770e218302adb0ee10031981c93984947246da670fc2c5412f5c46dcc93fc1ac930d3493bd500b5f76ff7c66f04eec48b9bafc5be53668db"
           },
           {
             "aggregation_bits": "0x1f",
             "data": {
-              "slot": "23",
+              "slot": "31",
               "index": "1",
-              "beacon_block_root": "0xa7c6511edac6be30f80fdb19b1aa59d75d512b9e203b384522e6aea23160a7ce",
+              "beacon_block_root": "0x02d9b4a4ce6b991066df2baa6c88754d85a4d8cf152ab2c0e63f0c1f8174ee46",
               "source": {
-                "epoch": "0",
-                "root": "0x0000000000000000000000000000000000000000000000000000000000000000"
-              },
-              "target": {
                 "epoch": "2",
                 "root": "0x9fa3d0e076d689702eac218dc6e29002e1d209b4dcba6cebdba452704896b702"
+              },
+              "target": {
+                "epoch": "3",
+                "root": "0x46f02f34f5a4bee4f0d001144a375bd94df11efe1d872b4e6104af5c0c975428"
               }
             },
-            "signature": "0xb8fda53eb63f90fba6726497533570bad4bc80f5002cad7784ecb1e703ea725730ff194c042b3ad26a463ecd07c1f1b0115362384bd4699525417905a9b43b3787344092057cba98ea0dc341b68437a3b358cf1d4888acb186daf0f32429d5ad"
+            "signature": "0xa554d3d1ee07397782c96e8e55cf8f629a68d4f5a6d927404142254f9ff4657a7ede5f361db1828e5319407108f8d6940114fc81ab0b88598cb9a5cc7f7da2c35844b81873042906d3cb535b9d659c37edf73ceef548bf2d457483899ae96b86"
           }
         ],
         "deposits": [],
         "voluntary_exits": [],
         "sync_aggregate": {
           "sync_committee_bits": "0xffffffff",
-          "sync_committee_signature": "0xa2ddc6c5bf6e86d08c3360d57714b6d553254e5675951ab1c24d31ed778af3a5feacb62868bafaef0b9547a70d87816507b3895118ce8e1c723f25175163ef66be3c0de0a687047267a4a50d22eaa747be72620fbdbb2d3e2ecb6259522fa192"
+          "sync_committee_signature": "0x88a007eee5e507567d8717fe6b733abfdf7397a094f064306e4a548b983969a33db94296e42062ddb4c89c423e4dae031776510f424b9d9559fac0e170a28aaee86eac9bd47cd64e979b743fe244c7ec6fd51d46363941c7f29b641c950f5240"
         },
         "execution_payload": {
           "parent_hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
@@ -69,23 +69,26 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "state_root": "0x0000000000000000000000000000000000000000000000000000000000000000",
           "receipts_root": "0x0000000000000000000000000000000000000000000000000000000000000000",
           "logs_bloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-          "prev_randao": "0x1b78f014a3f2d0dad19adaab2a330978ac43c91601aefa8975965b23896e5f71",
+          "prev_randao": "0xb81ae96be96912cc4fa38d4c6f4e8112bdfcbd3adbcc6b87b16f4648ac6769d5",
           "block_number": "0",
           "gas_limit": "0",
           "gas_used": "0",
-          "timestamp": "1578009744",
+          "timestamp": "1578009792",
           "extra_data": "0x",
           "base_fee_per_gas": "0",
           "block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
           "transactions": [],
-          "withdrawals": []
+          "withdrawals": [],
+          "blob_gas_used": "0",
+          "excess_blob_gas": "0"
         },
-        "bls_to_execution_changes": []
+        "bls_to_execution_changes": [],
+        "blob_kzg_commitments": []
       }
     },
-    "signature": "0x86c71547645f2f65738c1f9f52f04e3e85bbaeba413fee5a99318eedc120bbbd89dd71cd3443d56090af1e894812473b0fa7bf825f96343512bbbe9a8347bfeb332a04d3363e76d52f204602a2b0cbd9aa434ba2baa8e398f276f8d140448617"
+    "signature": "0xaf2c915e019dc4ceab566de2800587f2b0804e74215bdac6db9987fd80ebbf3b951b6d0ae8a6d73e187c3bcad93ae9540a8250785c7c6bc26b11d9209d6da6d04076d286f4c0c84dc486a7b0bae9bdb8e6fa2b066b323e2037032bdd48dc8d72"
   },
-  "version": "capella",
+  "version": "deneb",
   "execution_optimistic": true,
   "finalized": true
 }

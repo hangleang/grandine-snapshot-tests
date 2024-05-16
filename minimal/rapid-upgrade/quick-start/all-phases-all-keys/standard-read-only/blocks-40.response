@@ -1,18 +1,18 @@
 HTTP/1.0 200 OK
 content-type: application/json
-eth-consensus-version: deneb
-content-length: 3766
+eth-consensus-version: electra
+content-length: 3312
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "data": {
     "message": {
       "slot": "40",
-      "proposer_index": "59",
+      "proposer_index": "15",
       "parent_root": "0x5bc50e76dd62bfa71dfa2e4a7db1ccd0fac46645c943dc051a714fb95de4e45c",
-      "state_root": "0xcf7b0184ed257955d4e8978961e0ae3e7ecd22e603a0ffef537666cc7c40bd66",
+      "state_root": "0x23accbe3605fa7ae5ff5be122c13635032cc746a9463c5d4b8365763dfde68ac",
       "body": {
-        "randao_reveal": "0x91a8c9abc3af7cdd61d964075c159cb6583b5231b976d7a96ddfe98795f279999fc6077c232861e3973dae5b027f860f19ddf241fb7b084821a251e33b45c5a54f2ed6e5b5e4d9695372e3fd4d516941cbd7c4b1f09d7edc3a72a0005ddd6ac7",
+        "randao_reveal": "0xa661a3ad1af2710e59fcc2a0d2bb5b98a4f288ad56c8e65398f75f596a18d5255022d36efaa6a6318907183883c64c5b08a634ce5ffd39bccb87db2e5fcd5f8be53f0d12870b54611fe2753626e2a987cafd29e47ea791529e80a20a3ac127c3",
         "eth1_data": {
           "deposit_root": "0x6141b76179b67d7849f34a22d0e529729fb274bbe81374c41623373b649cc63b",
           "deposit_count": "64",
@@ -23,7 +23,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
         "attester_slashings": [],
         "attestations": [
           {
-            "aggregation_bits": "0x1f",
+            "aggregation_bits": "0xff01",
             "data": {
               "slot": "39",
               "index": "0",
@@ -37,24 +37,8 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
                 "root": "0xfd33277e0f3fff9e5dd7c0937e970c88fea8b1d007d7951d75d239e6b84bb65e"
               }
             },
-            "signature": "0x8f008b190b13100dc7f8ebfa216472d632ba3b6ed0f43f3c07503d1b4fcd5791c516a35d415410726e4c062923fa8c430b7f580762723ee55352f5f5d24e3032fa66207172e054b59e9e67091e319f140135a834a26bc25d0ee25c07bdd14e7a"
-          },
-          {
-            "aggregation_bits": "0x1f",
-            "data": {
-              "slot": "39",
-              "index": "1",
-              "beacon_block_root": "0x5bc50e76dd62bfa71dfa2e4a7db1ccd0fac46645c943dc051a714fb95de4e45c",
-              "source": {
-                "epoch": "3",
-                "root": "0x46f02f34f5a4bee4f0d001144a375bd94df11efe1d872b4e6104af5c0c975428"
-              },
-              "target": {
-                "epoch": "4",
-                "root": "0xfd33277e0f3fff9e5dd7c0937e970c88fea8b1d007d7951d75d239e6b84bb65e"
-              }
-            },
-            "signature": "0x8c94e7858d276f7c1d94bcf2bd4729e41a57391bad6d8215b79d1ea07c3670c38cb69a5ef4b0a5a40b061f725701988f129ca79fc51a1e2c514766a99ad6fad2f18d45afd1e76093ea6d44994c2fc7aa4bfcd0a8d11a3915fd5f1e58d9b3a913"
+            "signature": "0x904ead4f7e33ef404cf8dac101ba54cea294641bab31b6b4c25b9a1bf9545ab91baea4497f6402bef177e6681d9d56d40558536ce030b62c6e040474ecdad2dec89da713a533226cf106113ce8402e4c78f0671be090c105802bdf48cedaae72",
+            "committee_bits": "0x03"
           }
         ],
         "deposits": [],
@@ -80,15 +64,18 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "transactions": [],
           "withdrawals": [],
           "blob_gas_used": "0",
-          "excess_blob_gas": "0"
+          "excess_blob_gas": "0",
+          "deposit_requests": [],
+          "withdrawal_requests": [],
+          "consolidation_requests": []
         },
         "bls_to_execution_changes": [],
         "blob_kzg_commitments": []
       }
     },
-    "signature": "0x92e8d981d17cee9d538409ba2498eed79bf9283727a669b91462a9714710fe616c19d41efa39bbc145c870fbededdb8f0294e5b1fa4895e7a968806cc657cdfba089716de2245b4389525fa2297b06bfe5cb3bb392db6d8ae6ed1cae6332fc9e"
+    "signature": "0xb2173319069b2de1e9fd4ee12fd97ebf84903b1f533a64476ef747d134856ad0c0362dadb112f4067f25899d6cc3f086045f8d9f885a6bc56f0e7b0311c9b1ba50c00e57905c67f9ec3aa8e5ee7653f49b73a583451bb26359e1c9a0fe41d247"
   },
-  "version": "deneb",
+  "version": "electra",
   "execution_optimistic": true,
   "finalized": false
 }

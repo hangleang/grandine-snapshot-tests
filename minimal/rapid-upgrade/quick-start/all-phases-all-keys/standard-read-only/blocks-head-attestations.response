@@ -1,43 +1,27 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 1170
+content-length: 639
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "data": [
     {
-      "aggregation_bits": "0x1f",
+      "aggregation_bits": "0xff01",
       "data": {
-        "slot": "39",
+        "slot": "47",
         "index": "0",
-        "beacon_block_root": "0x5bc50e76dd62bfa71dfa2e4a7db1ccd0fac46645c943dc051a714fb95de4e45c",
+        "beacon_block_root": "0xfbdaad81314e6aa1d8fa871e5847e3fecc9a3067ce65bb38c555327c9b975715",
         "source": {
-          "epoch": "3",
-          "root": "0x46f02f34f5a4bee4f0d001144a375bd94df11efe1d872b4e6104af5c0c975428"
-        },
-        "target": {
           "epoch": "4",
           "root": "0xfd33277e0f3fff9e5dd7c0937e970c88fea8b1d007d7951d75d239e6b84bb65e"
-        }
-      },
-      "signature": "0x8f008b190b13100dc7f8ebfa216472d632ba3b6ed0f43f3c07503d1b4fcd5791c516a35d415410726e4c062923fa8c430b7f580762723ee55352f5f5d24e3032fa66207172e054b59e9e67091e319f140135a834a26bc25d0ee25c07bdd14e7a"
-    },
-    {
-      "aggregation_bits": "0x1f",
-      "data": {
-        "slot": "39",
-        "index": "1",
-        "beacon_block_root": "0x5bc50e76dd62bfa71dfa2e4a7db1ccd0fac46645c943dc051a714fb95de4e45c",
-        "source": {
-          "epoch": "3",
-          "root": "0x46f02f34f5a4bee4f0d001144a375bd94df11efe1d872b4e6104af5c0c975428"
         },
         "target": {
-          "epoch": "4",
-          "root": "0xfd33277e0f3fff9e5dd7c0937e970c88fea8b1d007d7951d75d239e6b84bb65e"
+          "epoch": "5",
+          "root": "0xe02b977d1da22c7af029efb98f357c4b43179f81fda84ac08117f6a8abfacbbf"
         }
       },
-      "signature": "0x8c94e7858d276f7c1d94bcf2bd4729e41a57391bad6d8215b79d1ea07c3670c38cb69a5ef4b0a5a40b061f725701988f129ca79fc51a1e2c514766a99ad6fad2f18d45afd1e76093ea6d44994c2fc7aa4bfcd0a8d11a3915fd5f1e58d9b3a913"
+      "signature": "0xb059724787bbb83e8688e51f6420d7fe013617972c8b49aff2db9d9c8d125c2089a28d8e827ed56dde5dba904187ef921701105f6ca6d326309733a3f0783e290d5fa06a61caa2f7fd9d531f8e99bfa4bd57123d477417c97cb1bba4889958e8",
+      "committee_bits": "0x03"
     }
   ],
   "execution_optimistic": true,

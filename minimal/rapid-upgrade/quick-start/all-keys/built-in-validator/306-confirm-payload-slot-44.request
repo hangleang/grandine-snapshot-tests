@@ -1,0 +1,11 @@
+POST /test/payload_status HTTP/1.0
+Content-Type: application/json
+Content-Length: 238
+
+{
+  "block_hash": "0x000000000000000000000000000000000000000000000000000000000000002c",
+  "payload_status": {
+    "status": "VALID",
+    "latest_valid_hash": "0x000000000000000000000000000000000000000000000000000000000000002c"
+  }
+}
