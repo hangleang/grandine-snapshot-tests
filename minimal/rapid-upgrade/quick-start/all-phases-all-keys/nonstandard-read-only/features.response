@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 871
+content-length: 834
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -8,7 +8,6 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
   "CacheTargetStates": false,
   "DebugEth1": false,
   "DebugP2p": false,
-  "DisableBlockVerificationPool": false,
   "IgnoreAttestationsForUnknownBlocks": false,
   "IgnoreFutureAttestations": false,
   "InhibitApplicationRestart": false,
