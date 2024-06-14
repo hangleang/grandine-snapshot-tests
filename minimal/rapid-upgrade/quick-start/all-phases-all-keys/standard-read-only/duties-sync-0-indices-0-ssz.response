@@ -1,0 +1,9 @@
+HTTP/1.0 415 Unsupported Media Type
+content-type: application/json
+content-length: 106
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "code": 415,
+  "message": "invalid validator indices: Expected request with `Content-Type: application/json`"
+}
