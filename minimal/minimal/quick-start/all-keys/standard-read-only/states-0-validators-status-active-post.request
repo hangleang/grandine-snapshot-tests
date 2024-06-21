@@ -1,0 +1,7 @@
+POST /eth/v1/beacon/states/0/validators HTTP/1.0
+Content-Type: application/json
+Content-Length: 30
+
+{
+  "statuses": ["active"]
+}
