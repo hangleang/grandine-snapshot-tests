@@ -1,12 +1,13 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 872
+content-length: 903
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "AlwaysPrepackAttestations": false,
   "AlwaysPrepareExecutionPayload": false,
   "CacheTargetStates": false,
+  "DebugAttestationPacker": false,
   "DebugEth1": false,
   "DebugP2p": false,
   "IgnoreAttestationsForUnknownBlocks": false,
