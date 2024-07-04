@@ -1,0 +1,8 @@
+POST /test/tick HTTP/1.0
+Content-Type: application/json
+Content-Length: 41
+
+{
+  "slot": "30",
+  "kind": "Attest"
+}
