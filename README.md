@@ -17,7 +17,11 @@ This is to keep the test runner simple.
 This may change in the future.
 
 `*.response` files do not have to be written by hand.
-They can be generated and updated by setting `http_api::snapshot_tests::UPDATE_RESPONSES` to `true`.
+They can be generated and updated by setting the `UPDATE_RESPONSES` environment variable to `true`:
+```shell
+UPDATE_RESPONSES=true cargo test
+```
+Setting it to any other value has the same effect as leaving it unset.
 
 Self-contained requests without side effects should be grouped into test cases named `*read-only` to save resources.
 The test runner treats them specially by always running all requests in them for better error reporting.
