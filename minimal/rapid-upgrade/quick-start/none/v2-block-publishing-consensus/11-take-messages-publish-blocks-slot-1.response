@@ -1,0 +1,38 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 1134
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "api_to_p2p": [
+    {
+      "PublishBeaconBlock": {
+        "message": {
+          "slot": "1",
+          "proposer_index": "29",
+          "parent_root": "0xc9a3323b6c59a7374e60501768ff4b47e4603a837c9ed42634bb5a6d6be58b6e",
+          "state_root": "0x4adb5f6abac6b82e837275fe548350cca36a17dcf2bf04af79784624139aab75",
+          "body": {
+            "randao_reveal": "0xa22bdcca992b3eb79d00de3ea3ffed43f087d4d5c1b8840a6d5fbce8c9ef1b1b4207333567880b01806e9978a6240f4d0d30266ad83531657aa89437111873ddc28702144611abc6f58174b63cd770d42acc4d40987361d42a271eba1f21ce2d",
+            "eth1_data": {
+              "deposit_root": "0x6141b76179b67d7849f34a22d0e529729fb274bbe81374c41623373b649cc63b",
+              "deposit_count": "64",
+              "block_hash": "0x4242424242424242424242424242424242424242424242424242424242424242"
+            },
+            "graffiti": "0x0101010101010101010101010101010101010101010101010101010101010101",
+            "proposer_slashings": [],
+            "attester_slashings": [],
+            "attestations": [],
+            "deposits": [],
+            "voluntary_exits": []
+          }
+        },
+        "signature": "0x8ff86f04c80fbf3e3c5a840394fe28e7240c60c8beeb1e81fd6c3bdc10b3c48c7248c2a05c2be02d4f5357c8685c9cef18a28b6b067d713cbddf2cb241fa1be3978a49157a278bb181f2653f8ba1cc07be889db2dfbcbfb9d2b21d3de22106c3"
+      }
+    }
+  ],
+  "fc_to_p2p": [],
+  "fc_to_sync": [],
+  "pool_to_p2p": [],
+  "validator_to_p2p": []
+}

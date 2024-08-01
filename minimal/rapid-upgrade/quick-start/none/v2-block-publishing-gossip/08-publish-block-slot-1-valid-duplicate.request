@@ -1,0 +1,28 @@
+POST /eth/v2/beacon/blocks?broadcast_validation=gossip HTTP/1.0
+Content-Type: application/json
+Content-Length: 1194
+Eth-Consensus-Version: phase0
+
+{
+  "message": {
+    "slot": "1",
+    "proposer_index": "29",
+    "parent_root": "0xc9a3323b6c59a7374e60501768ff4b47e4603a837c9ed42634bb5a6d6be58b6e",
+    "state_root": "0x90087b24db6529b73eba12a619a6d95b9aa608848875ff3de4a4786296468032",
+    "body": {
+      "randao_reveal": "0xa22bdcca992b3eb79d00de3ea3ffed43f087d4d5c1b8840a6d5fbce8c9ef1b1b4207333567880b01806e9978a6240f4d0d30266ad83531657aa89437111873ddc28702144611abc6f58174b63cd770d42acc4d40987361d42a271eba1f21ce2d",
+      "eth1_data": {
+        "deposit_root": "0x6141b76179b67d7849f34a22d0e529729fb274bbe81374c41623373b649cc63b",
+        "deposit_count": "64",
+        "block_hash": "0x4242424242424242424242424242424242424242424242424242424242424242"
+      },
+      "graffiti": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "proposer_slashings": [],
+      "attester_slashings": [],
+      "attestations": [],
+      "deposits": [],
+      "voluntary_exits": []
+    }
+  },
+  "signature": "0xa2f0985cd5600d26150fc0cebe22d3b7c372fe6ee68ec6b428472992533d2e3d74a826bd7a3696731b0533f119aa019f140c3ed6889f3fe1c1f67f03245befa9a24b77ebed7cdfbb6ce9f56c17e2db0535c55ac092ae3b584d7cecdacd9d0f45"
+}
