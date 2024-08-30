@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 871
+content-length: 911
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -24,6 +24,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
   "ServeEffectfulEndpoints": true,
   "ServeLeakyEndpoints": true,
   "SubscribeToAllAttestationSubnets": false,
+  "SubscribeToAllDataColumnSubnets": false,
   "SubscribeToAllSyncCommitteeSubnets": false,
   "TrackMetrics": false,
   "TrustBackSyncBlocks": false,
