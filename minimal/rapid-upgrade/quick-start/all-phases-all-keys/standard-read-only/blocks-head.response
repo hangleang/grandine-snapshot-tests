@@ -1,7 +1,7 @@
 HTTP/1.0 200 OK
 content-type: application/json
 eth-consensus-version: electra
-content-length: 3312
+content-length: 3311
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -9,8 +9,8 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     "message": {
       "slot": "48",
       "proposer_index": "39",
-      "parent_root": "0xfbdaad81314e6aa1d8fa871e5847e3fecc9a3067ce65bb38c555327c9b975715",
-      "state_root": "0xbe3e232e67827980b940e73e6b7f9649c6e664c304a5744a59ace737148c723e",
+      "parent_root": "0x0918effa89dda5550831a191597e46d7ca4b88ded34098be171bda8b39332de3",
+      "state_root": "0xce077d2b80a3a06aacea3308e73094c217808ae77610e0b1562ab43af55fe768",
       "body": {
         "randao_reveal": "0xa6b2978272490e694714840f05b24ce7b1c5de6549ce5712865888a3082a2776e5085305223aeac2e0ffbd87645c7ded05da0fbc9153ac2d854eabdad1c289038279392816652432c883a796eb1a143a0a0f19805ecc002f96dc022fd2b80d7d",
         "eth1_data": {
@@ -27,17 +27,17 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
             "data": {
               "slot": "47",
               "index": "0",
-              "beacon_block_root": "0xfbdaad81314e6aa1d8fa871e5847e3fecc9a3067ce65bb38c555327c9b975715",
+              "beacon_block_root": "0x0918effa89dda5550831a191597e46d7ca4b88ded34098be171bda8b39332de3",
               "source": {
                 "epoch": "4",
                 "root": "0xfd33277e0f3fff9e5dd7c0937e970c88fea8b1d007d7951d75d239e6b84bb65e"
               },
               "target": {
                 "epoch": "5",
-                "root": "0xe02b977d1da22c7af029efb98f357c4b43179f81fda84ac08117f6a8abfacbbf"
+                "root": "0x0cb0da9c6fc86beb00bc47d6ddf0ca094a3a1f56bcece58d21a57f79f47f4ac8"
               }
             },
-            "signature": "0xb059724787bbb83e8688e51f6420d7fe013617972c8b49aff2db9d9c8d125c2089a28d8e827ed56dde5dba904187ef921701105f6ca6d326309733a3f0783e290d5fa06a61caa2f7fd9d531f8e99bfa4bd57123d477417c97cb1bba4889958e8",
+            "signature": "0xa1a0f819f9a091e15580ea0519f3907cd354c5ee5dc7459e5c0a32b449b48a284cb8f52eefbf1e705bed6b512a202f0c0d0a8009d27335450fbdb9e055dd586cd133e6ee952645e4d5838debcb80515eb18381ce2fc5c6bf21f204b1ad29e20b",
             "committee_bits": "0x03"
           }
         ],
@@ -45,7 +45,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
         "voluntary_exits": [],
         "sync_aggregate": {
           "sync_committee_bits": "0xffffffff",
-          "sync_committee_signature": "0xab1d0c14786182367764ae66bd62bffd9f643aa2849ab8497495b725ba9b4fe3f50ac81644ba847116e2919292df553a0df1d3e0a56275bffb81a4e900b269eb47ecfdd2b1f09cb12727902c3ea202e39a8fdac42905c83f731af6f4eff90110"
+          "sync_committee_signature": "0x8890b34888b0a18219dc681639d66ea349e7ef0fd2aea094bcd522ca38f90bf1ff7622980f92d6970f27150e4a635db40cf9ef9e739449827f8715c18b2af67b4e99bad1b70329220247533bf60affb00f505fffde587e253d7fa3b56a3071b6"
         },
         "execution_payload": {
           "parent_hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
@@ -64,16 +64,18 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "transactions": [],
           "withdrawals": [],
           "blob_gas_used": "0",
-          "excess_blob_gas": "0",
-          "deposit_requests": [],
-          "withdrawal_requests": [],
-          "consolidation_requests": []
+          "excess_blob_gas": "0"
         },
         "bls_to_execution_changes": [],
-        "blob_kzg_commitments": []
+        "blob_kzg_commitments": [],
+        "execution_requests": {
+          "deposits": [],
+          "withdrawals": [],
+          "consolidations": []
+        }
       }
     },
-    "signature": "0x9980b71671f0cdbe8a5b5296d7c012017ef232eb7549109b37a2b21878c96d8c5d75d752ba9a2addbaf764a80bda75a217c33022551a0f96b930109b59ed6f867d2d1e5606e70e88e8c5c653a222fd03c047d660568577869dc8975914a6a8d1"
+    "signature": "0x92e543b92ad53835749bb79478619009fbaaca88e1cdd971cd73e12c86824f294e2cb2f215dd180f6d0fea51ca00a45d12fe271c7658de815381e10c4ef44c3188659da142d255090bcc7310ab35258cae661bf03213629fdfae6b9d26e12875"
   },
   "version": "electra",
   "execution_optimistic": true,
