@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 55932
+content-length: 55924
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -1395,7 +1395,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
         "earliest_exit_epoch": "6",
         "consolidation_balance_to_consume": "0",
         "earliest_consolidation_epoch": "10",
-        "pending_balance_deposits": [],
+        "pending_deposits": [],
         "pending_partial_withdrawals": [],
         "pending_consolidations": []
       }
