@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 87
+content-length: 105
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -8,6 +8,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     "head_slot": "48",
     "sync_distance": "0",
     "is_syncing": false,
-    "is_optimistic": true
+    "is_optimistic": true,
+    "el_offline": true
   }
 }
