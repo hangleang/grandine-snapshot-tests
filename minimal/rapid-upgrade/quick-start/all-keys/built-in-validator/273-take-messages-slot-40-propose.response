@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 58543
+content-length: 58544
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -1368,7 +1368,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
         "deposit_requests_start_index": "18446744073709551615",
         "deposit_balance_to_consume": "0",
         "exit_balance_to_consume": "64000000000",
-        "earliest_exit_epoch": "6",
+        "earliest_exit_epoch": "11",
         "consolidation_balance_to_consume": "0",
         "earliest_consolidation_epoch": "10",
         "pending_deposits": [],
@@ -1469,7 +1469,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "slot": "40",
           "proposer_index": "15",
           "parent_root": "0xf89095da17fee7e3bfacd717e20e9bc5ce56b0d1bc3d640a485ad47cf3aeac6d",
-          "state_root": "0x916289bbd964c638fb431003de6ef9bd81362f63e72811330cf51993fe75a90c",
+          "state_root": "0x3010445c9aa5c9df37647066e491427c1020440f26f5ff49053cf1dd6912fb45",
           "body": {
             "randao_reveal": "0xa661a3ad1af2710e59fcc2a0d2bb5b98a4f288ad56c8e65398f75f596a18d5255022d36efaa6a6318907183883c64c5b08a634ce5ffd39bccb87db2e5fcd5f8be53f0d12870b54611fe2753626e2a987cafd29e47ea791529e80a20a3ac127c3",
             "eth1_data": {
@@ -1515,7 +1515,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
             }
           }
         },
-        "signature": "0xae8118b594a3d68979ac46cbffe18976114492297c4b7e1bdd05f4eac30a7a3cf96caecf466eab191da1d166475518e00cde36f35e0e54be0e4fb7fda8eda5c023f1fdfea1162ac4a9d0c6814c3182b3b17052c1b887b338cbcd88ce0446678b"
+        "signature": "0xab113596ebdde1c9155de575e13bda18afd4a4461c1931505db86f2ac69490ddffa0f8a55189917011d8c66e1595af9a15c765f3e5acf0dbec6a3e5a4f3615e96a63d3cb027cd9caae5d3d91f39b043ab373fe4e67146ad26e2947f3d2e18372"
       }
     }
   ]
