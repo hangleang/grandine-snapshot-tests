@@ -1,0 +1,5 @@
+POST /eth/v2/beacon/blocks?broadcast_validation=consensus HTTP/1.0
+Content-Type: application/octet-stream
+Content-Length: 0
+Eth-Consensus-Version: invalid
+
