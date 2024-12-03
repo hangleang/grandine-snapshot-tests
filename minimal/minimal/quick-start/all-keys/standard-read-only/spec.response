@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 5764
+content-length: 5807
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -116,6 +116,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     "MAX_REQUEST_BLOCKS": "1024",
     "MAX_REQUEST_BLOCKS_DENEB": "128",
     "MAX_REQUEST_BLOB_SIDECARS": "768",
+    "MAX_REQUEST_DATA_COLUMN_SIDECARS": "16384",
     "MIN_EPOCHS_FOR_BLOB_SIDECARS_REQUESTS": "4096",
     "BLOB_SIDECAR_SUBNET_COUNT": "6",
     "DATA_COLUMN_SIDECAR_SUBNET_COUNT": "64",
