@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 134
+content-length: 133
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -8,5 +8,5 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     "randao": "0x9f49c7b09309c622e0378f9a38db32dc7ac5e96267dd669546cce8955fc10f7b"
   },
   "execution_optimistic": true,
-  "finalized": false
+  "finalized": true
 }

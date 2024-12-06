@@ -1,7 +1,7 @@
 HTTP/1.0 200 OK
 content-type: application/json
 eth-consensus-version: deneb
-content-length: 3765
+content-length: 3766
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -89,6 +89,6 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     "signature": "0xaf2c915e019dc4ceab566de2800587f2b0804e74215bdac6db9987fd80ebbf3b951b6d0ae8a6d73e187c3bcad93ae9540a8250785c7c6bc26b11d9209d6da6d04076d286f4c0c84dc486a7b0bae9bdb8e6fa2b066b323e2037032bdd48dc8d72"
   },
   "version": "deneb",
-  "execution_optimistic": true,
+  "execution_optimistic": false,
   "finalized": true
 }

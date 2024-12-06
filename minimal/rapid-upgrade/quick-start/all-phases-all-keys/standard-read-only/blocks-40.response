@@ -1,7 +1,7 @@
 HTTP/1.0 200 OK
 content-type: application/json
 eth-consensus-version: electra
-content-length: 3311
+content-length: 3310
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -79,5 +79,5 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
   },
   "version": "electra",
   "execution_optimistic": true,
-  "finalized": false
+  "finalized": true
 }
