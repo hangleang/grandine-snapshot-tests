@@ -1,22 +1,22 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 663
+content-length: 662
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "data": [
     {
-      "root": "0x2f876cd59923a76284d2126682ac9353bc03e1f6e4a078e4368b733ca8a092b1",
+      "root": "0x8263ee6453015e9bd8d945bc0050a635b71a78e050ffe3152e13f982df3fc05c",
       "canonical": true,
       "header": {
         "message": {
           "slot": "48",
-          "proposer_index": "39",
-          "parent_root": "0x07fe45ce5ae55cb1769c32ce0348e52a6ca8235b5ab12a379113d339b75c803f",
-          "state_root": "0xbc40e44782d2103b310b3775d04af058f959ded865d6781caba975b8c7606c3f",
-          "body_root": "0xc4758d163952b016ec26ccf955191a04fd0071c5cbb3aabe7ee42617c2e6cc61"
+          "proposer_index": "2",
+          "parent_root": "0x7d3dbffc3bdea11a76748f80f1e5ab33af2fca41eab6727b931bddcfcba77232",
+          "state_root": "0x83bbbb4faa0c19b7e1b1b131fba84e76d1150df26b3c7d1aeb69e88bf1029aac",
+          "body_root": "0x3f356ccbe1189d2826c6698933fd92257361bb757f036abb2971da9be325a819"
         },
-        "signature": "0xa4232e2e36e45841cbd3ef5088a97a494f2744097a8f98aa14f3a4eb3e2ed2c286268e29caef07de70afae7add0a78f8144f3b00f1b9bc7ed4e0ad0d4348b1ef7e33c1fa7f5de84c98211f2e748c14852108c55074f6324c2cf0044ae60c0e04"
+        "signature": "0x8bad81da857a35b63bb975d433cc52770173850a63664de26ae7eebf7379047825859741e3ea92d2c2756447fb3d1df7194c3a37ed462169ed30dafee49aebe22e4897f497954f6bf54d9030f42b1ea7f4c9264a185a9334108b5b3a974c8ef1"
       }
     }
   ],
