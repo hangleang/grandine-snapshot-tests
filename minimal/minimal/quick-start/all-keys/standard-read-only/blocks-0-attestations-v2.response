@@ -1,0 +1,12 @@
+HTTP/1.0 200 OK
+content-type: application/json
+eth-consensus-version: phase0
+content-length: 76
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": [],
+  "version": "phase0",
+  "execution_optimistic": false,
+  "finalized": true
+}

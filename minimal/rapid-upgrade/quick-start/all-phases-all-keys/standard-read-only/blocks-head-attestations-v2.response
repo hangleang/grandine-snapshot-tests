@@ -1,0 +1,31 @@
+HTTP/1.0 200 OK
+content-type: application/json
+eth-consensus-version: electra
+content-length: 659
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": [
+    {
+      "aggregation_bits": "0xff01",
+      "data": {
+        "slot": "47",
+        "index": "0",
+        "beacon_block_root": "0x0918effa89dda5550831a191597e46d7ca4b88ded34098be171bda8b39332de3",
+        "source": {
+          "epoch": "4",
+          "root": "0xfd33277e0f3fff9e5dd7c0937e970c88fea8b1d007d7951d75d239e6b84bb65e"
+        },
+        "target": {
+          "epoch": "5",
+          "root": "0x0cb0da9c6fc86beb00bc47d6ddf0ca094a3a1f56bcece58d21a57f79f47f4ac8"
+        }
+      },
+      "signature": "0xa1a0f819f9a091e15580ea0519f3907cd354c5ee5dc7459e5c0a32b449b48a284cb8f52eefbf1e705bed6b512a202f0c0d0a8009d27335450fbdb9e055dd586cd133e6ee952645e4d5838debcb80515eb18381ce2fc5c6bf21f204b1ad29e20b",
+      "committee_bits": "0x03"
+    }
+  ],
+  "version": "electra",
+  "execution_optimistic": true,
+  "finalized": false
+}
