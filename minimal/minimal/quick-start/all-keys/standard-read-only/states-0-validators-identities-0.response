@@ -1,0 +1,16 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 203
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": [
+    {
+      "index": "0",
+      "pubkey": "0xa99a76ed7796f7be22d5b7e85deeb7c5677e88e511e0b337618f8c4eb61349b4bf2d153f649f7b53359fe8b94a38e44c",
+      "activation_epoch": "0"
+    }
+  ],
+  "execution_optimistic": false,
+  "finalized": true
+}

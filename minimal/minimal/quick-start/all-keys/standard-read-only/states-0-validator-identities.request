@@ -1,0 +1,6 @@
+POST /eth/v1/beacon/states/0/validator_identities HTTP/1.0
+Content-Type: application/json
+Content-Length: 2
+
+[]
+
