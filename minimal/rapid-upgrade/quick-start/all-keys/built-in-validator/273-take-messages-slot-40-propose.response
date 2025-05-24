@@ -30,7 +30,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "proposer_index": "51",
           "parent_root": "0xc5133547660086b24a52e0569913e78246b5b5c7dc4b2e5f64277ccb7c4ca763",
           "state_root": "0x0000000000000000000000000000000000000000000000000000000000000000",
-          "body_root": "0x6b069b566cb3bf4905895526b1fc34252a189b5a3a676dbf30a54033d83fc133"
+          "body_root": "0x994458fed984dae019e51ad98a5e84ed6f456af9d3af0e33b7c57c6b01392bcf"
         },
         "block_roots": [
           "0xc9a3323b6c59a7374e60501768ff4b47e4603a837c9ed42634bb5a6d6be58b6e",
@@ -1469,7 +1469,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "slot": "40",
           "proposer_index": "51",
           "parent_root": "0xc5133547660086b24a52e0569913e78246b5b5c7dc4b2e5f64277ccb7c4ca763",
-          "state_root": "0xc843563a1ecfd1c43aa4388f35df11d1406dc41123057ffe0dff9f764c6383a1",
+          "state_root": "0xc7ef0d7a9619e9d521e6791bd127bf5b16acd9d92b42f886c538d81f5694cb70",
           "body": {
             "randao_reveal": "0xb03833896b1fc3afc64e841e6cdc5f287a8b0bf5cd0283d0ac24ff05dff4adf6784298d6b89985b2cd757f0702a0402c0f07aaffe4b7b57e7517b0836215efa6676ee0ae4879c8cee45a4926a629e6cfae9753e876e31b26d566dc1d7d64bc02",
             "eth1_data": {
@@ -1515,7 +1515,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
             }
           }
         },
-        "signature": "0xb296a6f534358a06d8ec3d477da25bed3468d3750d1869c1c3dcd9517063e6c02ee5d9247384ec4aa6baf17fa928117b0c09f4d51ae6bce97cd258f4ee793b41b2f9d1a4cc5e97594b8c75f928bc75a28342c42697fb445dd3fb51c10c9771b0"
+        "signature": "0x8009546886a8ef54efa130ba891c03543a24362435a0710a58cdd078da67fbd3636beb9cbf106c5dd0c2bbbd9d8fda6808955b8e5e89c6a8b46f17764d09817089560251ffca5361bc02998187daf4fc9d57ba8f0a463d3dbb1baa54883b2ece"
       }
     }
   ]

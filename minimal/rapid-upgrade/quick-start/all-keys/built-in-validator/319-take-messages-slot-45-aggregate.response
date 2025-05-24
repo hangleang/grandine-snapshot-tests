@@ -18,22 +18,22 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
             "data": {
               "slot": "45",
               "index": "0",
-              "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+              "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
               "source": {
                 "epoch": "4",
                 "root": "0x56cf88a14fdb3132d4d7b4708ca2dcd968594e8a7e1916765dc25981ee0b2f7f"
               },
               "target": {
                 "epoch": "5",
-                "root": "0x38fe2773d8f8c5f0a96b4b89e9bb9a576c894bf543fc353c7c1cabbb6fe3a03b"
+                "root": "0x905d8d4bf1068f22ae92283b9dd4ca40e879ff6de702090a8699b0446eaeb889"
               }
             },
-            "signature": "0xa5df0e3e263e9b3ccca07d578fbe9d4db4bf7e866147039d589cc2a3d5f6a12e26630e1103199e37c855d8605bf220e208be7e6febd61f80ef6dfa14376dfe6d598ae28df3f670552e9b46875e5ad1f653ff470229a5850581b5c10add3bd960",
+            "signature": "0xb9a9e04d5d5bd6af960f735c9d10419cd6d65a36c07b66b382db45d3aa55ff3264b047480625ee846d96ef307fa0fa8d0c0e1d5884b467da88e17db84a874cc23174face6e39699f6afd2d556ee8dc4a8695ad26bfa724500a2e1ceb64d7906d",
             "committee_bits": "0x01"
           },
           "selection_proof": "0x97098569a4bb0ffb65c40cd6e36461e8fe90d83143d6abf88b0a2910fdae6d195ebed3fd1ef1281f516fcb604b327c8c0dd6e65695cd239d1584983b24c4155dd4f7508d2a2227950d6a9736074645b3be0fc4fb538d01db1681e58d1850d9b0"
         },
-        "signature": "0xa08ff09e48fd65ef30e92550a6ba09ae80bae82bf583ceec20a4f955a6952c0e6ce5dc393e3542261e093a0b5e5cb0c41811f96fbed963abc6e03abbadefc88bd05a3a8c76d6c3f19a69663f6d20948e35dc5325a8713c86aa06947c94cbc4b1"
+        "signature": "0xb78aacaaf202541775c3b2e53f1f254d62e4cecadf9c0d61b98274cb6ca7a6c3f2ac601eafd37aebaaa7a72b0456a1a1190fad673c79f15b6bd086ae98621b27f8973490f4eef3c0694bb9b4a844ba1c05c7ea0ad92d76b07f3d44eccea823ff"
       }
     },
     {
@@ -45,22 +45,22 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
             "data": {
               "slot": "45",
               "index": "0",
-              "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+              "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
               "source": {
                 "epoch": "4",
                 "root": "0x56cf88a14fdb3132d4d7b4708ca2dcd968594e8a7e1916765dc25981ee0b2f7f"
               },
               "target": {
                 "epoch": "5",
-                "root": "0x38fe2773d8f8c5f0a96b4b89e9bb9a576c894bf543fc353c7c1cabbb6fe3a03b"
+                "root": "0x905d8d4bf1068f22ae92283b9dd4ca40e879ff6de702090a8699b0446eaeb889"
               }
             },
-            "signature": "0xa5df0e3e263e9b3ccca07d578fbe9d4db4bf7e866147039d589cc2a3d5f6a12e26630e1103199e37c855d8605bf220e208be7e6febd61f80ef6dfa14376dfe6d598ae28df3f670552e9b46875e5ad1f653ff470229a5850581b5c10add3bd960",
+            "signature": "0xb9a9e04d5d5bd6af960f735c9d10419cd6d65a36c07b66b382db45d3aa55ff3264b047480625ee846d96ef307fa0fa8d0c0e1d5884b467da88e17db84a874cc23174face6e39699f6afd2d556ee8dc4a8695ad26bfa724500a2e1ceb64d7906d",
             "committee_bits": "0x01"
           },
           "selection_proof": "0x9145a0ea245a6b5d5ceae1121630b905e95bc60e9ac597cddd917339f01e9d2e133844cf80f903aa6ea37b8dd0184b6d0f121a459da8514e802e4f7224e6ad9035c68570e6dc0eafce150d72b5e8c39ff4d16eb3caf34886128f494f482350bc"
         },
-        "signature": "0xaa2bff549e0365478bd99b2e90a46f691bd9bd041dc9cc05b5aac7e02e768a0740b347515defc773e49e4759dc6c8acd132a6bedbdf94619706a1e7b9f14130d60cdceae7426ca42c4fb6dc683da775a8d4bb7ddf039f49040334f0690d3a9b3"
+        "signature": "0xa5806433aa1130ed6cce6253fed889e5feb8b2abe9857ceccd7612ba1c95652f6d3bce34e9d9ea0d22e1d95e8f913e34158b75f6d14e601780614541b0192cf0afa0aa9d791a4773a8a2eb99d796900c44918768cded432d50f1749164cfe832"
       }
     },
     {
@@ -72,22 +72,22 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
             "data": {
               "slot": "45",
               "index": "0",
-              "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+              "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
               "source": {
                 "epoch": "4",
                 "root": "0x56cf88a14fdb3132d4d7b4708ca2dcd968594e8a7e1916765dc25981ee0b2f7f"
               },
               "target": {
                 "epoch": "5",
-                "root": "0x38fe2773d8f8c5f0a96b4b89e9bb9a576c894bf543fc353c7c1cabbb6fe3a03b"
+                "root": "0x905d8d4bf1068f22ae92283b9dd4ca40e879ff6de702090a8699b0446eaeb889"
               }
             },
-            "signature": "0xa5df0e3e263e9b3ccca07d578fbe9d4db4bf7e866147039d589cc2a3d5f6a12e26630e1103199e37c855d8605bf220e208be7e6febd61f80ef6dfa14376dfe6d598ae28df3f670552e9b46875e5ad1f653ff470229a5850581b5c10add3bd960",
+            "signature": "0xb9a9e04d5d5bd6af960f735c9d10419cd6d65a36c07b66b382db45d3aa55ff3264b047480625ee846d96ef307fa0fa8d0c0e1d5884b467da88e17db84a874cc23174face6e39699f6afd2d556ee8dc4a8695ad26bfa724500a2e1ceb64d7906d",
             "committee_bits": "0x01"
           },
           "selection_proof": "0xa9e1e957dd7dc6d2e109a39bd5d85d0c72851e0e7e1b381453400781ecaa4b2a6b09cc8f13ff65464df9f2231a1bf81f108f3b8a9c19654d519b0896058cdcccf34c1a9683f0d6d6a07b6229d74877065b02df2aa87d116eeb89c0a2edf4f9c9"
         },
-        "signature": "0x8d8d90887aefbb1f6841de20edef79d9ccc5396153d39557cddab618de22f3328db7edb23bc86a53eb5965c57aa917d317e395588dc80d902aed0715c55f0948d3b241039908e39b1f3be5cd06fca13462d8103bd726580c1a08d6700527e126"
+        "signature": "0xaa04bde81381f604d1bde9d320485c63750f07099de8a0a050d8fdfe020dfdf0cb6242dd7011d6f2bc384bd149e0dab31896413d6fa358141b0e9b7f21b74cd684795add9e097fce33fb77ad539a7365d05470ed211c135e7d88b06268060a19"
       }
     },
     {
@@ -99,22 +99,22 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
             "data": {
               "slot": "45",
               "index": "0",
-              "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+              "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
               "source": {
                 "epoch": "4",
                 "root": "0x56cf88a14fdb3132d4d7b4708ca2dcd968594e8a7e1916765dc25981ee0b2f7f"
               },
               "target": {
                 "epoch": "5",
-                "root": "0x38fe2773d8f8c5f0a96b4b89e9bb9a576c894bf543fc353c7c1cabbb6fe3a03b"
+                "root": "0x905d8d4bf1068f22ae92283b9dd4ca40e879ff6de702090a8699b0446eaeb889"
               }
             },
-            "signature": "0xa5df0e3e263e9b3ccca07d578fbe9d4db4bf7e866147039d589cc2a3d5f6a12e26630e1103199e37c855d8605bf220e208be7e6febd61f80ef6dfa14376dfe6d598ae28df3f670552e9b46875e5ad1f653ff470229a5850581b5c10add3bd960",
+            "signature": "0xb9a9e04d5d5bd6af960f735c9d10419cd6d65a36c07b66b382db45d3aa55ff3264b047480625ee846d96ef307fa0fa8d0c0e1d5884b467da88e17db84a874cc23174face6e39699f6afd2d556ee8dc4a8695ad26bfa724500a2e1ceb64d7906d",
             "committee_bits": "0x01"
           },
           "selection_proof": "0x8a8b8daca23751fa85cff1f2ade3fa264fc1e01d2c687705adbff9a149526e118eb7540e12c086d659fe931408f129081056145f11563f8a78ae5361670ff996cffd7db18775da14731ff1bbf0c00da5e934f15e91d5a786e5a6a4ff71373e26"
         },
-        "signature": "0x84c1b63baa9c7347f8314ce0d6a95e392c86d3db76e21ea40d94402a05ed1e276acf72dcb2f934be0a358e63c3b42c79111603f7f48a0d95c5215c82840a5ea856550da51102e594e48a7fea2a10d0491bfb0c22e733111cd07f080e1c821cb9"
+        "signature": "0x86144c2d20a6744ac3e8968e008f5aedc17ffc9978dfb3f43589c8e0dae9933d7010dd0974cc9c2a084f3313213a4bf701c85c67196044e50f6e2c776ebe1b335df02870dfedec9da89ef606ffb019fc86b7a8f45019060accffd60322e2e53c"
       }
     },
     {
@@ -126,22 +126,22 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
             "data": {
               "slot": "45",
               "index": "0",
-              "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+              "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
               "source": {
                 "epoch": "4",
                 "root": "0x56cf88a14fdb3132d4d7b4708ca2dcd968594e8a7e1916765dc25981ee0b2f7f"
               },
               "target": {
                 "epoch": "5",
-                "root": "0x38fe2773d8f8c5f0a96b4b89e9bb9a576c894bf543fc353c7c1cabbb6fe3a03b"
+                "root": "0x905d8d4bf1068f22ae92283b9dd4ca40e879ff6de702090a8699b0446eaeb889"
               }
             },
-            "signature": "0x8a6243dc2a4571a39a4c481f5e224209906907f27d19ce6a71cc4e6ec7bc3d2e79f277e57837346eb8122d2033fadc2016ce6d8a4c297d33526a75a92d115a92c60df04c7421f240edec8a8665070fbb29ce54dfe3910fca2e4f256a866448f9",
+            "signature": "0x8cc3ef9d6b73b5cb8fee167ee32a30ad3f113225abb93e61bfddc4b1d2dbe4950a0b179da8bad80674b0df0665c9532f0f625248f0bca9330dd1d25b281dc0d8eaffa18d3475aae68da24e838f32beb7b7e016409326df0639327732a7b5e5b8",
             "committee_bits": "0x02"
           },
           "selection_proof": "0x8c9b2029b2376125589c189f702a43efcb4b3feebc20d7895c549d520568f64cb1d7182f97e40d326ad8067967de923715ec8a4aae06750a3acf8b3934c0bdd3b7840f54d7c6cf5ad3573acb97ef6c743b40e6375041d277238f78e3aa5b57f7"
         },
-        "signature": "0xadac4631cd5a9dcdf41d6b33e35096fc13512a627b2a9aa030d5817ab558547bafba36ea9ca5e392059338ab4523433909dbea04c9cd1467a99e15e528469cf022dbb094c503c050939a903742d78f2cd65ee4b5883839f07aed7a004f142fe0"
+        "signature": "0x8996200fa42d7fc861b4af72f0efeba18da82d396b113e11cca23b782eeb5a15395bad32f2cd618df1ab0e5215cac43d185c7fdbb85c835e2698e67beca91c787fb2ad70a9ebd42d5ac0e597d88b4fe56afa1acb9ba39dc4d880dc39146022e6"
       }
     },
     {
@@ -153,22 +153,22 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
             "data": {
               "slot": "45",
               "index": "0",
-              "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+              "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
               "source": {
                 "epoch": "4",
                 "root": "0x56cf88a14fdb3132d4d7b4708ca2dcd968594e8a7e1916765dc25981ee0b2f7f"
               },
               "target": {
                 "epoch": "5",
-                "root": "0x38fe2773d8f8c5f0a96b4b89e9bb9a576c894bf543fc353c7c1cabbb6fe3a03b"
+                "root": "0x905d8d4bf1068f22ae92283b9dd4ca40e879ff6de702090a8699b0446eaeb889"
               }
             },
-            "signature": "0x8a6243dc2a4571a39a4c481f5e224209906907f27d19ce6a71cc4e6ec7bc3d2e79f277e57837346eb8122d2033fadc2016ce6d8a4c297d33526a75a92d115a92c60df04c7421f240edec8a8665070fbb29ce54dfe3910fca2e4f256a866448f9",
+            "signature": "0x8cc3ef9d6b73b5cb8fee167ee32a30ad3f113225abb93e61bfddc4b1d2dbe4950a0b179da8bad80674b0df0665c9532f0f625248f0bca9330dd1d25b281dc0d8eaffa18d3475aae68da24e838f32beb7b7e016409326df0639327732a7b5e5b8",
             "committee_bits": "0x02"
           },
           "selection_proof": "0xa067afa80544fb82fddd69848eb87ebc5a15f69fbe8c9c5fdb4f4653e2aff4d5caed202b83fe08313685b7c459a4bc4212f9a9c0ba46697ab80c7bb548126256663df9dc993b31b4be3efd49a5499a3e1f18039280d8123b31c28cd86cf1b55c"
         },
-        "signature": "0xa41716dcfbecd64292758301e0d2ee06d1f799d13ea51272a20786be75285d5633d990e211abd7c5bdd846c5522e4a120e3d77175960c0e01a84bf185c7330c310704f0cbe2365da77d7f6dd7ef455d93c0d968b512affc4da660bcd08942b22"
+        "signature": "0xb7a6ce1c529bdddb1b734b653c3fa653c1bfeb721228ba8be3f8f26e4ea0656bce5647c03228642de0948c713b9ea4eb1036f1657ec8d4be1518bbdc75f9726b41c0fb68101af7bdd9981357527f353e6941a5333feb0e353faa24333984d898"
       }
     },
     {
@@ -180,22 +180,22 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
             "data": {
               "slot": "45",
               "index": "0",
-              "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+              "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
               "source": {
                 "epoch": "4",
                 "root": "0x56cf88a14fdb3132d4d7b4708ca2dcd968594e8a7e1916765dc25981ee0b2f7f"
               },
               "target": {
                 "epoch": "5",
-                "root": "0x38fe2773d8f8c5f0a96b4b89e9bb9a576c894bf543fc353c7c1cabbb6fe3a03b"
+                "root": "0x905d8d4bf1068f22ae92283b9dd4ca40e879ff6de702090a8699b0446eaeb889"
               }
             },
-            "signature": "0x8a6243dc2a4571a39a4c481f5e224209906907f27d19ce6a71cc4e6ec7bc3d2e79f277e57837346eb8122d2033fadc2016ce6d8a4c297d33526a75a92d115a92c60df04c7421f240edec8a8665070fbb29ce54dfe3910fca2e4f256a866448f9",
+            "signature": "0x8cc3ef9d6b73b5cb8fee167ee32a30ad3f113225abb93e61bfddc4b1d2dbe4950a0b179da8bad80674b0df0665c9532f0f625248f0bca9330dd1d25b281dc0d8eaffa18d3475aae68da24e838f32beb7b7e016409326df0639327732a7b5e5b8",
             "committee_bits": "0x02"
           },
           "selection_proof": "0x8604905582363981cb2eb7f13b7dc40ab2863aec5259777836f327f87e66fa83a8031a05b8d1aa7db1abffef261d654514698ee75533ab7b034b3efd8d706f059fb220b57ee36e66718a59bdb6786ba717f61bb5a81a2b8b54bf1f33e81d56ce"
         },
-        "signature": "0xa74914e45bac4017686c54c7b8ce15504a827a298c4974bc1acca93abec7ed79911f1896331d2d9767ed41adf8ff20d50be3c19a12b10300e72ed5b2fe203bda14c1cb052cf3dcc34041cb22c87be786d9b27e9f7718c3d706b4c971bcbc03a2"
+        "signature": "0xb85cf1fa5cdcc74ca3c58bede34fd6c432d1ea60134be544a5b2145710e61730547eae54201201c0269c3ac785ec96b616c0f9ecb86bf51ac1bbc83b583eeeb7077c79d26a2575163d2149fdac3c41a6501a6d6401c93407cb4988c4e567fdaf"
       }
     },
     {
@@ -207,22 +207,22 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
             "data": {
               "slot": "45",
               "index": "0",
-              "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+              "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
               "source": {
                 "epoch": "4",
                 "root": "0x56cf88a14fdb3132d4d7b4708ca2dcd968594e8a7e1916765dc25981ee0b2f7f"
               },
               "target": {
                 "epoch": "5",
-                "root": "0x38fe2773d8f8c5f0a96b4b89e9bb9a576c894bf543fc353c7c1cabbb6fe3a03b"
+                "root": "0x905d8d4bf1068f22ae92283b9dd4ca40e879ff6de702090a8699b0446eaeb889"
               }
             },
-            "signature": "0x8a6243dc2a4571a39a4c481f5e224209906907f27d19ce6a71cc4e6ec7bc3d2e79f277e57837346eb8122d2033fadc2016ce6d8a4c297d33526a75a92d115a92c60df04c7421f240edec8a8665070fbb29ce54dfe3910fca2e4f256a866448f9",
+            "signature": "0x8cc3ef9d6b73b5cb8fee167ee32a30ad3f113225abb93e61bfddc4b1d2dbe4950a0b179da8bad80674b0df0665c9532f0f625248f0bca9330dd1d25b281dc0d8eaffa18d3475aae68da24e838f32beb7b7e016409326df0639327732a7b5e5b8",
             "committee_bits": "0x02"
           },
           "selection_proof": "0xb61cd18f432e6111b5d98e670b15b4f11817ea9f317a1422167a33f64ff1fd44b743142e39355c42f569f35a1c35be56144e508c971c4dabb90c78318c95a6a46dc74a43729dc5b56e9060853ef605b390e0dc1225c9dd075d7fd2a841318cb3"
         },
-        "signature": "0x9652137d2535199566a10e1382dfa2bde32c72e6f486f4043f62adb5730b83f67aebcf48bb676f87ca09ade7f4fd00c00a5e22240780b2f6554ad734e546809d952565ac4ed5835c8d033e1473f91b2e9f82168106d351922800debbaceaf7ea"
+        "signature": "0x909739ef2f066735cd04309801baa09f27136f38d1777c299c5703762d127f56f8fff3b1aaa2224d0daf4fa912582c871490562bacc45d19230bd70e1da8044aca82e365e2fb12084e8e28a949c8e3e5280c43252400b21a5c2892314e26c584"
       }
     },
     {
@@ -231,14 +231,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "0",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "0",
             "aggregation_bits": "0xff",
-            "signature": "0x8e9d05e17520a25a9d311a9ec1e617760a62ffd123fb6090a05a622c78abdb5b8d5605cd5c7c309be440ec4095e429131843ca42c74a2b715f7a869a92f11a51126dcb7a7e8f9aa63c6be8cb756c998e7945e6ba1e67f8f22ac29092bfffba12"
+            "signature": "0x903ef9b785026fa449e513266f7035bbcca5cf84d5b3e4d5b31f9f5a2a6a06200e08de777042d449bdd76494a31a78ad0c76ee39677ece53303c781b67a6339248a02c62774fe1ec4d192791dce16cde2668b083ac8b9439e6ba55ae36a61e38"
           },
           "selection_proof": "0xa544eaba61e734b3188bf363b20af509d4365479b06bec64064e3a0ea398edfbd41384e2754229e7b0e58a86e5b8893e096b493223a47ed75569ef14356bd8fdb32be5b459c35ec065106932429499946041c2d9bd0b20347260a79d9b8fbf22"
         },
-        "signature": "0xa3de1668dc10f3498118c21f195784c5cbabbb8f5d5253aad2b63399f668414a58cc74aa54737d23be858c49c17a641a0b252ccd24611a3e49562b2fdb124b5ecf0125b36fb21d8559b6ce724fc7c69c25aa0d917b6936a92f259d1ce7aec168"
+        "signature": "0xa4903aec7c14f6001868dcc34ba685856debcfec51da4fbd6b1b31ca0066ae95a2079f96603a2f18d659e3baeecb31c70498833dd65f43b2a6b8ad21df865cdf3e49600c3765045fd99c96da0c288cf676ec5569dad73d102fb44d327364b962"
       }
     },
     {
@@ -247,14 +247,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "12",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "0",
             "aggregation_bits": "0xff",
-            "signature": "0x8e9d05e17520a25a9d311a9ec1e617760a62ffd123fb6090a05a622c78abdb5b8d5605cd5c7c309be440ec4095e429131843ca42c74a2b715f7a869a92f11a51126dcb7a7e8f9aa63c6be8cb756c998e7945e6ba1e67f8f22ac29092bfffba12"
+            "signature": "0x903ef9b785026fa449e513266f7035bbcca5cf84d5b3e4d5b31f9f5a2a6a06200e08de777042d449bdd76494a31a78ad0c76ee39677ece53303c781b67a6339248a02c62774fe1ec4d192791dce16cde2668b083ac8b9439e6ba55ae36a61e38"
           },
           "selection_proof": "0xa31f8456d6791314fd472ec5b222271cf8a9ab766005bc51d17cb89ff5071cc5213e2035a63c97bfe7ee0b4e5c2ffa7a19156749c44ae80e71091c8b9e1121af12935791c647a7080965cfaa846b92264a2347dbc6273bab860bb69e827b7dc0"
         },
-        "signature": "0xac81d9f37cb802f03f418205ef684373b6e1c475b8f3e7d91880e7e1c5340130d25b9701f3e69783740b24140b011e021865a7959c918e5945634279875b0b9158260044d77651d4b6bc29e61ce23fa34c6c59bd20bbfa1cc9d6c6f32d31168b"
+        "signature": "0x94cdbbe48f25be904a4838a3d3474f278450570a021981ec066f4396937208702915d8a7c66f13a4f53f53cef5bdac7b0a064388e2ec7fe3a3a606340fe8f22831bf6ca7d7287a03c24d36a8b3a11d6f306b132959739f96ea2ee776f849c854"
       }
     },
     {
@@ -263,14 +263,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "19",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "0",
             "aggregation_bits": "0xff",
-            "signature": "0x8e9d05e17520a25a9d311a9ec1e617760a62ffd123fb6090a05a622c78abdb5b8d5605cd5c7c309be440ec4095e429131843ca42c74a2b715f7a869a92f11a51126dcb7a7e8f9aa63c6be8cb756c998e7945e6ba1e67f8f22ac29092bfffba12"
+            "signature": "0x903ef9b785026fa449e513266f7035bbcca5cf84d5b3e4d5b31f9f5a2a6a06200e08de777042d449bdd76494a31a78ad0c76ee39677ece53303c781b67a6339248a02c62774fe1ec4d192791dce16cde2668b083ac8b9439e6ba55ae36a61e38"
           },
           "selection_proof": "0xb70566747641fcc3c2de91a307ba15a0a30eca2ba8e8e60a8525457ad5a1a7b7280af30e44f21370173c668d6eea073e090a9158c87c12a17ea8b89b595022c4ece486a86c84ded3066d4f4f7560e1f070492045c929adeed6d5918acd568c6e"
         },
-        "signature": "0x91d0e0f00e86a7236eb03e50385aa75bb1a17a851c783cc7a2da1b39c6045e3fc652f353797a844190381d07f7def3fe02b871b3b4ef0812f40006875d023bdb5631a3185efc5b0aa10abdb1873c78416d97e17d596c97d62882fb7281481877"
+        "signature": "0x8fd273a18e59c8a8943ba041b4a8fcb2e0843ec43bec25308fa74992b92c8eb74776476f4c998f540545d67f36e24d011755caf0ace2984e5c974c4c44f4e012ff948a475b2c19e715fb2ee9238c9b180f8401bd07a07b2375e18ff31fee5295"
       }
     },
     {
@@ -279,14 +279,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "24",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "0",
             "aggregation_bits": "0xff",
-            "signature": "0x8e9d05e17520a25a9d311a9ec1e617760a62ffd123fb6090a05a622c78abdb5b8d5605cd5c7c309be440ec4095e429131843ca42c74a2b715f7a869a92f11a51126dcb7a7e8f9aa63c6be8cb756c998e7945e6ba1e67f8f22ac29092bfffba12"
+            "signature": "0x903ef9b785026fa449e513266f7035bbcca5cf84d5b3e4d5b31f9f5a2a6a06200e08de777042d449bdd76494a31a78ad0c76ee39677ece53303c781b67a6339248a02c62774fe1ec4d192791dce16cde2668b083ac8b9439e6ba55ae36a61e38"
           },
           "selection_proof": "0xaeebc3e2f4fed406334376f9da36c1e2056e55fe2ea15330d4e95461f67c1ea1efd32ce0306e0e8bb47e7b8210c1ee9d03240894ff26ab277b6098855594e37bc0d046cd85c82edb23af0380ecfc61f24b64cc1e92460381c139d5a2ca664b81"
         },
-        "signature": "0x8793e4137b46c80e6528720620deb24186ffbaeb28281ef68172bf272a83d40c7d8294a5998176e5923af55542909c5a0ed5e78579caa65b8fcfde1cb7d5d11ef8fbe720ac985200ad7c27bdd2619ef6d4c13ea125f5eb6d4dbd265ba830757d"
+        "signature": "0x8c322b1e4cde17b574a0078fb0bec739862714c936fa176b4159b855315d0abba511686248b694e362c52c6ce842b8d2172c942fa37a2ed001864b56a4695448646712c0d872ecbd1c5d5cc2d23aed5a83498f33b7be4f4e3a37c66ae61419b3"
       }
     },
     {
@@ -295,14 +295,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "38",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "0",
             "aggregation_bits": "0xff",
-            "signature": "0x8e9d05e17520a25a9d311a9ec1e617760a62ffd123fb6090a05a622c78abdb5b8d5605cd5c7c309be440ec4095e429131843ca42c74a2b715f7a869a92f11a51126dcb7a7e8f9aa63c6be8cb756c998e7945e6ba1e67f8f22ac29092bfffba12"
+            "signature": "0x903ef9b785026fa449e513266f7035bbcca5cf84d5b3e4d5b31f9f5a2a6a06200e08de777042d449bdd76494a31a78ad0c76ee39677ece53303c781b67a6339248a02c62774fe1ec4d192791dce16cde2668b083ac8b9439e6ba55ae36a61e38"
           },
           "selection_proof": "0xaa0265d7efa6c84ed55709e7832db468c4375bd36fc67a188fffac2dafc345e620acf4fefde05e1a0d5c2371442bbd4b0457153e9345de16c5ad581ae94527bb6d127991ccd8abf544868a591374567ead00ce4e71c11381e40b0dc5663aa95c"
         },
-        "signature": "0x8855913f20a6150524f845c5c8ee216cd6e9b83d229fcd485b776a1ea61ccccc4599c194a09205822c944deed412d761120f410384aaea773046afcc27ad233a7e90772da1dd6ef6848561e8749ebf32a57fd8d3a412021e0c53f0563886529e"
+        "signature": "0xa46aacef848e9235eed9989bce2276510b32eba5b0d148c75cc756997d823716b6b0f38d654cd29da513293117fe42421584a4f82b4e6e8c1237e7d468e462bcfcfb645b9847c6ef9f506efb0184d22c020367152d307a10a190ffc1fd9e3063"
       }
     },
     {
@@ -311,14 +311,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "54",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "0",
             "aggregation_bits": "0xff",
-            "signature": "0x8e9d05e17520a25a9d311a9ec1e617760a62ffd123fb6090a05a622c78abdb5b8d5605cd5c7c309be440ec4095e429131843ca42c74a2b715f7a869a92f11a51126dcb7a7e8f9aa63c6be8cb756c998e7945e6ba1e67f8f22ac29092bfffba12"
+            "signature": "0x903ef9b785026fa449e513266f7035bbcca5cf84d5b3e4d5b31f9f5a2a6a06200e08de777042d449bdd76494a31a78ad0c76ee39677ece53303c781b67a6339248a02c62774fe1ec4d192791dce16cde2668b083ac8b9439e6ba55ae36a61e38"
           },
           "selection_proof": "0x869cd19d57c4624a000eb0ababee015ce58143178c65dddeee1f4687751368986ca40107a9aa6ea8be5b506a3f13dedb185645999457bf0d00b35607f4e9b96bea6441b6cd7094373135a3bcb74e40fb7cb4731bb4e4e99b30699a6e51a76ed0"
         },
-        "signature": "0xad65b0fb63c2a9b2f9c0421d9ca21ddcf1234ecd49899764670e28f89482d757d2f21a54a892f73266de610f672b1ad00d105b808f97ffaf72552ca63212f2c419618357ab5eb260254099c8ce6874f9ec97e3203d80fe72461cd4288663d0fe"
+        "signature": "0x867098652b65bf7054256f8a3f144a2a6fe8de2d2ae25f0a7e2e76ae7d2f40a209a72864c44736cbdf704b1e01fbf196191ae9a40510d6c1a61554112b7b2bf0d513d8b65cbd4e3cea795436129e5f78fbca0f596ef2648df020fd9dcd48c398"
       }
     },
     {
@@ -327,14 +327,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "55",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "0",
             "aggregation_bits": "0xff",
-            "signature": "0x8e9d05e17520a25a9d311a9ec1e617760a62ffd123fb6090a05a622c78abdb5b8d5605cd5c7c309be440ec4095e429131843ca42c74a2b715f7a869a92f11a51126dcb7a7e8f9aa63c6be8cb756c998e7945e6ba1e67f8f22ac29092bfffba12"
+            "signature": "0x903ef9b785026fa449e513266f7035bbcca5cf84d5b3e4d5b31f9f5a2a6a06200e08de777042d449bdd76494a31a78ad0c76ee39677ece53303c781b67a6339248a02c62774fe1ec4d192791dce16cde2668b083ac8b9439e6ba55ae36a61e38"
           },
           "selection_proof": "0xaefc091fb5bb1be827d370b5a7c5b18fef5b6fefb33a7a93c2eaed439019ab29d28a82b52f0fb9bf28f287ad7bb5051f170d809ea192399f8cb55936c81e0843824d1285d83329cc5b3b82c726ebca00fb63f697a727cee1c85406e40115d874"
         },
-        "signature": "0x98106b05656007dd612de4b2edf632cb9dc353e173b82115943200d7bdca64ff5bf4ba65764e425efb86777b0f9ee2511442a44c89e84de235289eb3a314b0b49e1b69d7be5dc2ae598495d3d6f24951d8243ad15bf085e6cc7ecd3a7ce400b9"
+        "signature": "0x923209b9e81f14a92801c8f18f571c7bca8ba88d7a6221144728e0b68915e793c15c6e866d67573b8f1abd6479f7a77206f5e1d3dba3c000a26ba5841330fd552c82cede1a5ec42745ed1d3e33d69d1c862606dc0865a0c4a157865476f402f0"
       }
     },
     {
@@ -343,14 +343,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "57",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "0",
             "aggregation_bits": "0xff",
-            "signature": "0x8e9d05e17520a25a9d311a9ec1e617760a62ffd123fb6090a05a622c78abdb5b8d5605cd5c7c309be440ec4095e429131843ca42c74a2b715f7a869a92f11a51126dcb7a7e8f9aa63c6be8cb756c998e7945e6ba1e67f8f22ac29092bfffba12"
+            "signature": "0x903ef9b785026fa449e513266f7035bbcca5cf84d5b3e4d5b31f9f5a2a6a06200e08de777042d449bdd76494a31a78ad0c76ee39677ece53303c781b67a6339248a02c62774fe1ec4d192791dce16cde2668b083ac8b9439e6ba55ae36a61e38"
           },
           "selection_proof": "0xb78d7b2b03a90dfebec7ea6c0d59330c9c160b171824a04982f4f0b58b4edea1d45a34d5e5a055e23f9ad921a42e73b512c47b5b7f1a7b801f354cd8430235b16fa6b424ba80d52d0d934c83f2a6c20d126a89e668b4494d6f84e2746e37216c"
         },
-        "signature": "0x9471944c8ee4fbdff3fffe464f05cbf40ba81a39335725be70ee842a91e6baaa60eaa564df3a5c62d97a960b1b1bc8740a1ca29f68678da30096b0ee42cb048d7746189522a89df6359aca78e6fe4b0a80d07ca111c1d5992ab0b59ed954a7f6"
+        "signature": "0x81b1a1ec3331954fb16f16bb2ead69504da69f01ae86adc9eaf80a1c960804d4b6debeb035d06b12136432086b5e2123179b3faebeaeecfc0e80219907883d259a83314156fe369e079ba46253b0e660e013436f45fcf6a1a500ec7013ce82c7"
       }
     },
     {
@@ -359,14 +359,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "15",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "1",
             "aggregation_bits": "0xff",
-            "signature": "0x9308a3108fb0febbb2b4208b64214a583160aa4ab19acd778ade282bbec9aa4bf170da631725e38ef1d71ee65e192d0e0f85ea99cd87b864ea0921e704425b21c2d5bf942690fb5748f60d69a86ff5e82ac9faed4891fff8f0d82cd88a110c72"
+            "signature": "0xa6af28b8f75b809e2ef28e96a70261d6d0b578560bc39cfb22ce3e455386b3251e4d503d2d25054c2cf97e50758780fb1783646b70aedd00f3b68aeeeae3735dde4a32e0a1e3662bb7b83baa4243cc76b8e854e08e9752ccbe94cc08c6e7b88e"
           },
           "selection_proof": "0x86bded83a806aaac207e33df125a8458d2feff1cb5e4ced83e4cfe52ac7d80c6cba86bc7585515fd3409bce249914729118d48198e2551074404febdc5518936e1024f3df4681f9b4cacea5376b1d0bc70da8b501db436232d31d391750dc05a"
         },
-        "signature": "0x8d7bfe886d99d690a2e8e8310ee542792aeff70d5201e059ccdf90c9c4db795d1bbae777d997a7d4e2a6d849195c846b04fdeb3db7db1a6a7f7f9d5a2fc25cc2aab19e2b8b2db39d5cda8c908af6e5ec63aa9d9cf8c8412fd3355b0fb793c1cc"
+        "signature": "0xb01ce76aab35f347ba9baffa228baa414a71628f18ccaba86e1f1626a77444f855642824667e0cc300a27a5fe9ee6e6601aacb1e0a5d04aa6abd4d2c5f2a4683c8aceceb541f1e9bc8a15e12f65f40f328f732de9490ca1df523d47cf2ee04b7"
       }
     },
     {
@@ -375,14 +375,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "16",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "1",
             "aggregation_bits": "0xff",
-            "signature": "0x9308a3108fb0febbb2b4208b64214a583160aa4ab19acd778ade282bbec9aa4bf170da631725e38ef1d71ee65e192d0e0f85ea99cd87b864ea0921e704425b21c2d5bf942690fb5748f60d69a86ff5e82ac9faed4891fff8f0d82cd88a110c72"
+            "signature": "0xa6af28b8f75b809e2ef28e96a70261d6d0b578560bc39cfb22ce3e455386b3251e4d503d2d25054c2cf97e50758780fb1783646b70aedd00f3b68aeeeae3735dde4a32e0a1e3662bb7b83baa4243cc76b8e854e08e9752ccbe94cc08c6e7b88e"
           },
           "selection_proof": "0xae2d75147df730293ece2af529a91da40fa2c7457c233314a3dd40e8749bc076b958dea7cbe4482478fcb0cbec661fa107eda8529d2db338c9164fa4bf28593b90a7b3fb48fe6e843be302ae1a703d158bea511e9d3344544d969971e27ddab7"
         },
-        "signature": "0xabe23b5607846b77c414624f978353b7e8c61b4b04f99440ae1d7bc2fdea5d4c075e12181d1a0e5f348f56493ca7feed041de6eca6cb732e91b11f0ecc5d33ecef8f81137f5e4b45b4d6d091e0e6e9dc380a3a7d21c88f77a9120dc24ab91f47"
+        "signature": "0xa63a19128660092313f704d3e408406a2f8cdf7e9129b3143e166d433dac30d746053d571a06b1bbc46da46c935999910ad1f1e11ac00f6c71716aa39a59cd31a49c35af6ebb3a3bb3f73cddd1769d81b5624f3fdd7862e9db4b408d179e5a7c"
       }
     },
     {
@@ -391,14 +391,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "17",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "1",
             "aggregation_bits": "0xff",
-            "signature": "0x9308a3108fb0febbb2b4208b64214a583160aa4ab19acd778ade282bbec9aa4bf170da631725e38ef1d71ee65e192d0e0f85ea99cd87b864ea0921e704425b21c2d5bf942690fb5748f60d69a86ff5e82ac9faed4891fff8f0d82cd88a110c72"
+            "signature": "0xa6af28b8f75b809e2ef28e96a70261d6d0b578560bc39cfb22ce3e455386b3251e4d503d2d25054c2cf97e50758780fb1783646b70aedd00f3b68aeeeae3735dde4a32e0a1e3662bb7b83baa4243cc76b8e854e08e9752ccbe94cc08c6e7b88e"
           },
           "selection_proof": "0x8f65173b19b30f3addbe6b2d9aa2ff66337ee2a0f87c9d2230b19a10165e4c1d35d651cb300d4a15f2db1d08f5ec22f300a657cf7f7350e144822b491518ead0c33281d34cd512418cfab90dc9cf9e787ffe8e5eaf74023fd7829d2bafe59840"
         },
-        "signature": "0xa172131a0c63a5953c8e7df902fff7d50d48ba986151747c322fd53cba94af8f615c3609cf41b6de40b55857f72509c4116a6960c85161788613586672bcb2a3ab4d46ff3f5ed634c81bb83c37a5fc4f239a5100e90374eb739c735899089d49"
+        "signature": "0xa6e31468ecaf5f06d213839316257daa674ac6e3534aeb20fbfde2fd13d6db950645ff2526c73249b8442bead46250f808df920d7097c579b9e8b6b616df310e50f9bdf3973410c9df84d8fa0d5b1681fdde06cb44e3ec9a44466e9424ae64e8"
       }
     },
     {
@@ -407,14 +407,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "18",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "1",
             "aggregation_bits": "0xff",
-            "signature": "0x9308a3108fb0febbb2b4208b64214a583160aa4ab19acd778ade282bbec9aa4bf170da631725e38ef1d71ee65e192d0e0f85ea99cd87b864ea0921e704425b21c2d5bf942690fb5748f60d69a86ff5e82ac9faed4891fff8f0d82cd88a110c72"
+            "signature": "0xa6af28b8f75b809e2ef28e96a70261d6d0b578560bc39cfb22ce3e455386b3251e4d503d2d25054c2cf97e50758780fb1783646b70aedd00f3b68aeeeae3735dde4a32e0a1e3662bb7b83baa4243cc76b8e854e08e9752ccbe94cc08c6e7b88e"
           },
           "selection_proof": "0xa75171f6ba1256ba87551d0f0e6e981571491b264ac1c02955e2528ebf30fcaa2aa947a1d33c6f1ca8bc47a7818d95080b4a8686bed94bba3e10e809ac28a604a0a226cf1f5798c878aca737ecd7a90a92eaa16bbabb5332667ef72db63c86ce"
         },
-        "signature": "0x96b08d4ad0fbe088c7319c197fe911f816578bf058c69bce615b99fa7580a11951d901f9fcfbffdb074b3d87116f2ab805a72bd64e6609301c1d4b3732b8249597beecdeac97eaa2f673ded36c0781d4d0f657f23dacba82034051f8ec4c631c"
+        "signature": "0x865726123ed1044cbd81330b3c4cb221b2fbc7a9d4863b44b98b95cf5aa9129863c497e3268fea2de0809947f5217f030a52a5e58f57257cce6c02f6201bab4a5b31f05b706d1f2b31443f498336558497c21479bd8996ebe40c480302e027ec"
       }
     },
     {
@@ -423,14 +423,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "21",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "1",
             "aggregation_bits": "0xff",
-            "signature": "0x9308a3108fb0febbb2b4208b64214a583160aa4ab19acd778ade282bbec9aa4bf170da631725e38ef1d71ee65e192d0e0f85ea99cd87b864ea0921e704425b21c2d5bf942690fb5748f60d69a86ff5e82ac9faed4891fff8f0d82cd88a110c72"
+            "signature": "0xa6af28b8f75b809e2ef28e96a70261d6d0b578560bc39cfb22ce3e455386b3251e4d503d2d25054c2cf97e50758780fb1783646b70aedd00f3b68aeeeae3735dde4a32e0a1e3662bb7b83baa4243cc76b8e854e08e9752ccbe94cc08c6e7b88e"
           },
           "selection_proof": "0x9969e4f7c5e470c274dd8dff09ad2f02e12ef24eb2b9c29f012246a3ea53e091249059ed744329c0c08e2a3e2622b0f806bb863d9b1476247945d1e1667c76a4313fde3f0720964cdeae0ad2be3cf1a8e3b62afe902ed52531f42060e24fb44a"
         },
-        "signature": "0xa7a683e457a3b0e0adfef364cec3d3ba4c8f020c228b7882a90f95c682f5e691c185a2ecc32596923692d219b89a50440c00dfb850c3f6afc45aeec0900ef54f3a5c69926bf1b729fc82815b77a757142e5d89726b3d902f69866b4f2937896d"
+        "signature": "0xb6bde74c729079b8ae729cbd23781272140ecba90be96a799c371c711c707d9d36906ed957fee02ba6a74a2a8c9150661492d02c335d3d4102b802bcce2937fd96cb25ad81343d55f448fb3a98262d276537a5bf587a7b5287574b5321889b16"
       }
     },
     {
@@ -439,14 +439,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "26",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "1",
             "aggregation_bits": "0xff",
-            "signature": "0x9308a3108fb0febbb2b4208b64214a583160aa4ab19acd778ade282bbec9aa4bf170da631725e38ef1d71ee65e192d0e0f85ea99cd87b864ea0921e704425b21c2d5bf942690fb5748f60d69a86ff5e82ac9faed4891fff8f0d82cd88a110c72"
+            "signature": "0xa6af28b8f75b809e2ef28e96a70261d6d0b578560bc39cfb22ce3e455386b3251e4d503d2d25054c2cf97e50758780fb1783646b70aedd00f3b68aeeeae3735dde4a32e0a1e3662bb7b83baa4243cc76b8e854e08e9752ccbe94cc08c6e7b88e"
           },
           "selection_proof": "0x88256ce90b2392132fa04b47cd6149bdd4def938694f06cf6627dfae2c7a57a229a5777c9701f2123361b5eed70c5b5313b8d55b22a867857a9dc084fae3a267176ae3b44baed2ea48039d47501a4acb5eb4cc8d9c48377e9b755c18b907015e"
         },
-        "signature": "0x903aff1cff77cd24e4ef828e9c9ac84a9004ead9a0e50f8936e96ea1c4525f102c6b9ad787317f0fa1d3ba71699b52ea04e9240d1bc780330eec17d8f312b65444c757e5226936f43e3e47725fe9da57540239b4e91c35cbe38d4a806ecfae3a"
+        "signature": "0x96b06fc97c27bfa0d3dbaf971d0edf38b665055ca6c3c54410905a6f3d07c41709f1bd071b73a0068e9ac0764430a1230e6e42bbebd82e786de65a9d4103439324865250a539bfb3e87c1753e53e5c92ddbbf4526c5543d7711b87630970bccc"
       }
     },
     {
@@ -455,14 +455,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "41",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "1",
             "aggregation_bits": "0xff",
-            "signature": "0x9308a3108fb0febbb2b4208b64214a583160aa4ab19acd778ade282bbec9aa4bf170da631725e38ef1d71ee65e192d0e0f85ea99cd87b864ea0921e704425b21c2d5bf942690fb5748f60d69a86ff5e82ac9faed4891fff8f0d82cd88a110c72"
+            "signature": "0xa6af28b8f75b809e2ef28e96a70261d6d0b578560bc39cfb22ce3e455386b3251e4d503d2d25054c2cf97e50758780fb1783646b70aedd00f3b68aeeeae3735dde4a32e0a1e3662bb7b83baa4243cc76b8e854e08e9752ccbe94cc08c6e7b88e"
           },
           "selection_proof": "0x8b2b25403f1e19e7c1c9fb0fd2757137d6a4279c285f0fce1af5567dbbe18a2a3c51d7fe0ce3498874da25ba661eb7f109f577477fa51036c75b381e6d10dead57969272f3bcd0170096a716e4bb6b3a7c3ce8fe8f998c164359124f5c96b13a"
         },
-        "signature": "0xab1b55657780f84986dbfcff7b70bfae7c2cc47ad0db888219f5f83d1ae4c8faab0beff279f4997f4bc8f6d1dd06a6a502f7c9f5c4e583a26ef75eb014563a95806ab562465a0d80ef2e81d533ba2c482bb2c22c556608b057ec443f1eb2dd12"
+        "signature": "0x88dd6e2bea8acc0c996fa295e409540e6f29dbcd95872a4bf428e4da1aac84a5fa9704166260ebaeb10f3787575b1540012fced0f6795bf32a03a8b6d0f52a06376c11fad267deb2d5e42b9da3356849723f0b232ca8bca55f228a1294578e3c"
       }
     },
     {
@@ -471,14 +471,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "53",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "1",
             "aggregation_bits": "0xff",
-            "signature": "0x9308a3108fb0febbb2b4208b64214a583160aa4ab19acd778ade282bbec9aa4bf170da631725e38ef1d71ee65e192d0e0f85ea99cd87b864ea0921e704425b21c2d5bf942690fb5748f60d69a86ff5e82ac9faed4891fff8f0d82cd88a110c72"
+            "signature": "0xa6af28b8f75b809e2ef28e96a70261d6d0b578560bc39cfb22ce3e455386b3251e4d503d2d25054c2cf97e50758780fb1783646b70aedd00f3b68aeeeae3735dde4a32e0a1e3662bb7b83baa4243cc76b8e854e08e9752ccbe94cc08c6e7b88e"
           },
           "selection_proof": "0x908f0f901fde52572c049304ba4b2ff7e798b66f2268171205b27c38792e7dbc944d48ef666e4ac7fac4b47c8454326c0b371be13a6ba09977c17aff900bb94409c0309c86e30edee73cd5368fbb9bcb8cc7e1839319f49bafae9d2ac535adc5"
         },
-        "signature": "0xa5806fa539f247539a13b7cc6e5504e572125e2415b0d2b148fd0a9739ec7f9e85c5279bb6271cd5256ba3e67026e42f080131c21839e6a6c97b25895b9e060d55707621135ff76aa16d2c16eb00f26193a661d494b4295275740bb37599e5b5"
+        "signature": "0x9460e7cc340d218e801fee5ac3335ed014915d2c4affa96505f721d6f117304e2c2d3187b379c5e85de792dfd8f9558b0b908e94f55423792e9fb7efc257e0d9ff1c166f954a76fc13a9682090a1c3c71f482e1f8816a74782430454b3df0aa2"
       }
     },
     {
@@ -487,14 +487,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "4",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "2",
             "aggregation_bits": "0xff",
-            "signature": "0xa0de38c71eb530b7320029ea1aad9876ac43ecaaf6f565514d60932d9e24a3508d1bff33683d2673a057b40c7ba09982032ae97ef711c63237dd5a3947e405744717c947fba964cea50a01a6b6926636ec8ea2e953ce8e062a462d2e3a5552d8"
+            "signature": "0x86f7d1b78b1e5816d1c48f11fa5124fa34edfb88a25e920067174bb3ccccfd7fb9e8d2e713c53ca101bf1c66d0cdd3ef182ecefbf6a63bd7463ac7572ed3c03e1ff6784bad024fc6acbcd7767b0df62ab2ec6fa82f154bacf4ec795cea7c72de"
           },
           "selection_proof": "0x95b243825248341d470af43b27dbe88fa5f88f8f196d3765416c998c5c61c3c82ad9cf607467b10f09b36193bb0a8edc1926ae060850db486b29822357bae9fc2c3a73959bfac54d24ef33cfb608817e0e33c609c44966de077e7a7fb0825816"
         },
-        "signature": "0x8edbca3e68f18b82fa3adb33359967793c77b9afb3d30fe10d1020a3048a994a5374c938fcf35659d9ecb929312002a0189d7de283641259ca2a984139198c2e7831f7afe3d20bede79e498edd5639105849e59b9c342cb8a4f2c25e45d87cb6"
+        "signature": "0x919e68ef77b36f2ecde1f30542f9040b897f7000eb1c46a3f4a5b291d60c55dda670e969498825670246ac9ff0ba839306399e3dcc28f2b895eb84d914821ab6a3e3f34dcf40b99ab9597b54c4c68107770a29adc3f2622f58fdbf44f53e4ff3"
       }
     },
     {
@@ -503,14 +503,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "34",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "2",
             "aggregation_bits": "0xff",
-            "signature": "0xa0de38c71eb530b7320029ea1aad9876ac43ecaaf6f565514d60932d9e24a3508d1bff33683d2673a057b40c7ba09982032ae97ef711c63237dd5a3947e405744717c947fba964cea50a01a6b6926636ec8ea2e953ce8e062a462d2e3a5552d8"
+            "signature": "0x86f7d1b78b1e5816d1c48f11fa5124fa34edfb88a25e920067174bb3ccccfd7fb9e8d2e713c53ca101bf1c66d0cdd3ef182ecefbf6a63bd7463ac7572ed3c03e1ff6784bad024fc6acbcd7767b0df62ab2ec6fa82f154bacf4ec795cea7c72de"
           },
           "selection_proof": "0x879befbb0e50103cc31605f0c53289d59727fb37f9ed464f36f8b0c5d5fec913039040e45e18613a2d79cd35cc2ff0b61746e779e7a20d5aa4ae18159d172743e082ee14feb5242ab642e257ef0d4c02105b1a9b059b87e26cd4b431736ee4ad"
         },
-        "signature": "0xa7b278bb3ab14318488e59e65110ad1c6aca32cc95b76e80a7dfc5c5f6fbaac8d99836f53625e9232d1243d2989e745806bb556d426d504ade696bccdc6c102a9d60e1b6f675d7330735315e231669bad4ab05db7a384184b78890fadfb9e3af"
+        "signature": "0x8897856a712ad7a1a831abd62fbf442c49393c61108fff27b01673b24575d920e92a770ec9952ba671c867f5c00ff30f0bdec05fd1179480d4cc91ede143234a8aabe6594eeeea1437f2485e41d75ebc6c68b64fd04e48c7e63268bdda873470"
       }
     },
     {
@@ -519,14 +519,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "36",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "2",
             "aggregation_bits": "0xff",
-            "signature": "0xa0de38c71eb530b7320029ea1aad9876ac43ecaaf6f565514d60932d9e24a3508d1bff33683d2673a057b40c7ba09982032ae97ef711c63237dd5a3947e405744717c947fba964cea50a01a6b6926636ec8ea2e953ce8e062a462d2e3a5552d8"
+            "signature": "0x86f7d1b78b1e5816d1c48f11fa5124fa34edfb88a25e920067174bb3ccccfd7fb9e8d2e713c53ca101bf1c66d0cdd3ef182ecefbf6a63bd7463ac7572ed3c03e1ff6784bad024fc6acbcd7767b0df62ab2ec6fa82f154bacf4ec795cea7c72de"
           },
           "selection_proof": "0xb3836e840dbc6adbcd66b875f4ea909c1ebe5ffe9c1f70500cbc851940667e084fb32175dbf5ef302b2a308c951719ef0f1eef240efb4ccd33964a56ce6ad367550dcbdd0549b4577c4fa3e51bae1bdfcb350b407d7676c8b02c1a7fcc1269dc"
         },
-        "signature": "0x8d18c249a26466a39f8e18dd4c666a9673301e93352d1c6b32d7d2535d7fe7aad5d9b67fe9948329890d83c4ea4a283511c8aeb81c5503776ea2dc279fb1405ceed46195a465ceb5169e7b822490683c5c4078da0fe3fa05eda02e5126e294ae"
+        "signature": "0x8aff02397ceb8917add158559d85ef8313faaf3b1dfb8a2eedc3a9cc0b51a5e69f77ded01fd1abb1740ec8f911b40a080da7f606426f09a2f5767d1f6200510950a15b0147b86be04eb1f0d91a5ca481fdcaaf62c992cec9e5a1aa5f189b823b"
       }
     },
     {
@@ -535,14 +535,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "37",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "2",
             "aggregation_bits": "0xff",
-            "signature": "0xa0de38c71eb530b7320029ea1aad9876ac43ecaaf6f565514d60932d9e24a3508d1bff33683d2673a057b40c7ba09982032ae97ef711c63237dd5a3947e405744717c947fba964cea50a01a6b6926636ec8ea2e953ce8e062a462d2e3a5552d8"
+            "signature": "0x86f7d1b78b1e5816d1c48f11fa5124fa34edfb88a25e920067174bb3ccccfd7fb9e8d2e713c53ca101bf1c66d0cdd3ef182ecefbf6a63bd7463ac7572ed3c03e1ff6784bad024fc6acbcd7767b0df62ab2ec6fa82f154bacf4ec795cea7c72de"
           },
           "selection_proof": "0x98f76babd0b0a7b317ce607a4ba37d4027e020c8cf63f3808a9fdb09fb441c9b71380705f38e7c4ca7cdc24413d5771215408bf01fbe358450f472e78014b96b431a10bcef9f4fdcabcca2f7604129a8f2ce6ad313b511f108b611daee97bf68"
         },
-        "signature": "0xac06dd6f858f3aaff08579f50948c047e051079d704076408f0ee9aa36b724afffcec47d3e162344e65ff29edc1ea8dc15d56eeaeced693565b89291ec7de69a5ece50b0d0506d4e140a5cc14973e965a057618cff8423d610a9a3e0f976316a"
+        "signature": "0x96151e954844ecc4f37dd8cb561836bd050c6eae8c51a8fefbeaf37a543c135f1e2d5305527e8ce9fb81f272f2b34d1d19fbeace9d549ed80de6505f5526773b8c091bbe63cba03ea3267688c2ad00f919a64974e148c1fae9b76a3677825bfe"
       }
     },
     {
@@ -551,14 +551,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "40",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "2",
             "aggregation_bits": "0xff",
-            "signature": "0xa0de38c71eb530b7320029ea1aad9876ac43ecaaf6f565514d60932d9e24a3508d1bff33683d2673a057b40c7ba09982032ae97ef711c63237dd5a3947e405744717c947fba964cea50a01a6b6926636ec8ea2e953ce8e062a462d2e3a5552d8"
+            "signature": "0x86f7d1b78b1e5816d1c48f11fa5124fa34edfb88a25e920067174bb3ccccfd7fb9e8d2e713c53ca101bf1c66d0cdd3ef182ecefbf6a63bd7463ac7572ed3c03e1ff6784bad024fc6acbcd7767b0df62ab2ec6fa82f154bacf4ec795cea7c72de"
           },
           "selection_proof": "0xb52b5880d7915ca4d4143a9a2df3cf0a5929154328a19d14d8829d1b66d12ed40fceb727c70140bb87eb3ac12ab9dd170e7ae6ee268031b6ea36b106d87b9d4c169f5e6ecc4897e687a0e70346f55e8dabe94371612de41f3c777c069b1652f9"
         },
-        "signature": "0xad453deefcdf0c71e71031f4945542cd84a436f9859e5a19243a7d3807533014d7d2f9a9ccb3f4fce54a013e4d86b7ac013c77e1c47ba3c3b58c95b1091b266720afc09095612f4e933024bdf4e85f954d2082fc0266914b472624402015295d"
+        "signature": "0x821fb5ae84b42d55f66553774bba1374d6d5853ba5501bcf6f409d91078206ba284f4660ccd5b4855b2973e56c11669a03b7c487b79da569a758cd1eed378de8317ab53716bbc099c1787c1a767b72ef9345684fbefa55e1ca945303f60bf94c"
       }
     },
     {
@@ -567,14 +567,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "42",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "2",
             "aggregation_bits": "0xff",
-            "signature": "0xa0de38c71eb530b7320029ea1aad9876ac43ecaaf6f565514d60932d9e24a3508d1bff33683d2673a057b40c7ba09982032ae97ef711c63237dd5a3947e405744717c947fba964cea50a01a6b6926636ec8ea2e953ce8e062a462d2e3a5552d8"
+            "signature": "0x86f7d1b78b1e5816d1c48f11fa5124fa34edfb88a25e920067174bb3ccccfd7fb9e8d2e713c53ca101bf1c66d0cdd3ef182ecefbf6a63bd7463ac7572ed3c03e1ff6784bad024fc6acbcd7767b0df62ab2ec6fa82f154bacf4ec795cea7c72de"
           },
           "selection_proof": "0xb18513930ca828291f5c19732b46b4490e3450744b719a3cfc59f69d19684fcacbb67f79249a87e73bfb4f3dd292f4090472fca82a56690e44208a680c160284588ae65bd154320fc196088e841a2668ba8cec1cd95e5ac48f7bc60e288ffac2"
         },
-        "signature": "0xa912770c4d76f24d48e85ee15b243ba07b6f3294a6bab28748a8d3acce50e6343a2dd2db42edd4a3dbbb395006039a0913f98780845307aa04b3c89f41cfcf6594746cba5b64e0eb3dded9ae8246044e9911898eeddb042287de205a6bb491ff"
+        "signature": "0x891c5f060808b123edf28a4aa6c8f89b0ff165ab0b5d2970749358cf15a8dca8f9ac4f2763837c1e294c92698f5da6ee06e7a134d599260b4eb4b93c1c8cb1f50fe2091abde15a1a7829b305e9b377b694ebd910e68d3029f067903deea693e8"
       }
     },
     {
@@ -583,14 +583,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "45",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "2",
             "aggregation_bits": "0xff",
-            "signature": "0xa0de38c71eb530b7320029ea1aad9876ac43ecaaf6f565514d60932d9e24a3508d1bff33683d2673a057b40c7ba09982032ae97ef711c63237dd5a3947e405744717c947fba964cea50a01a6b6926636ec8ea2e953ce8e062a462d2e3a5552d8"
+            "signature": "0x86f7d1b78b1e5816d1c48f11fa5124fa34edfb88a25e920067174bb3ccccfd7fb9e8d2e713c53ca101bf1c66d0cdd3ef182ecefbf6a63bd7463ac7572ed3c03e1ff6784bad024fc6acbcd7767b0df62ab2ec6fa82f154bacf4ec795cea7c72de"
           },
           "selection_proof": "0x94c8b7071515e038a6eecc71d117d73b298bdd6bd238f605c8db15c4f1e31840f508c1d883e7597a37415eebdb5921c115c8e9b6c4026cec498423be622ba05b8f85c832228bd75b6616a21b332f6837f52080c4482b1d2a229c20c1fb3a1aaf"
         },
-        "signature": "0xa68c1c4390c08be0299fe913e4d271e2420c8c183f72252e124f4aa96f5f8249352ce594f1f6d94daaa20346bf599b0405d1b0e1ce9e2301474aa43b5db8d815c7d7d28effc93f8143b4f2fe8c53c787b290a06b122dbcbc64b6795824e4f6d6"
+        "signature": "0x8e101e60058e34a1537c548e2a88bcac0865a06e2bdacb1d81d0140695df9891b94dc3ebfa1aaa987ce83dee37dbb3940827d9a46c49a07850812404d8aa837221b249ba04be2feebd4e96c3a641e2c94976d2b2bd8d2f3d411f422dc90eb0a2"
       }
     },
     {
@@ -599,14 +599,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "58",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "2",
             "aggregation_bits": "0xff",
-            "signature": "0xa0de38c71eb530b7320029ea1aad9876ac43ecaaf6f565514d60932d9e24a3508d1bff33683d2673a057b40c7ba09982032ae97ef711c63237dd5a3947e405744717c947fba964cea50a01a6b6926636ec8ea2e953ce8e062a462d2e3a5552d8"
+            "signature": "0x86f7d1b78b1e5816d1c48f11fa5124fa34edfb88a25e920067174bb3ccccfd7fb9e8d2e713c53ca101bf1c66d0cdd3ef182ecefbf6a63bd7463ac7572ed3c03e1ff6784bad024fc6acbcd7767b0df62ab2ec6fa82f154bacf4ec795cea7c72de"
           },
           "selection_proof": "0x9380d231ca93909e4d4bc06f98c85f10d99bffab6876e6d3d7dace96fca949dc80db6eccd5405aa3f2852c263fdca39a0411da735bfc3132b38a8203114f0909d310448451a74316bb8e75d6d8dfea0e1ba40cdf86707b75c74626615ee392f1"
         },
-        "signature": "0xb7edc84af63f350a9cfd9a562bece2d5c534ef2478c7ea7ec5f831fd06153760ff0961245aab0cc33bfcde30ad8c6658104de2d89722b29a5f7119992bdbdaa6a8ad64e540c63f166482a5fc38b86b7fda748fb5583778701ab8b8ae084dba2a"
+        "signature": "0x80c38cdce3986a3d3806c1c9309556fa7f5289766b1b040db2e5e23ae4b1807953a883c002122597f9d6b12210f112a3111a5d4f39ee441f93631cacaba3d0e50c7faa1f8d0b9310fa662a6acbe679e320c9abdd179c23432c63d49f992046b6"
       }
     },
     {
@@ -615,14 +615,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "5",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "3",
             "aggregation_bits": "0xff",
-            "signature": "0xb4ca2f54db19a74e2d7969a201f5ca30c1a3ab91de585f11627c210ccc53eaaa7c2e2e4e7cd60f2248797fe72bd0516c013f88cfc03256b1731cf54a3fdfa3f78ef45d00bdbbc67d3e3f7b7d5a97f41220efb4d8ddc6c853c115ce2bac04b3eb"
+            "signature": "0xb05fe0d744bd8bf6c28a8a56f60159d55550b62d529a5e1451d9f962096bf30047be0e1fbf7469d5c32740c5b26d922a07a6b1a55a6cb590c40eabfb54105536489256718ee2968a3a48374c96890dd3b440da1008b80054e15e15291e879346"
           },
           "selection_proof": "0xb1ac8a86f58f4b58c7543d0f6fb7daee1318181b4a759c4ab1057e63cfa31edcdcacae86cb8a001cbd1f3d0ec1b57a7e0e0e38e96833e0d7c3c1ab9b405aa478f609c3b47ac2858943e223a911a6adb131a9bb99566bfd369964f43793a745d9"
         },
-        "signature": "0x862ad937a849f196321d82fb7ecddb0c42360b44d0ee88b3b75e59431fca074c658f5fe8609a51a3818e841545290ab719f4e07ec9d7785266d636b93c99e8e587093c4da6035802b1c6c015609519e40f913ad5643747a67ddf6444ddf99ea3"
+        "signature": "0x984f35659ec6fd808fe3bb5fb348d07276d8688ace7a3f0ba7dd8c07f611f2fbd1fe343d02ccc7af4b73307d1ed3fc090f21de69bb5d21d39725faf701e8e1a0528b9d1e467cd746a71896f3cda83c93613441dd94a9269f94bd238e9651544a"
       }
     },
     {
@@ -631,14 +631,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "9",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "3",
             "aggregation_bits": "0xff",
-            "signature": "0xb4ca2f54db19a74e2d7969a201f5ca30c1a3ab91de585f11627c210ccc53eaaa7c2e2e4e7cd60f2248797fe72bd0516c013f88cfc03256b1731cf54a3fdfa3f78ef45d00bdbbc67d3e3f7b7d5a97f41220efb4d8ddc6c853c115ce2bac04b3eb"
+            "signature": "0xb05fe0d744bd8bf6c28a8a56f60159d55550b62d529a5e1451d9f962096bf30047be0e1fbf7469d5c32740c5b26d922a07a6b1a55a6cb590c40eabfb54105536489256718ee2968a3a48374c96890dd3b440da1008b80054e15e15291e879346"
           },
           "selection_proof": "0xa0c3d558704eabe17f59260a1bffbcc2de8e471441382acce94e72222a7976b28f2c935266242fd6f45adf0c1c8fa94a0ab5ce938db2ec02693cd25ee6e65d5779521089db7933c85c2b0ed70483aed1feb86fd1d841b5d3f0bcb41fe5c1c6ed"
         },
-        "signature": "0x9872224835465d4b353e402b4802b58ec8142b1e0d26040392b65a62472adc170310dda2eb64638de3c0fb697fc4c07c170f30681196a3bb573c0d399d8e4f6eb85c730f35bd7b58f1ea4ac078bda834df5af6867af07d0c9c81c5c9e2feeba9"
+        "signature": "0xb1f79565eb8124f979bdb899bc3d6625c77fc35b972ad159c2b4f630e1ee06758b7330a31b3208830d7b1fc21c1ebd5007d5c74421814dc758641d78ff23b6a69ec710785794cbd5e53895e049569e72c0f779f7832931443a50ae7e5189628f"
       }
     },
     {
@@ -647,14 +647,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "14",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "3",
             "aggregation_bits": "0xff",
-            "signature": "0xb4ca2f54db19a74e2d7969a201f5ca30c1a3ab91de585f11627c210ccc53eaaa7c2e2e4e7cd60f2248797fe72bd0516c013f88cfc03256b1731cf54a3fdfa3f78ef45d00bdbbc67d3e3f7b7d5a97f41220efb4d8ddc6c853c115ce2bac04b3eb"
+            "signature": "0xb05fe0d744bd8bf6c28a8a56f60159d55550b62d529a5e1451d9f962096bf30047be0e1fbf7469d5c32740c5b26d922a07a6b1a55a6cb590c40eabfb54105536489256718ee2968a3a48374c96890dd3b440da1008b80054e15e15291e879346"
           },
           "selection_proof": "0x8035a96e9ae8083918f37a58405de7c140ca3337ea8138e904aad4b36e3598f27846e6820e529af50a7f5e6fc6a9d54508bb1c6b2624b82dddf77d66f31eeb902c886187acd56a5876b8285f3e0433dc9784947c4a7a234fb72ade94a11e0768"
         },
-        "signature": "0xa8f1e983ba6b0e9b1d24baec55f3f0deb7def5f32943b51fef7171b1c351e1dfc64e928b2db7913c94d7e028bc55f4221947b1a069ce1d4807ec2a52f53abd6dc3971bad0716b6610ad6a08bf40f9b9aea63443800aed6d8466863c719d0e607"
+        "signature": "0xb11b20a814e2adddb1ff6905e8480ae770a99a361b6e2c4217ba3e2e04891832aa6749a966db1a76af71fefe88feca3012a78d6ff46a1d83960728ffde01330ce228169dccf2766ed586ec802f260fc6cb4aa646f49ade6f9309e8daec0ccbbe"
       }
     },
     {
@@ -663,14 +663,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "23",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "3",
             "aggregation_bits": "0xff",
-            "signature": "0xb4ca2f54db19a74e2d7969a201f5ca30c1a3ab91de585f11627c210ccc53eaaa7c2e2e4e7cd60f2248797fe72bd0516c013f88cfc03256b1731cf54a3fdfa3f78ef45d00bdbbc67d3e3f7b7d5a97f41220efb4d8ddc6c853c115ce2bac04b3eb"
+            "signature": "0xb05fe0d744bd8bf6c28a8a56f60159d55550b62d529a5e1451d9f962096bf30047be0e1fbf7469d5c32740c5b26d922a07a6b1a55a6cb590c40eabfb54105536489256718ee2968a3a48374c96890dd3b440da1008b80054e15e15291e879346"
           },
           "selection_proof": "0xa5671d86a697ae3e97a9a98b5a3138e95d4b29cbc28081bb1e3d1a81803fa9e7cc51bb00656550f95b0b6c668b9aefdf13046b6dcd78d6f9b665c24c0bfb0c02cb568409be21ad389eda32dda1247e3a96ea24770b90ff798c36009cf36f7249"
         },
-        "signature": "0x94dbbadca6f9f16852d331c917d5e46bba79426b259cbba1736855bd8e773902d9048d6b9b9f871bff07a3edf28acbc405bf9fd170e36e528c1029d32414002ebdfb89724e589529891e9bdbf7f7c3d890541e2d31e44cc4daa33b004641d814"
+        "signature": "0xb3c2236b45e7a89ff37b2072b99d0a38be683d5034cbee2b471aba2bbba09fc5d7544ff933c1a0facee48025a870b8fe101fa75a4656fd525c3e6b9e3adf1bd8ed4d58502af701dc2c59cdcf72e68790ed75efcede4062d91cc335e9558c73fd"
       }
     },
     {
@@ -679,14 +679,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "32",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "3",
             "aggregation_bits": "0xff",
-            "signature": "0xb4ca2f54db19a74e2d7969a201f5ca30c1a3ab91de585f11627c210ccc53eaaa7c2e2e4e7cd60f2248797fe72bd0516c013f88cfc03256b1731cf54a3fdfa3f78ef45d00bdbbc67d3e3f7b7d5a97f41220efb4d8ddc6c853c115ce2bac04b3eb"
+            "signature": "0xb05fe0d744bd8bf6c28a8a56f60159d55550b62d529a5e1451d9f962096bf30047be0e1fbf7469d5c32740c5b26d922a07a6b1a55a6cb590c40eabfb54105536489256718ee2968a3a48374c96890dd3b440da1008b80054e15e15291e879346"
           },
           "selection_proof": "0x95aef2f2a95b1c1f3b6f480f3264b736cf781b8c510430da8913453a1a780364f1349e1a3732de68b922add131991b3112db56229b94cc95d3f78dc9ec988f1e4649179f698487e5d1d04a9cedc6c44f334ad47b6dfd3b7eef3348b34d253710"
         },
-        "signature": "0xa6bafa0d072af04ff7c30e69d61625895022f96dadbb446425f3ccc9ae7e9e0ba7ce2c66c31ac154f467169fd261ce240667a7d118e97d49eeb0ba4975604f9e5867ab80bc0c345884d3b5221251c5c192e5da25a9f89508f9ee0e6f8e073e52"
+        "signature": "0xb8a386f7d888754f63db64d8235a7a581f7fe0c23093bcd6f62a9f4b41ae1328d4b69f25c463624dc859022206049cfe04505ea3030be7e85201c012198cee2b079d2fedbf5abb9778bb280ba42ac43c9388f5448a7babff19b7d6a8cad7e9b1"
       }
     },
     {
@@ -695,14 +695,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "47",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "3",
             "aggregation_bits": "0xff",
-            "signature": "0xb4ca2f54db19a74e2d7969a201f5ca30c1a3ab91de585f11627c210ccc53eaaa7c2e2e4e7cd60f2248797fe72bd0516c013f88cfc03256b1731cf54a3fdfa3f78ef45d00bdbbc67d3e3f7b7d5a97f41220efb4d8ddc6c853c115ce2bac04b3eb"
+            "signature": "0xb05fe0d744bd8bf6c28a8a56f60159d55550b62d529a5e1451d9f962096bf30047be0e1fbf7469d5c32740c5b26d922a07a6b1a55a6cb590c40eabfb54105536489256718ee2968a3a48374c96890dd3b440da1008b80054e15e15291e879346"
           },
           "selection_proof": "0xa5e344ab1427d207377dc9667a7eb95ad63475f5f67510b51dfe8dc1a439dab78729519446278cdc7c64532107575cd60d1584ca7c8e5c848887b235a757d264d1ebe42b9e10d06bb5e10bd538322caa823cf2efa93ae1750aff3b0e5461dcb5"
         },
-        "signature": "0xa10398601865ae43c7c9b6cb1174bc238effdab4d01c667816674956e3b6a12eb5abd6c0edb4eb6d1e0af2939d6b620e05eff08972ad0bed9ee24e4f4b2627e2a2e2be556412da06afa545fc4bcdaa004035608649d68664e3fc1b24efcbce05"
+        "signature": "0xa33e6f77845fa7f1aabe4918377d0e934fda10a039e08835da0f4f8aa86a1b601c94852a2a02d61761596146b9ecdd8f0d9a7eb8dac574b520d6cedf042de04af88db6a6efa2db3a90314b69471a28dff2f4f13da1d8845b83e75b7707e3cf39"
       }
     },
     {
@@ -711,14 +711,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "59",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "3",
             "aggregation_bits": "0xff",
-            "signature": "0xb4ca2f54db19a74e2d7969a201f5ca30c1a3ab91de585f11627c210ccc53eaaa7c2e2e4e7cd60f2248797fe72bd0516c013f88cfc03256b1731cf54a3fdfa3f78ef45d00bdbbc67d3e3f7b7d5a97f41220efb4d8ddc6c853c115ce2bac04b3eb"
+            "signature": "0xb05fe0d744bd8bf6c28a8a56f60159d55550b62d529a5e1451d9f962096bf30047be0e1fbf7469d5c32740c5b26d922a07a6b1a55a6cb590c40eabfb54105536489256718ee2968a3a48374c96890dd3b440da1008b80054e15e15291e879346"
           },
           "selection_proof": "0xabd558dc527b5f54276bc550f95757e86a070360062bd383601110a58733c4436518d6af61ee1badf23f6131bff8983e0f8e08bcbac6c1e71b4a77d42e2659a602f92b9524597e7035146d288a464d9600119d7030825f97f3be8eaabf3f7ac0"
         },
-        "signature": "0xb37f84b2ecd5a5d0811df71db0afa11d152ff4dc069754af2f3164eade134da0505964b0475187f5d8ddad9062b6d1d4186d446b5b1d3266b62e4e9b7bccfffc647fcfef381856f9dc43b50c21432eee22ee118785bfe29bfacdc90a906cc965"
+        "signature": "0x8c33addbbf23fe16471c70d6ee72c66cc38ea458e3665afb58e7f43441976c6c5d88c166b6f4f5d26a734668552d32bb063728622e6272f5045c422e7a7c97cbd8077dea81fd61dd9d921d3427ee7043588acb1c7a3a909f16f0e05dd2395632"
       }
     },
     {
@@ -727,14 +727,14 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "aggregator_index": "61",
           "contribution": {
             "slot": "45",
-            "beacon_block_root": "0x6774bb708abdb29601f2e8ccd64564bf55bdfcb33f231c7e7632d9e07e9c4775",
+            "beacon_block_root": "0xdabb2cab7ad97541e0c4a47c263f3e299e8a067dac7ec9dadebf375265d3719f",
             "subcommittee_index": "3",
             "aggregation_bits": "0xff",
-            "signature": "0xb4ca2f54db19a74e2d7969a201f5ca30c1a3ab91de585f11627c210ccc53eaaa7c2e2e4e7cd60f2248797fe72bd0516c013f88cfc03256b1731cf54a3fdfa3f78ef45d00bdbbc67d3e3f7b7d5a97f41220efb4d8ddc6c853c115ce2bac04b3eb"
+            "signature": "0xb05fe0d744bd8bf6c28a8a56f60159d55550b62d529a5e1451d9f962096bf30047be0e1fbf7469d5c32740c5b26d922a07a6b1a55a6cb590c40eabfb54105536489256718ee2968a3a48374c96890dd3b440da1008b80054e15e15291e879346"
           },
           "selection_proof": "0x87ebcbf67401799ec344b3c08764d6115f3b3d09817ae81e596641d34e075659ab49c752279b899117fccac8be5c17520973e7c36f61c5cae32c6b31ff3ec4a6018766cdf0ac3a92df6bac8d57d2f5d295cce4b79e0888862d287707959569e3"
         },
-        "signature": "0x87942ac9304870523396adee130c8e66f7db8effe422c4ae27d0c38abaaae53cc6e1b331d036b48ac1e381a70e0db98702febfc3f5a4fbb9e1fac017d815ca42adf427685ffff982cce7413a87d8e598b85ba65ddd0266bc462b09ea5e2a25f0"
+        "signature": "0x891f58cac61c7d2263742bea249c767c3c807a359f7d67622e54883d2bd592416d1e1ec54cf3073d1bf1246aa7434edd066769c0e64ff9c43bba399b46ff99f113a2da31bcb5f943ddc221cb6964cfd7ff05a68030707a6f64166f141f9890a8"
       }
     }
   ]
