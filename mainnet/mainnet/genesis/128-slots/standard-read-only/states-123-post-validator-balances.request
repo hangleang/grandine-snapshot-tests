@@ -1,0 +1,5 @@
+POST /eth/v1/beacon/states/123/validator_balances HTTP/1.0
+Content-Type: application/json
+Content-Length: 2
+
+[]
