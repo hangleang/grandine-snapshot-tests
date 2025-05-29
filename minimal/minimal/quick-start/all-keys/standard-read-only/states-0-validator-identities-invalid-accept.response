@@ -1,0 +1,9 @@
+HTTP/1.0 406 Not Acceptable
+content-type: application/json
+content-length: 63
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "code": 406,
+  "message": "Accept header media type not supported"
+}

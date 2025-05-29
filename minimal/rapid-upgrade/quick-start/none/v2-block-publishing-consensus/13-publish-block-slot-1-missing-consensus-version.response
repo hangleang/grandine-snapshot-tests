@@ -1,9 +1,9 @@
 HTTP/1.0 400 Bad Request
 content-type: application/json
-content-length: 77
+content-length: 62
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "code": 400,
-  "message": "invalid block: eth-consensus-version header expected"
+  "message": "eth-consensus-version header expected"
 }

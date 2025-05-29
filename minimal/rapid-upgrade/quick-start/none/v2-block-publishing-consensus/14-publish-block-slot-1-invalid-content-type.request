@@ -1,0 +1,5 @@
+POST /eth/v2/beacon/blocks?broadcast_validation=consensus HTTP/1.0
+Content-Type: text/plain
+Content-Length: 0
+Eth-Consensus-Version: phase0
+

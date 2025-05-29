@@ -1,9 +1,9 @@
 HTTP/1.0 400 Bad Request
 content-type: application/json
-content-length: 104
+content-length: 89
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "code": 400,
-  "message": "invalid block: invalid eth-consensus-version header: Matching variant not found"
+  "message": "invalid eth-consensus-version header: Matching variant not found"
 }

@@ -1,0 +1,9 @@
+HTTP/1.0 415 Unsupported Media Type
+content-type: application/json
+content-length: 69
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "code": 415,
+  "message": "Content-Type header media type not supported"
+}
