@@ -1,18 +1,18 @@
 HTTP/1.0 200 OK
 content-type: application/json
-eth-consensus-version: electra
-content-length: 3310
+eth-consensus-version: fulu
+content-length: 3307
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "data": {
     "message": {
-      "slot": "48",
+      "slot": "56",
       "proposer_index": "2",
-      "parent_root": "0x434d878b4473fe7b310938521baee0c29c032c50f668caa7b16ba28465590383",
-      "state_root": "0x1882329322756632b09da40931f2dfa28e087d7c117a1572aa2cd1149f5c8a8d",
+      "parent_root": "0xad9c893df8978d04b2d61d7e10a84bbd4a127dddd7b72377637fd7743402fc74",
+      "state_root": "0x802ec3b3eb42925180cf9a35cf347ae5e7bed11092896c4eea51f93a5a899451",
       "body": {
-        "randao_reveal": "0xb7b03af721cc8148b2b6137b409be502efa0fc3ccc641fa61751bfcc14da5648973e45edfd81c3afe40ffb4dd4fb045a075e0eb76e518f103de2fd666a74dd2dcd882387d61c1482f22b7ab234a45636b9404e6db008c8179051a065539ac25d",
+        "randao_reveal": "0x8700f3893f611720629039cb7dee6d07f7ddf8164dd1a1905c582cc7b0a358005ab1e1f971bc9417be3b16199cbda3dc03d95f3086ffc976e4705c93088d29327ec4f47bc35de21f68965e66a92b9c34be8f4145161306200dc4dd7436d18535",
         "eth1_data": {
           "deposit_root": "0x6141b76179b67d7849f34a22d0e529729fb274bbe81374c41623373b649cc63b",
           "deposit_count": "64",
@@ -25,19 +25,19 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           {
             "aggregation_bits": "0xff01",
             "data": {
-              "slot": "47",
+              "slot": "55",
               "index": "0",
-              "beacon_block_root": "0x434d878b4473fe7b310938521baee0c29c032c50f668caa7b16ba28465590383",
+              "beacon_block_root": "0xad9c893df8978d04b2d61d7e10a84bbd4a127dddd7b72377637fd7743402fc74",
               "source": {
-                "epoch": "4",
-                "root": "0x7ae20eb9933fa7fedf857d86ffeedf98920394b2d724168248f18c29b3a316d2"
-              },
-              "target": {
                 "epoch": "5",
                 "root": "0xa8eff0a5f33b394f43feb9f319152a52d12c368ae16c30c496f31df593ca77e5"
+              },
+              "target": {
+                "epoch": "6",
+                "root": "0x99e4d112bdf7d4aad5298e18c6ac4c33608d588f366fcea6115bac3bebb150b1"
               }
             },
-            "signature": "0xb59ff2c975cb77bdc3590c7f9f40368da5ce0b9474e2c375a17e1383e1c51f404133549cffb25c55b526942da6f431360dbfb26b59a7f867e54d670c9d405e77f4f569e30e092a2d6a364661cc28400ca0e28217acf6ffa708a51c64596c0786",
+            "signature": "0xa8328827616aff4400367a8bd2b566f8197d555d27e6564ddc363d7361cfd53339970912da9dcbcac35a6e614f345dca12175e0f5104c5c4dd7f7988c2c1f3642fcbe41c69d62f6cfb668e4442958221b80f878b9bf26e19dc6f4dce2fa41716",
             "committee_bits": "0x03"
           }
         ],
@@ -45,7 +45,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
         "voluntary_exits": [],
         "sync_aggregate": {
           "sync_committee_bits": "0xffffffff",
-          "sync_committee_signature": "0xaa3823a6fed8fe6b50382dd68b284e8e51720a2f66effad4163d5043d210aa8bf0f43c23b67b2bb4dc0d14b37081e09709c15a6ae77a718f7749723b6e64aa3f41b08b6d5a0edbcd5386702c7badaebae577e2af7fec297d45b1b99de6098a24"
+          "sync_committee_signature": "0x961e83be38bae121f32e22393b7f3f7b5e568350821c3a792ed1fc32cc82f33d49ee9b63314bc32ec1cc400db58305ab0af19329c43b4d473e9fbf63fa96631569a19712b562d26c76aa1f4663f1c34495690e08e65943569f5f3d9765116a7f"
         },
         "execution_payload": {
           "parent_hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
@@ -53,11 +53,11 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "state_root": "0x0000000000000000000000000000000000000000000000000000000000000000",
           "receipts_root": "0x0000000000000000000000000000000000000000000000000000000000000000",
           "logs_bloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-          "prev_randao": "0x3086ffda46c8737da8b9ac072469de7ac6781291b7cc3ac30461aff6adc77575",
+          "prev_randao": "0x37d0062c3eec5223578515f88b1af43ccdbf069b114dc574237de7dab453127f",
           "block_number": "0",
           "gas_limit": "0",
           "gas_used": "0",
-          "timestamp": "1578009888",
+          "timestamp": "1578009936",
           "extra_data": "0x",
           "base_fee_per_gas": "0",
           "block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
@@ -75,9 +75,9 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
         }
       }
     },
-    "signature": "0x97c9dbc44c39068ab12646047ec822c54c3266ba9b07192636db6f06a21061d83c26536921b0a8382d295ce19816c77c079b41f0784a868c8f675e7865a4e3e993f9576d57640376b208cb5fc812786a697f7412cd1348aaa308cbc37dd37926"
+    "signature": "0x8225bde792f1054eb672c4c971918c9dc80f41e290afaee464e344121e7edb21bab71eec7dab6b7c523697b2c15fdeaf15093529683fec71c15263ec1686effa774b33ae29b2df0f0f5518a62b77700a55740d087f8432bd8002d841a418d132"
   },
-  "version": "electra",
+  "version": "fulu",
   "execution_optimistic": true,
   "finalized": false
 }

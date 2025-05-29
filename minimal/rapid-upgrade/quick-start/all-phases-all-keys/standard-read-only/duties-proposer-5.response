@@ -1,51 +1,9 @@
-HTTP/1.0 200 OK
+HTTP/1.0 500 Internal Server Error
 content-type: application/json
-content-length: 1299
+content-length: 87
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
-  "data": [
-    {
-      "pubkey": "0xb397692ccbf442bfe078174c85dbad7fd605e4ff1caf2904b31e4a4c79d6444813ad9b2093ac8fbd4dd59ec7a4c8c006",
-      "validator_index": "51",
-      "slot": "40"
-    },
-    {
-      "pubkey": "0x876dd4705157eb66dc71bc2e07fb151ea53e1a62a0bb980a7ce72d15f58944a8a3752d754f52f4a60dbfc7b18169f268",
-      "validator_index": "10",
-      "slot": "41"
-    },
-    {
-      "pubkey": "0x876dd4705157eb66dc71bc2e07fb151ea53e1a62a0bb980a7ce72d15f58944a8a3752d754f52f4a60dbfc7b18169f268",
-      "validator_index": "10",
-      "slot": "42"
-    },
-    {
-      "pubkey": "0x9648b83a4f09b4ca2021f0c193c5c41df1465715761bca52671ca790a3e92d67686b97b3d54c6110409779df887bd9c6",
-      "validator_index": "39",
-      "slot": "43"
-    },
-    {
-      "pubkey": "0xac9f4df3f20a16a9fefad08817fcbc9a6ee17f7512db006414b4aa6f234c2313585ef72c5776df55fa6284af4bc3f631",
-      "validator_index": "55",
-      "slot": "44"
-    },
-    {
-      "pubkey": "0x9977f1c8b731a8d5558146bfb86caea26434f3c5878b589bf280a42c9159e700e9df0e4086296c20b011d2e78c27d373",
-      "validator_index": "6",
-      "slot": "45"
-    },
-    {
-      "pubkey": "0x92a93728c252a45ef587ca53a037593912599d82e2b8aa1b734b99d500a0ac8c142092ea8b3c2c34a28dc8ddf337a249",
-      "validator_index": "42",
-      "slot": "46"
-    },
-    {
-      "pubkey": "0xae00fc3de831b09661a0ac02873c45c84cb2b58cffb6430a3f607e4c3fa1e0932397f11307cd169cdc6f79c463527260",
-      "validator_index": "30",
-      "slot": "47"
-    }
-  ],
-  "dependent_root": "0xf3a78e6735c58f08a6444d310c92ec231b772f797d4f40b1f3b279ea133c2f20",
-  "execution_optimistic": true
+  "code": 500,
+  "message": "internal error: epoch is before previous one relative to state"
 }
