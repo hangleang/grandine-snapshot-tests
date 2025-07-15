@@ -1,0 +1,9 @@
+HTTP/1.0 500 Internal Server Error
+content-type: application/json
+content-length: 77
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "code": 500,
+  "message": "internal error: block phase is pre-Bellatrix: altair"
+}
