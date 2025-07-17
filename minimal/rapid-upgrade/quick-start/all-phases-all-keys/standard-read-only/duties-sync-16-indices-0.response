@@ -1,0 +1,9 @@
+HTTP/1.0 500 Internal Server Error
+content-type: application/json
+content-length: 109
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "code": 500,
+  "message": "internal error: epoch is too far in the future (requested_epoch: 16, store_epoch: 6)"
+}
