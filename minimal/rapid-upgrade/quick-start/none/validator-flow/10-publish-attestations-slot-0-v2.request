@@ -1,6 +1,7 @@
 POST /eth/v2/beacon/pool/attestations HTTP/1.0
 Content-Type: application/json
 Content-Length: 5571
+Eth-Consensus-Version: phase0
 
 [
   {

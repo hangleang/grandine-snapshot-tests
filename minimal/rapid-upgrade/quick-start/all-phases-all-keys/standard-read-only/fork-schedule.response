@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 472
+content-length: 549
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -34,6 +34,11 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
       "previous_version": "0x04000001",
       "current_version": "0x05000001",
       "epoch": "5"
+    },
+    {
+      "previous_version": "0x05000001",
+      "current_version": "0x06000001",
+      "epoch": "6"
     }
   ]
 }
