@@ -1,0 +1,35 @@
+HTTP/1.0 200 OK
+content-type: application/json
+eth-consensus-version: phase0
+eth-consensus-block-value: 0
+eth-execution-payload-blinded: false
+eth-execution-payload-value: 0
+content-length: 925
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": {
+    "slot": "100",
+    "proposer_index": "12",
+    "parent_root": "0xc9a3323b6c59a7374e60501768ff4b47e4603a837c9ed42634bb5a6d6be58b6e",
+    "state_root": "0x511fa35da0d75d17be4ad30e0a4050f29523b8c327221b7d4a43b89717d78ac6",
+    "body": {
+      "randao_reveal": "0xc00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "eth1_data": {
+        "deposit_root": "0x6141b76179b67d7849f34a22d0e529729fb274bbe81374c41623373b649cc63b",
+        "deposit_count": "64",
+        "block_hash": "0x4242424242424242424242424242424242424242424242424242424242424242"
+      },
+      "graffiti": "0x0000000000000000000000000000000000000000000000000000000000000000",
+      "proposer_slashings": [],
+      "attester_slashings": [],
+      "attestations": [],
+      "deposits": [],
+      "voluntary_exits": []
+    }
+  },
+  "version": "phase0",
+  "consensus_block_value": "0",
+  "execution_payload_blinded": false,
+  "execution_payload_value": "0"
+}
