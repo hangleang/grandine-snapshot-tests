@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 6360
+content-length: 6321
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -116,9 +116,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     "EPOCHS_PER_SUBNET_SUBSCRIPTION": "256",
     "MAX_PAYLOAD_SIZE": "10485760",
     "MESSAGE_DOMAIN_VALID_SNAPPY": "0x01000000",
-    "RESP_TIMEOUT": "10",
     "SUBNETS_PER_NODE": "2",
-    "TTFB_TIMEOUT": "5",
     "MAX_BLOBS_PER_BLOCK": "6",
     "MAX_BLOBS_PER_BLOCK_ELECTRA": "9",
     "MAX_REQUEST_BLOCKS": "1024",
