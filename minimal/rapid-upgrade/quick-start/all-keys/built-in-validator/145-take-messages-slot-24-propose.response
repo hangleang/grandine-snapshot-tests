@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 58243
+content-length: 58316
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -1438,6 +1438,15 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
   "fc_to_sync": [],
   "pool_to_p2p": [],
   "validator_to_p2p": [
+    {
+      "UpdateDataColumnSubnets": [
+        64,
+        true
+      ]
+    },
+    {
+      "UpdateEarliestAvailableSlot": 24
+    },
     {
       "PublishBeaconBlock": {
         "message": {
