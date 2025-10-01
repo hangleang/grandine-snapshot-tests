@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 58617
+content-length: 58582
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -1468,9 +1468,6 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
         64,
         true
       ]
-    },
-    {
-      "UpdateEarliestAvailableSlot": 40
     },
     {
       "PublishBeaconBlock": {
