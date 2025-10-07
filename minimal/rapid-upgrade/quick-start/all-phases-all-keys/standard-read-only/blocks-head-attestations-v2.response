@@ -1,7 +1,7 @@
 HTTP/1.0 200 OK
 content-type: application/json
-eth-consensus-version: fulu
-content-length: 656
+eth-consensus-version: gloas
+content-length: 658
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -9,23 +9,23 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     {
       "aggregation_bits": "0xff01",
       "data": {
-        "slot": "55",
+        "slot": "63",
         "index": "0",
-        "beacon_block_root": "0x886cacddd90361fd1e1aae27a735bdc0ea38aed6ca6716d8211f24aa9c372785",
+        "beacon_block_root": "0xfaa75f2a48ebedb203f621723f9ac1c2d28648a5fb5d1004afde7c2adeabd617",
         "source": {
-          "epoch": "5",
-          "root": "0x3467d090bba769bf6077c95ab409b4fcecf9c19b77157099ab16134bffe34d2b"
-        },
-        "target": {
           "epoch": "6",
           "root": "0xdb6cfd97bc45e00aa01d13952f786248aa9766de3d58933e4d5c2e62f672adfa"
+        },
+        "target": {
+          "epoch": "7",
+          "root": "0x3d6a6ab906d8cb146459704b22f2df4af37173cef74683914f26d8de0aa2aad1"
         }
       },
-      "signature": "0xb502d19c5a7be3247fa409e99c2962f2951f91dab6857142690fa2665c0f546bc7efb52efe4e73e9b9d9b04ad2827620007964f5eb2e6fc9a2f70d8b3591929691973d038c1c207b547987b01b013c2b951df5294d04d4f77355890ca5b872bc",
+      "signature": "0x8982398025b54f5046d38d287a8f6ea5657c418fa18bdb6f34413935361703e7541798372144cc635e62190315d630e7095b274596b24e96bf659c2e0dbd2e8e2ffa6a293a6c928f458a35284011b906faba987d67f6bddb37a635ba815d3c09",
       "committee_bits": "0x03"
     }
   ],
-  "version": "fulu",
-  "execution_optimistic": true,
+  "version": "gloas",
+  "execution_optimistic": false,
   "finalized": false
 }

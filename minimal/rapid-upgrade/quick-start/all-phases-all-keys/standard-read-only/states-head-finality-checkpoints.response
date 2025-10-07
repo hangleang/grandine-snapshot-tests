@@ -1,13 +1,13 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 379
+content-length: 380
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "data": {
     "previous_justified": {
-      "epoch": "5",
-      "root": "0x3467d090bba769bf6077c95ab409b4fcecf9c19b77157099ab16134bffe34d2b"
+      "epoch": "6",
+      "root": "0xdb6cfd97bc45e00aa01d13952f786248aa9766de3d58933e4d5c2e62f672adfa"
     },
     "current_justified": {
       "epoch": "6",
@@ -18,6 +18,6 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
       "root": "0x3467d090bba769bf6077c95ab409b4fcecf9c19b77157099ab16134bffe34d2b"
     }
   },
-  "execution_optimistic": true,
+  "execution_optimistic": false,
   "finalized": false
 }

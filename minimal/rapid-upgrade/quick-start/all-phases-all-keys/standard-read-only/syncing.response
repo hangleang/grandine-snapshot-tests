@@ -1,14 +1,14 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 105
+content-length: 106
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "data": {
-    "head_slot": "56",
+    "head_slot": "64",
     "sync_distance": "0",
     "is_syncing": false,
-    "is_optimistic": true,
+    "is_optimistic": false,
     "el_offline": true
   }
 }
