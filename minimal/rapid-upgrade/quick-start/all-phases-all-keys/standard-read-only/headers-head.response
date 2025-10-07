@@ -1,23 +1,23 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 660
+content-length: 662
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "data": {
-    "root": "0x31026180964bde383d7e3002e6ffc2625a794c4ccffadd9099280224bd79dcd6",
+    "root": "0xd61c30ff8e1c3b1750f856bdc395ebfcb7d45276c6fb2bbf4d704815ee08321f",
     "canonical": true,
     "header": {
       "message": {
-        "slot": "56",
-        "proposer_index": "2",
-        "parent_root": "0x886cacddd90361fd1e1aae27a735bdc0ea38aed6ca6716d8211f24aa9c372785",
-        "state_root": "0x17cea5fc77cb4a2d38cbb2c56fd7dce720010640e93e36e15acb195f373fd4a4",
-        "body_root": "0x14c52e5bbd9ea5bb5d40f98c7084e101ead41e414a2cc21151b8b5aba6a31f39"
+        "slot": "64",
+        "proposer_index": "54",
+        "parent_root": "0xfaa75f2a48ebedb203f621723f9ac1c2d28648a5fb5d1004afde7c2adeabd617",
+        "state_root": "0x6c8983c79bfdf3d98f126051f795f4ce6692421a5d882a485555350465d93d21",
+        "body_root": "0xa1d08e738f66e0063af6395b77c30c9a02d38f66b310eff7f17e025d27da9964"
       },
-      "signature": "0x8ab6d910aa18701e2f1c826b1985da7099c013e9a4bcfad7a5be284a1e4306615898712780aad4381bafe5622c4f307910ca27ad3d9be92219837b79389998269053bca1d3ee017d4027e899a949a50fa4e0318ed07e1591d354291304f241f8"
+      "signature": "0x98ca3bdc53b42687167c4b0869c7322aaf9093fa09d92a2e998c39a99467d5f7480d3eec108f2144bf230d6cc7bbd86905e79b2aeb7165745a334b3bdb4d11bc0504d6bbb1d765b925700035413d4d0f68982230a6f99431705ee50116873b05"
     }
   },
-  "execution_optimistic": true,
+  "execution_optimistic": false,
   "finalized": false
 }

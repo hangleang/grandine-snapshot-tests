@@ -1,11 +1,11 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 524
+content-length: 525
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "data": {
-    "balance": "32007792622",
+    "balance": "32008938595",
     "index": "0",
     "status": "active_ongoing",
     "validator": {
@@ -19,6 +19,6 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
       "withdrawable_epoch": "18446744073709551615"
     }
   },
-  "execution_optimistic": true,
+  "execution_optimistic": false,
   "finalized": false
 }
