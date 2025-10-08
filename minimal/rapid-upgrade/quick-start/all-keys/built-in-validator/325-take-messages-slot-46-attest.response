@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 16890
+content-length: 16842
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -12,7 +12,8 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     {
       "PublishSingularAttestation": [
         {
-          "aggregation_bits": "0x11",
+          "committee_index": "0",
+          "attester_index": "20",
           "data": {
             "slot": "46",
             "index": "0",
@@ -26,8 +27,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
               "root": "0x59f3a94aa69cdf75a0aec8f48a7fe572bbb4fc9a44a56234b442f5bc1e40fa68"
             }
           },
-          "signature": "0xa3ccfd26c679dae7e3760ab5a153a0166444d56d951b0f40dfef9ca54d827fff73688ed6b8b9c7995725e3aadd24a4b00efdea73383ff574aee9eff82adbdc1fb8db757517355ab3bd73084029ec50e99ab863b4611555eb37f02a95687d5118",
-          "committee_bits": "0x01"
+          "signature": "0xa3ccfd26c679dae7e3760ab5a153a0166444d56d951b0f40dfef9ca54d827fff73688ed6b8b9c7995725e3aadd24a4b00efdea73383ff574aee9eff82adbdc1fb8db757517355ab3bd73084029ec50e99ab863b4611555eb37f02a95687d5118"
         },
         12
       ]
@@ -35,7 +35,8 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     {
       "PublishSingularAttestation": [
         {
-          "aggregation_bits": "0x12",
+          "committee_index": "0",
+          "attester_index": "15",
           "data": {
             "slot": "46",
             "index": "0",
@@ -49,8 +50,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
               "root": "0x59f3a94aa69cdf75a0aec8f48a7fe572bbb4fc9a44a56234b442f5bc1e40fa68"
             }
           },
-          "signature": "0x9423e9ccf0e534c8a88f0b34152bdfe336a72fda0ed3d74651b09664ca070df86300fad77c8b2644533b911eb412ed810d1de5e1f752c18b98b7513f6458dff5eb0a052939dd7efd344411591011e635ebd6936d58efa49b206d8ce00a8c59eb",
-          "committee_bits": "0x01"
+          "signature": "0x9423e9ccf0e534c8a88f0b34152bdfe336a72fda0ed3d74651b09664ca070df86300fad77c8b2644533b911eb412ed810d1de5e1f752c18b98b7513f6458dff5eb0a052939dd7efd344411591011e635ebd6936d58efa49b206d8ce00a8c59eb"
         },
         12
       ]
@@ -58,7 +58,8 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     {
       "PublishSingularAttestation": [
         {
-          "aggregation_bits": "0x14",
+          "committee_index": "0",
+          "attester_index": "57",
           "data": {
             "slot": "46",
             "index": "0",
@@ -72,8 +73,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
               "root": "0x59f3a94aa69cdf75a0aec8f48a7fe572bbb4fc9a44a56234b442f5bc1e40fa68"
             }
           },
-          "signature": "0x80bae4ff2a19580f3cdc824b79c339664904e343f5923a0d0aa3ac35d5d2e386074f537f2ba3fb761091eeabe97ed9c800400145cc816105a435eb25efda0c23b639ea701734f65ebd13fcbe7ee48962fcda2db863d19fea978235cc284b428f",
-          "committee_bits": "0x01"
+          "signature": "0x80bae4ff2a19580f3cdc824b79c339664904e343f5923a0d0aa3ac35d5d2e386074f537f2ba3fb761091eeabe97ed9c800400145cc816105a435eb25efda0c23b639ea701734f65ebd13fcbe7ee48962fcda2db863d19fea978235cc284b428f"
         },
         12
       ]
@@ -81,7 +81,8 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     {
       "PublishSingularAttestation": [
         {
-          "aggregation_bits": "0x18",
+          "committee_index": "0",
+          "attester_index": "56",
           "data": {
             "slot": "46",
             "index": "0",
@@ -95,8 +96,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
               "root": "0x59f3a94aa69cdf75a0aec8f48a7fe572bbb4fc9a44a56234b442f5bc1e40fa68"
             }
           },
-          "signature": "0x956ee3752956b55717874074ded2f47a3017afa82287a86cf3664a4c5fefc061f938f48e8355abd22efe64c4f94dbe15011982e635f4bf32ec3ac7c955672ef869316bcbe738d289f23e93e65c838f28e6a2aebad450b8b681871f94bb4d911e",
-          "committee_bits": "0x01"
+          "signature": "0x956ee3752956b55717874074ded2f47a3017afa82287a86cf3664a4c5fefc061f938f48e8355abd22efe64c4f94dbe15011982e635f4bf32ec3ac7c955672ef869316bcbe738d289f23e93e65c838f28e6a2aebad450b8b681871f94bb4d911e"
         },
         12
       ]
@@ -104,7 +104,8 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     {
       "PublishSingularAttestation": [
         {
-          "aggregation_bits": "0x11",
+          "committee_index": "1",
+          "attester_index": "21",
           "data": {
             "slot": "46",
             "index": "0",
@@ -118,8 +119,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
               "root": "0x59f3a94aa69cdf75a0aec8f48a7fe572bbb4fc9a44a56234b442f5bc1e40fa68"
             }
           },
-          "signature": "0x95dce0845d64321d299a5b22d559590b792134c13e501acb737e04f5560499530346005daabf88fd205d71b8d125693d176a28ae6944aec27a753da740e2cc64bd39752651614d5a8ea15a2a73cf82221b9bd348fe67a2bf137efe14c109b05a",
-          "committee_bits": "0x02"
+          "signature": "0x95dce0845d64321d299a5b22d559590b792134c13e501acb737e04f5560499530346005daabf88fd205d71b8d125693d176a28ae6944aec27a753da740e2cc64bd39752651614d5a8ea15a2a73cf82221b9bd348fe67a2bf137efe14c109b05a"
         },
         13
       ]
@@ -127,7 +127,8 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     {
       "PublishSingularAttestation": [
         {
-          "aggregation_bits": "0x12",
+          "committee_index": "1",
+          "attester_index": "36",
           "data": {
             "slot": "46",
             "index": "0",
@@ -141,8 +142,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
               "root": "0x59f3a94aa69cdf75a0aec8f48a7fe572bbb4fc9a44a56234b442f5bc1e40fa68"
             }
           },
-          "signature": "0x99dc96e209b5d39de5803ad3d731c34a8884c63c9a95196ab0ab573b94df2f175a86705ee6b0851b874e7a8b62983cf50838ebb7e3c54bdcbb10e91043cd3ff20484b5339a0825b6c9953b00e4f7910a4e787da00d5c69569b23be81b26567aa",
-          "committee_bits": "0x02"
+          "signature": "0x99dc96e209b5d39de5803ad3d731c34a8884c63c9a95196ab0ab573b94df2f175a86705ee6b0851b874e7a8b62983cf50838ebb7e3c54bdcbb10e91043cd3ff20484b5339a0825b6c9953b00e4f7910a4e787da00d5c69569b23be81b26567aa"
         },
         13
       ]
@@ -150,7 +150,8 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     {
       "PublishSingularAttestation": [
         {
-          "aggregation_bits": "0x14",
+          "committee_index": "1",
+          "attester_index": "33",
           "data": {
             "slot": "46",
             "index": "0",
@@ -164,8 +165,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
               "root": "0x59f3a94aa69cdf75a0aec8f48a7fe572bbb4fc9a44a56234b442f5bc1e40fa68"
             }
           },
-          "signature": "0x9749fbbc442e8106a352c18edb6fa22a6faec251ced165fc24e3c0b98328312d91412b279ad7e6210ca6fd45c56234ef02ef2fc4bb4fda71216a4b5ba4f08dc7c321c197c7ad705591eb713d675d4d72eb9a5f624801c6ecebe2b34775920bb2",
-          "committee_bits": "0x02"
+          "signature": "0x9749fbbc442e8106a352c18edb6fa22a6faec251ced165fc24e3c0b98328312d91412b279ad7e6210ca6fd45c56234ef02ef2fc4bb4fda71216a4b5ba4f08dc7c321c197c7ad705591eb713d675d4d72eb9a5f624801c6ecebe2b34775920bb2"
         },
         13
       ]
@@ -173,7 +173,8 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     {
       "PublishSingularAttestation": [
         {
-          "aggregation_bits": "0x18",
+          "committee_index": "1",
+          "attester_index": "49",
           "data": {
             "slot": "46",
             "index": "0",
@@ -187,8 +188,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
               "root": "0x59f3a94aa69cdf75a0aec8f48a7fe572bbb4fc9a44a56234b442f5bc1e40fa68"
             }
           },
-          "signature": "0x943d39b9d49a462eebffeb83e4bf19295b3897015f99a34b238005a8dd6169a06153c8ec3145ba152f5017a43a003d56040690873535ef6614a80e9513ed6a962461cee54931eb0ad6d5679222b26df52f514c194da5ee9da0d44b1448cd7adf",
-          "committee_bits": "0x02"
+          "signature": "0x943d39b9d49a462eebffeb83e4bf19295b3897015f99a34b238005a8dd6169a06153c8ec3145ba152f5017a43a003d56040690873535ef6614a80e9513ed6a962461cee54931eb0ad6d5679222b26df52f514c194da5ee9da0d44b1448cd7adf"
         },
         13
       ]
