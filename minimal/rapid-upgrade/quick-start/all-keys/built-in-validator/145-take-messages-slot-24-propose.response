@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 3869
+content-length: 3862
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -17,10 +17,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
   "pool_to_p2p": [],
   "validator_to_p2p": [
     {
-      "UpdateDataColumnSubnets": [
-        64,
-        true
-      ]
+      "UpdateDataColumnSubnets": 64
     },
     {
       "PublishBeaconBlock": {
