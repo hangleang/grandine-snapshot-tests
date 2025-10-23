@@ -1,9 +1,4 @@
-HTTP/1.0 400 Bad Request
-content-type: application/json
-content-length: 48
+HTTP/1.0 202 Accepted
+content-length: 0
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
-{
-  "code": 400,
-  "message": "unable to publish block"
-}
