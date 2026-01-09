@@ -1,7 +1,7 @@
 HTTP/1.0 200 OK
 content-type: application/json
 eth-consensus-version: electra
-content-length: 3310
+content-length: 3311
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -78,6 +78,6 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     "signature": "0x905a86795f9fa04f9e19ff95a4e86214e07d4b5a12cc4e252c738ea7ce8de56a7e7e4f5e2e39764d8a5b66074a4a9fac114b3486cf1ab8cdf935f8d1983ab933140e4e94da555ef3df2cc53bc6b6706cd226f92d2e8f42b19824134e49bc9873"
   },
   "version": "electra",
-  "execution_optimistic": true,
+  "execution_optimistic": false,
   "finalized": true
 }

@@ -1,7 +1,7 @@
 HTTP/1.0 200 OK
 content-type: application/json
 eth-consensus-version: fulu
-content-length: 117
+content-length: 116
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -25,5 +25,5 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
   ],
   "version": "fulu",
   "execution_optimistic": true,
-  "finalized": false
+  "finalized": true
 }

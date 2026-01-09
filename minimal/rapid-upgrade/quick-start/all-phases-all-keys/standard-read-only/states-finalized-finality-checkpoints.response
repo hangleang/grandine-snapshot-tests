@@ -6,16 +6,16 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
 {
   "data": {
     "previous_justified": {
-      "epoch": "3",
-      "root": "0x46f02f34f5a4bee4f0d001144a375bd94df11efe1d872b4e6104af5c0c975428"
-    },
-    "current_justified": {
       "epoch": "4",
       "root": "0xdd7251ed38ed0ab0f9d75d9cc67697f4eb5f10b0c34e4f0c260707fe73db943d"
     },
+    "current_justified": {
+      "epoch": "5",
+      "root": "0x3467d090bba769bf6077c95ab409b4fcecf9c19b77157099ab16134bffe34d2b"
+    },
     "finalized": {
-      "epoch": "3",
-      "root": "0x46f02f34f5a4bee4f0d001144a375bd94df11efe1d872b4e6104af5c0c975428"
+      "epoch": "4",
+      "root": "0xdd7251ed38ed0ab0f9d75d9cc67697f4eb5f10b0c34e4f0c260707fe73db943d"
     }
   },
   "execution_optimistic": true,
