@@ -16,7 +16,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
       }
     },
     {
-      "HeadChanged": "0xddc0a6baf42fb56a9b757d0cdb536bec99fae4cd322f4bf4cd9501e74cabd3c6"
+      "HeadChanged": "0x6c5215f87d0b89e494facdc6cc78163a3461734df7f43290be83b3a6cef1f41c"
     }
   ],
   "fc_to_sync": [],
@@ -211,7 +211,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "slot": "48",
           "proposer_index": "2",
           "parent_root": "0xc9cd43f78c9da1ebf4d68384610a8d111c4a60e0b7e7b5c855ef90eb9347727f",
-          "state_root": "0x0448cea18acf299d74e9f73b247d21d3150222abb82c008b9a31cf8270ed6945",
+          "state_root": "0x0a92a91495553cff7a3bd3e2fe90bc60dd5334d9c78fd1e6d51842a1e1eb3e6e",
           "body": {
             "randao_reveal": "0xa87a0a49134aa4a503b09627f81544f181a928d4bc198d1c05f4222de1d3c6493a1a32690fd7623e1f451a880e1c8b1f0c31ec4c45d3b36abfaae790d9ce1d12a17156c86ae89ce17986be29ffd137b98b2f7dbdee8ceb6dd06f3aecf12effb1",
             "eth1_data": {
@@ -294,7 +294,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
             }
           }
         },
-        "signature": "0xaa18ccac09b7c4426c70318926ea02b78261e8870057ef2f6a84387358f5bacdffad85fc47e34c4237a83d6576e2276711a97d07efd507433ad749fd5172b52dcf9a3aa6937bd7cbec360471d052bf5dcaf93966927d5d5f3b64f7d337983eea"
+        "signature": "0x8fae07e97c7a4c05ccb5eb10e760fad060287324320adeb005e749895f7585f0f545a8f3198ecd8d16b2f7c4a3ea594017d61fe2a04479a6a4490c2a005d81cc287627c25497942192eaf2a5f249a9e40e869f221ed56ba413f42f87c80f22df"
       }
     }
   ]

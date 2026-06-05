@@ -5,17 +5,17 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "data": {
-    "root": "0xe47a8df5429aff56b78b89647b7d5a68658bc5f6c2227bfbef863d0d000d7d74",
+    "root": "0x0b9389c03a3673b37a9046c27d22bf45e16380052038d12021ea9732b3454d6b",
     "canonical": true,
     "header": {
       "message": {
         "slot": "64",
         "proposer_index": "54",
-        "parent_root": "0x9eb106ec99d741c91e75eb3f5b73a737e6d3e220ef105e2164c6765c4b90baf4",
-        "state_root": "0x51c1a094b4bd5885a91c1ace237434a6cb3187d3945332e0f2b980199b56ca60",
-        "body_root": "0x8ce539169bbe3779f18ff734d763a5e91a816cb706110971f60e11de9f2331e4"
+        "parent_root": "0xbbb65308a6b749d956556da89b716f3dd4cdd6b05cf02780810f9386088208e2",
+        "state_root": "0xc02f7fab14313a00bafb3ccaa967d3a9cbe35b97295f7d5b4e180ebc26a602ee",
+        "body_root": "0x3111b4387b042c1563cca763e97598c6a1f6f640f47775bee7d471310aefa883"
       },
-      "signature": "0x92ee0b5cda2865032745c63006eb099452a28953f2a064013c26c06df7b982d9ebea2c297ea193fb5079349bfe9ab5ce1790944e3024c6a59d86a5623bd14249ce1ec219f912c53738e69df8520e76073538fca81ba4df0bbb913f1849d060d1"
+      "signature": "0x8605558561bc373e17ba28e1402be62f7e67f64f9cea4a222bf18b67418e2134dbb57701bbbdb0e1e73699f47a68d58b051401ce5abe2ef636b50cd78cb751b4b9755bc63e7b0c21631b6b24c0f02d2569ac6ab01891cb0bce2eb828a20875a0"
     }
   },
   "execution_optimistic": true,
