@@ -5,21 +5,101 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "justified_checkpoint": {
-    "epoch": "7",
-    "root": "0xda6d00afeb06fd9d1b96d0a1faaae2afa8bec780e50af49cac1d5421f47d89ee"
-  },
-  "finalized_checkpoint": {
     "epoch": "6",
     "root": "0xdb6cfd97bc45e00aa01d13952f786248aa9766de3d58933e4d5c2e62f672adfa"
   },
+  "finalized_checkpoint": {
+    "epoch": "5",
+    "root": "0x3467d090bba769bf6077c95ab409b4fcecf9c19b77157099ab16134bffe34d2b"
+  },
   "fork_choice_nodes": [
+    {
+      "slot": "41",
+      "block_root": "0xdb47a7ed5dbafb08e939438e8a08e32e5e3d4de6d084e6e37a981f92fcdd3106",
+      "parent_root": "0x3467d090bba769bf6077c95ab409b4fcecf9c19b77157099ab16134bffe34d2b",
+      "justified_epoch": "4",
+      "finalized_epoch": "3",
+      "weight": "2048000000000",
+      "validity": "optimistic",
+      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "slot": "42",
+      "block_root": "0x3a55516f519e2357fab2528b5425241cbd89f44d2c0276df241e09719a7cbf2b",
+      "parent_root": "0xdb47a7ed5dbafb08e939438e8a08e32e5e3d4de6d084e6e37a981f92fcdd3106",
+      "justified_epoch": "4",
+      "finalized_epoch": "3",
+      "weight": "2048000000000",
+      "validity": "optimistic",
+      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "slot": "43",
+      "block_root": "0x5c4dcf5e1e1c0bf046c6e2eafbcccdcaf0b06ae890a57e4e1491d729da320eed",
+      "parent_root": "0x3a55516f519e2357fab2528b5425241cbd89f44d2c0276df241e09719a7cbf2b",
+      "justified_epoch": "4",
+      "finalized_epoch": "3",
+      "weight": "2048000000000",
+      "validity": "optimistic",
+      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "slot": "44",
+      "block_root": "0x9e3be016f34ed694c97d64b2bd8ad60b98763ac97f7080ef20c8bee2099838cc",
+      "parent_root": "0x5c4dcf5e1e1c0bf046c6e2eafbcccdcaf0b06ae890a57e4e1491d729da320eed",
+      "justified_epoch": "4",
+      "finalized_epoch": "3",
+      "weight": "2048000000000",
+      "validity": "optimistic",
+      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "slot": "45",
+      "block_root": "0x27a30faa386873b0116fa78d85d910ea3478fdb074972316f2a944646be09580",
+      "parent_root": "0x9e3be016f34ed694c97d64b2bd8ad60b98763ac97f7080ef20c8bee2099838cc",
+      "justified_epoch": "4",
+      "finalized_epoch": "3",
+      "weight": "2048000000000",
+      "validity": "optimistic",
+      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "slot": "46",
+      "block_root": "0x012942c807fe0b9ffd275e2d9e0e9d5eea2c750c025288f3c4ea86145d928924",
+      "parent_root": "0x27a30faa386873b0116fa78d85d910ea3478fdb074972316f2a944646be09580",
+      "justified_epoch": "4",
+      "finalized_epoch": "3",
+      "weight": "2048000000000",
+      "validity": "optimistic",
+      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "slot": "47",
+      "block_root": "0x65164943ac5173110b5e09dc0c8412db443008cc7fe64d75d5a6956453540234",
+      "parent_root": "0x012942c807fe0b9ffd275e2d9e0e9d5eea2c750c025288f3c4ea86145d928924",
+      "justified_epoch": "4",
+      "finalized_epoch": "3",
+      "weight": "2048000000000",
+      "validity": "optimistic",
+      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "slot": "48",
+      "block_root": "0xdb6cfd97bc45e00aa01d13952f786248aa9766de3d58933e4d5c2e62f672adfa",
+      "parent_root": "0x65164943ac5173110b5e09dc0c8412db443008cc7fe64d75d5a6956453540234",
+      "justified_epoch": "5",
+      "finalized_epoch": "4",
+      "weight": "2048000000000",
+      "validity": "optimistic",
+      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
+    },
     {
       "slot": "49",
       "block_root": "0x3aca9005b8fa49456ecd6ae08e52b9d99470fb3924333972443d02b1871b4cda",
       "parent_root": "0xdb6cfd97bc45e00aa01d13952f786248aa9766de3d58933e4d5c2e62f672adfa",
       "justified_epoch": "5",
       "finalized_epoch": "4",
-      "weight": "2048000000000",
+      "weight": "1792000000000",
       "validity": "optimistic",
       "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
     },
@@ -29,7 +109,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
       "parent_root": "0x3aca9005b8fa49456ecd6ae08e52b9d99470fb3924333972443d02b1871b4cda",
       "justified_epoch": "5",
       "finalized_epoch": "4",
-      "weight": "2048000000000",
+      "weight": "1536000000000",
       "validity": "optimistic",
       "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
     },
@@ -39,7 +119,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
       "parent_root": "0x7ce904db1108ecba4f885218784608aaf7a4a91cad43e8b64f08b454e2f65bb5",
       "justified_epoch": "5",
       "finalized_epoch": "4",
-      "weight": "2048000000000",
+      "weight": "1280000000000",
       "validity": "optimistic",
       "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
     },
@@ -49,7 +129,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
       "parent_root": "0x7ed56b265c48464cf9bd4b7a3150ba83fff779e4107164fbe92c87c580be4915",
       "justified_epoch": "5",
       "finalized_epoch": "4",
-      "weight": "2048000000000",
+      "weight": "1024000000000",
       "validity": "optimistic",
       "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
     },
@@ -59,7 +139,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
       "parent_root": "0x75efe5650d26ab896c3a18bca6a807ddb9a55d1fae0dae606b0017be6581bb39",
       "justified_epoch": "5",
       "finalized_epoch": "4",
-      "weight": "2048000000000",
+      "weight": "768000000000",
       "validity": "optimistic",
       "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
     },
@@ -69,7 +149,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
       "parent_root": "0x11855eb2e1285f941c4b710cf47dc15895086dcd00d06a9037c4e7efe8a32010",
       "justified_epoch": "5",
       "finalized_epoch": "4",
-      "weight": "2048000000000",
+      "weight": "512000000000",
       "validity": "optimistic",
       "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
     },
@@ -79,96 +159,16 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
       "parent_root": "0x04827fbf75160b1b1128ac7b0be015230926de3cfe65a63175cb3218f6739b5d",
       "justified_epoch": "5",
       "finalized_epoch": "4",
-      "weight": "2048000000000",
-      "validity": "optimistic",
-      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
-    },
-    {
-      "slot": "56",
-      "block_root": "0xda6d00afeb06fd9d1b96d0a1faaae2afa8bec780e50af49cac1d5421f47d89ee",
-      "parent_root": "0x886cacddd90361fd1e1aae27a735bdc0ea38aed6ca6716d8211f24aa9c372785",
-      "justified_epoch": "6",
-      "finalized_epoch": "5",
-      "weight": "2048000000000",
-      "validity": "optimistic",
-      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
-    },
-    {
-      "slot": "57",
-      "block_root": "0xa3b4cc08a878c1c80efbe31e9cc81609ac783412c360273088e88eb0cd50743e",
-      "parent_root": "0xda6d00afeb06fd9d1b96d0a1faaae2afa8bec780e50af49cac1d5421f47d89ee",
-      "justified_epoch": "6",
-      "finalized_epoch": "5",
-      "weight": "1792000000000",
-      "validity": "optimistic",
-      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
-    },
-    {
-      "slot": "58",
-      "block_root": "0x016d1a1ae80f3085242a481226257f338001dd9dbc5191470baa5ef1e3de4ccd",
-      "parent_root": "0xa3b4cc08a878c1c80efbe31e9cc81609ac783412c360273088e88eb0cd50743e",
-      "justified_epoch": "6",
-      "finalized_epoch": "5",
-      "weight": "1536000000000",
-      "validity": "optimistic",
-      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
-    },
-    {
-      "slot": "59",
-      "block_root": "0x0f0419d862b140dea20ba613ffc223279e226d311dffe172c4ae58fda2cb736c",
-      "parent_root": "0x016d1a1ae80f3085242a481226257f338001dd9dbc5191470baa5ef1e3de4ccd",
-      "justified_epoch": "6",
-      "finalized_epoch": "5",
-      "weight": "1280000000000",
-      "validity": "optimistic",
-      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
-    },
-    {
-      "slot": "60",
-      "block_root": "0x87ec85a1e2c99ada5e2f9f082b9e6f5ebce418c73719d8ccb5d3ab11120bca0c",
-      "parent_root": "0x0f0419d862b140dea20ba613ffc223279e226d311dffe172c4ae58fda2cb736c",
-      "justified_epoch": "6",
-      "finalized_epoch": "5",
-      "weight": "1024000000000",
-      "validity": "optimistic",
-      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
-    },
-    {
-      "slot": "61",
-      "block_root": "0xcb275ce6423b9310ea9b3ef730346ed163df3e9460ca8d5aa65a37a884b47ec3",
-      "parent_root": "0x87ec85a1e2c99ada5e2f9f082b9e6f5ebce418c73719d8ccb5d3ab11120bca0c",
-      "justified_epoch": "6",
-      "finalized_epoch": "5",
-      "weight": "768000000000",
-      "validity": "optimistic",
-      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
-    },
-    {
-      "slot": "62",
-      "block_root": "0xaaef544f95ff1ee45304942e70484636b88754ea28343c688762e90f0b4c7a65",
-      "parent_root": "0xcb275ce6423b9310ea9b3ef730346ed163df3e9460ca8d5aa65a37a884b47ec3",
-      "justified_epoch": "6",
-      "finalized_epoch": "5",
-      "weight": "512000000000",
-      "validity": "optimistic",
-      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
-    },
-    {
-      "slot": "63",
-      "block_root": "0xbbb65308a6b749d956556da89b716f3dd4cdd6b05cf02780810f9386088208e2",
-      "parent_root": "0xaaef544f95ff1ee45304942e70484636b88754ea28343c688762e90f0b4c7a65",
-      "justified_epoch": "6",
-      "finalized_epoch": "5",
       "weight": "256000000000",
       "validity": "optimistic",
       "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
     },
     {
-      "slot": "64",
-      "block_root": "0x0b9389c03a3673b37a9046c27d22bf45e16380052038d12021ea9732b3454d6b",
-      "parent_root": "0xbbb65308a6b749d956556da89b716f3dd4cdd6b05cf02780810f9386088208e2",
-      "justified_epoch": "7",
-      "finalized_epoch": "6",
+      "slot": "56",
+      "block_root": "0x393c72ed390a529277e6d62b9dd9d1a3c528cafc0e528c508da9c1fcb4f519ad",
+      "parent_root": "0x886cacddd90361fd1e1aae27a735bdc0ea38aed6ca6716d8211f24aa9c372785",
+      "justified_epoch": "6",
+      "finalized_epoch": "5",
       "weight": "0",
       "validity": "optimistic",
       "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"

@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 7537
+content-length: 7631
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -81,6 +81,8 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     "BUILDER_REGISTRY_LIMIT": "1099511627776",
     "BUILDER_PENDING_WITHDRAWALS_LIMIT": "1048576",
     "MAX_BUILDERS_PER_WITHDRAWALS_SWEEP": "16384",
+    "MAX_BUILDER_DEPOSIT_REQUESTS_PER_PAYLOAD": "256",
+    "MAX_BUILDER_EXIT_REQUESTS_PER_PAYLOAD": "16",
     "CONFIG_NAME": "mainnet",
     "PRESET_BASE": "mainnet",
     "GENESIS_DELAY": "604800",
