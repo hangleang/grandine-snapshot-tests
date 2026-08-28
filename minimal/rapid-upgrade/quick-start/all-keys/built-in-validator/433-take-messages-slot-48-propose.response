@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 7329
+content-length: 7385
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -32,9 +32,9 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "proposal_slot": "56",
           "validator_index": "2",
           "fee_recipient": "0x0000000000000000000000000000000000000000",
-          "target_gas_limit": "0"
+          "target_gas_limit": "60000000"
         },
-        "signature": "0xab66824238d6559c8ecef166b414f1a89698b5029cf5a9d715ef315c07a8f4add23390251fc9479c646f759ea0b180a405ec909f6f9a4004bc4318672388f3df6b8ea81b8980518d44b9b688e81dfc2d28dfce796e4690f2dc31e3ce1d03be8d"
+        "signature": "0x9375d3084d4487c2f443e0d185e916b817aad8735f6179fdf7862a8e18eec56828de3cef62c45c7c0003d0565d2084320469ec03d9e3a115a42ddc671733e47f42e0587e754b0ac2c80d364007f9d1375d3d96eca222d091f3bade1f15ac87d8"
       }
     },
     {
@@ -44,9 +44,9 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "proposal_slot": "57",
           "validator_index": "10",
           "fee_recipient": "0x0000000000000000000000000000000000000000",
-          "target_gas_limit": "0"
+          "target_gas_limit": "60000000"
         },
-        "signature": "0x8dd47ecb34899cff698c670495073b89481e97575093d0874c7b47307e9735cd73dccf81db5690f8eae85d3f2ebdc7830a7d75e6b7ef8b131333c5925641e416bac044cbeaf30bac3501323b4ce1da97b9bf1fe0cab6c18f205bd51788e30cb9"
+        "signature": "0xa47a3b6cd151424373aa9f724e071e0346cf956dc91d1ee5fc81f2cb56ed742452b1826cbcac5169f18d80c0f993ca520e0a2bbfd3091f8a922662829d7f9cca4674110b96f3e6a4f765fce15fab7aa6b8fc1d98eac9de63d4c22ae972ef8040"
       }
     },
     {
@@ -56,9 +56,9 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "proposal_slot": "58",
           "validator_index": "58",
           "fee_recipient": "0x0000000000000000000000000000000000000000",
-          "target_gas_limit": "0"
+          "target_gas_limit": "60000000"
         },
-        "signature": "0xb5a3a96213b7f6a80d4bc6730437f2f15b743361c565515229cac6517643542b2c19f3c2d07ab41354bc8adda777bc670ffc776f550e928aa21af85a48f79bdccdede804ccd721ceeb0086f345042bc4bb165d270080bd3bf69d3287a57e896b"
+        "signature": "0xb4ac19cfced9e42d6bb4b86eeb3d696f82d0ebd43e95c902a468686d6e2269f38873dcf1da57f662b075a778933a891f0d87e4db419bb0d377b564351a1f41f5f90cebe05d33c1d559e56d9270e5977b33651e35849b83ba86a0c023fedabdce"
       }
     },
     {
@@ -68,9 +68,9 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "proposal_slot": "59",
           "validator_index": "10",
           "fee_recipient": "0x0000000000000000000000000000000000000000",
-          "target_gas_limit": "0"
+          "target_gas_limit": "60000000"
         },
-        "signature": "0xae9477fbe5731a0f4c537dbbb6adfd134dd29f2668f577598425ae1b544fb32e8fd1a803c867de88cc8c24b6231948cd007a3db519ad20b99e3906cd6bf63f846955b7b8a306c71638801639a69ad1f840b21d14162d5a739f3bc02efcbc2862"
+        "signature": "0xb6a7b12e49884803a444a8c12a23e4686e6982d5aafca5cb0cdf7a309b6ee8c26621610f8c5d0da05edc29d0fde8b4cc15ac19aaea70998d73a593c5221a000f191ec15ba4848618de8baec4f416dde505c7e11df9729fd51ab889f786f7bfc7"
       }
     },
     {
@@ -80,9 +80,9 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "proposal_slot": "60",
           "validator_index": "38",
           "fee_recipient": "0x0000000000000000000000000000000000000000",
-          "target_gas_limit": "0"
+          "target_gas_limit": "60000000"
         },
-        "signature": "0x963a99ace926f3aad313243cec55334efbea571143b3fc2fca5e08eb55fc8aacd7085a53abc75badc83fafda068ec199174590892b6a453ec03dbcddc91c9dd3b0f087971a49ab709fd14e80ae2ffb9e0c55b57298d1e2d8a4d1b8723b1b95b5"
+        "signature": "0xa9b328b679f14051a226cff9777b4ae0620798c21ea9286c3814c3468aeb6119ca7543cd03e6aee382f47850b7d6d68d08b8422a2d3f9150e6d2451c69e4b39d7f4b78f0d7d025b459d3a36716d3d85503af151a5309991d160f1718ca371d5a"
       }
     },
     {
@@ -92,9 +92,9 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "proposal_slot": "61",
           "validator_index": "43",
           "fee_recipient": "0x0000000000000000000000000000000000000000",
-          "target_gas_limit": "0"
+          "target_gas_limit": "60000000"
         },
-        "signature": "0x86841c9fa02b41349095dd93e23eb8b6a6ee3df58d5a7c45c0e9bab46f1294e0af175cfd5b0381f3cde4d4a95943f146193347e4f5c3e98438bcbabe059a0858e79c6348fcbf42a541b18f8afd0772bd4aed88512f5dc20acfb2cef8892caf50"
+        "signature": "0x8ae39984af62e8f19e627c1a16a92326f50742453db40e08a9705be3cd5c31f62cde602795315977ee545b35214be4d61934617a257e1a6ef613c285d957af24ff2ab529831fdea58e751375e0b79f4afc9d6fa414fcb16310d579e6720c6cf9"
       }
     },
     {
@@ -104,9 +104,9 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "proposal_slot": "62",
           "validator_index": "17",
           "fee_recipient": "0x0000000000000000000000000000000000000000",
-          "target_gas_limit": "0"
+          "target_gas_limit": "60000000"
         },
-        "signature": "0xb47eb1a4ff323ae11dd31c884ed81c15d6679b7d76edf78f35efca99b86f8a3b608265ca46547887b4945eccbdeb21f0152abef68aae8e85332cc90551fa98cc45ddd9c7e9572ad4dd5b9e6161af4dbbcdb8fc9cd16eade6dc18da51e096ae3a"
+        "signature": "0x92348da4756b961084ed9ec4c54dfaad3e97a230a65d243109d137da3de1032a38199e02c2d3c2cb7d1a733890f1a72a17d4cba5a441e89a2e7197e5151ae106180101bc7ba7232c11160f6f01aeba51e4ce97aedb06a3e5541f716a4e335cf4"
       }
     },
     {
@@ -116,9 +116,9 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
           "proposal_slot": "63",
           "validator_index": "50",
           "fee_recipient": "0x0000000000000000000000000000000000000000",
-          "target_gas_limit": "0"
+          "target_gas_limit": "60000000"
         },
-        "signature": "0xa14f84082ef735a69d0222846d8ed072244c5f732376a31bcf9871fd22618490e6710dfc863e0e2ab64c1d53017732c818e4a25c956485a98787f12d9b4019fdfd73ffa617ca705cd5a6b2c1157e3d33065df661b95d24227f17076d1ea6bf88"
+        "signature": "0xb0d80779aac0763003891ae1d16c5f573f23a8466d9e0b4253c633d61a3875b5e879eb5c8a56a2f941d7cdf078475681012d6a2d43d327304874aa4eaaf922e98f9bdb56710e1620abb996ef92fb6076fd1885291ffc7402e60c3f56facb675d"
       }
     },
     {
