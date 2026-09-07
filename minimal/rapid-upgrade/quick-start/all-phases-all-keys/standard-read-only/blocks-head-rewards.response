@@ -1,11 +1,11 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 187
+content-length: 188
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "data": {
-    "proposer_index": "2",
+    "proposer_index": "54",
     "total": "51104",
     "attestations": "0",
     "sync_aggregate": "51104",

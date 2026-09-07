@@ -1,18 +1,18 @@
 HTTP/1.0 200 OK
 content-type: application/json
 eth-consensus-version: gloas
-content-length: 2435
+content-length: 2436
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "data": {
     "message": {
-      "slot": "56",
-      "proposer_index": "2",
-      "parent_root": "0x886cacddd90361fd1e1aae27a735bdc0ea38aed6ca6716d8211f24aa9c372785",
-      "state_root": "0x1c36b30baf50a3b1f6195620a9e32d9913addd8ca99847717e9d65a7e061f9ec",
+      "slot": "64",
+      "proposer_index": "54",
+      "parent_root": "0x51c0c978918eb5251b24a867dd2b58bda380a689a7904a29a76e3e7f18cdb257",
+      "state_root": "0x878afa6a7cdeeaa29c619c20d70d0901f5a7cd6b0dfd060572230d948dfce3f2",
       "body": {
-        "randao_reveal": "0xb19a1c9b5827af0d0b996046fe4610cd960fba7f408df722a927f2e7d8bdd0be251840a74e12285f7893fe5ca2493a7a162ba5b3733d1835e547ae7e2e2f1c5f4562e38c3335d414c2bd75e5fe0114aa5b3774a06242117088dad5fff73c0b65",
+        "randao_reveal": "0xb5c6b4b7d05f9e8ae27acfbe654a34af05bb1395c59fb54bee6b7bc18b5889c3ab9ebac12e6eebdfb9fe80e5355dad6c0c1b852177bfad2665087fcc7ef8dd02b58c6c2748d39d79eeddac810401bcb63e9a45cfbcb04832b154eb93d208db85",
         "eth1_data": {
           "deposit_root": "0x6141b76179b67d7849f34a22d0e529729fb274bbe81374c41623373b649cc63b",
           "deposit_count": "64",
@@ -26,19 +26,19 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
         "voluntary_exits": [],
         "sync_aggregate": {
           "sync_committee_bits": "0xffffffff",
-          "sync_committee_signature": "0xabe1de50b73a27a62ea2c4bf9ec5cc36fc5c22369c078ddb1bede511bddbf1195f7d01e5490c12131bde0c8ef196b50f0658694355989e4b9b5ad91cf11686e2cab2337dd7df8f0fcf3fc51d557fd04eaeff0a51a3b7b72a5874f5f155b14b80"
+          "sync_committee_signature": "0x918ab0d802bb51da7e579821ed25b521235612c3e8e0c1a2414791ca8c3551fbd5e1beb08d29380ac48c98723b29753119983ab9406194c2b53663dd138706f6b60365132e6a953108aa156e2f04da6bcfee0494e63f07ed863195fbb75b3397"
         },
         "bls_to_execution_changes": [],
         "signed_execution_payload_bid": {
           "message": {
             "parent_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
-            "parent_block_root": "0x886cacddd90361fd1e1aae27a735bdc0ea38aed6ca6716d8211f24aa9c372785",
-            "block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
-            "prev_randao": "0x37d0062c3eec5223578515f88b1af43ccdbf069b114dc574237de7dab453127f",
+            "parent_block_root": "0x51c0c978918eb5251b24a867dd2b58bda380a689a7904a29a76e3e7f18cdb257",
+            "block_hash": "0x0000000000000000000000000000000000000000000000000000000000000040",
+            "prev_randao": "0x4882aa25e92c75b9f7fc8c86f246ca24de49c43e987f48db9d9ca658cd0aff4f",
             "fee_recipient": "0x0000000000000000000000000000000000000000",
             "gas_limit": "0",
             "builder_index": "18446744073709551615",
-            "slot": "56",
+            "slot": "64",
             "value": "0",
             "execution_payment": "0",
             "blob_kzg_commitments": [],
@@ -56,7 +56,7 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
         }
       }
     },
-    "signature": "0xa91aa42c62efa2cdb3ab692cf13f49c867f5061dc19ab3a4d1cbae9e0d7bea3e3c817ad8ccad2b0bad4a3519632e053e17dedb4021fe5cccd7e3fb21738ea3556b7533abe7906727ea80476762b81178e95d8aa2eb7361663aa3ab41b75e9c59"
+    "signature": "0x9185447c5f51f414c2f58a5e4200273255db3595752adacd6ee9195e3c09836203efab4a49a8db9759f5ea7bcc00e2b617a97b26a1e16941373816bc414c3b2a1d4470f0ec33f08d9dc46f41809ee250e542361e4cde885c8b781c783d1d1881"
   },
   "version": "gloas",
   "execution_optimistic": true,

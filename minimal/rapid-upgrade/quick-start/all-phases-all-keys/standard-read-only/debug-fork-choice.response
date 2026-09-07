@@ -1,6 +1,6 @@
 HTTP/1.0 200 OK
 content-type: application/json
-content-length: 6046
+content-length: 8862
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
@@ -165,13 +165,93 @@ date: Thu, 01 Jan 1970 00:00:00 GMT
     },
     {
       "slot": "56",
-      "block_root": "0x763ecf0117dda01f6d5deaeb6e786ecf30426b34ffa829e7712b946e2e3ce20f",
+      "block_root": "0x8065ae04ba98e5e91d7ead56555c8bf725462a6ea917ccf88c470c5ecab0a34b",
       "parent_root": "0x886cacddd90361fd1e1aae27a735bdc0ea38aed6ca6716d8211f24aa9c372785",
       "justified_epoch": "6",
       "finalized_epoch": "5",
       "weight": "0",
       "validity": "optimistic",
-      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000000"
+      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000038"
+    },
+    {
+      "slot": "57",
+      "block_root": "0x98ec44af4925b35fb85bbc73758909208e8f0ebd2ea60894ea5b4b073e16ea8b",
+      "parent_root": "0x8065ae04ba98e5e91d7ead56555c8bf725462a6ea917ccf88c470c5ecab0a34b",
+      "justified_epoch": "6",
+      "finalized_epoch": "5",
+      "weight": "0",
+      "validity": "optimistic",
+      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000039"
+    },
+    {
+      "slot": "58",
+      "block_root": "0x01ba53da4ee366e3987c00d8076e3198eee2a1dbe03ade4fd014bbc4b13955a8",
+      "parent_root": "0x98ec44af4925b35fb85bbc73758909208e8f0ebd2ea60894ea5b4b073e16ea8b",
+      "justified_epoch": "6",
+      "finalized_epoch": "5",
+      "weight": "0",
+      "validity": "optimistic",
+      "execution_block_hash": "0x000000000000000000000000000000000000000000000000000000000000003a"
+    },
+    {
+      "slot": "59",
+      "block_root": "0x74c8bf1d8ea536b28530534e2ff0319917163b05b6f13155bda820396b053eb7",
+      "parent_root": "0x01ba53da4ee366e3987c00d8076e3198eee2a1dbe03ade4fd014bbc4b13955a8",
+      "justified_epoch": "6",
+      "finalized_epoch": "5",
+      "weight": "0",
+      "validity": "optimistic",
+      "execution_block_hash": "0x000000000000000000000000000000000000000000000000000000000000003b"
+    },
+    {
+      "slot": "60",
+      "block_root": "0x2a70fea1d7b9eddcca6e5b91aac2b31135a54b90ff2adcd16eda8903376c04f4",
+      "parent_root": "0x74c8bf1d8ea536b28530534e2ff0319917163b05b6f13155bda820396b053eb7",
+      "justified_epoch": "6",
+      "finalized_epoch": "5",
+      "weight": "0",
+      "validity": "optimistic",
+      "execution_block_hash": "0x000000000000000000000000000000000000000000000000000000000000003c"
+    },
+    {
+      "slot": "61",
+      "block_root": "0x34804844b5e7277579a820f405a2b6983b1dac307966d9e9aa3ad13ae97a86c4",
+      "parent_root": "0x2a70fea1d7b9eddcca6e5b91aac2b31135a54b90ff2adcd16eda8903376c04f4",
+      "justified_epoch": "6",
+      "finalized_epoch": "5",
+      "weight": "0",
+      "validity": "optimistic",
+      "execution_block_hash": "0x000000000000000000000000000000000000000000000000000000000000003d"
+    },
+    {
+      "slot": "62",
+      "block_root": "0x6bfc993b6453dff71d33a1a6061c4eb801087ff9f3b8d153da532a1eee5d5a10",
+      "parent_root": "0x34804844b5e7277579a820f405a2b6983b1dac307966d9e9aa3ad13ae97a86c4",
+      "justified_epoch": "6",
+      "finalized_epoch": "5",
+      "weight": "0",
+      "validity": "optimistic",
+      "execution_block_hash": "0x000000000000000000000000000000000000000000000000000000000000003e"
+    },
+    {
+      "slot": "63",
+      "block_root": "0x51c0c978918eb5251b24a867dd2b58bda380a689a7904a29a76e3e7f18cdb257",
+      "parent_root": "0x6bfc993b6453dff71d33a1a6061c4eb801087ff9f3b8d153da532a1eee5d5a10",
+      "justified_epoch": "6",
+      "finalized_epoch": "5",
+      "weight": "0",
+      "validity": "optimistic",
+      "execution_block_hash": "0x000000000000000000000000000000000000000000000000000000000000003f"
+    },
+    {
+      "slot": "64",
+      "block_root": "0xbd4c07fee07639b4e4fdc30cca29fa81d8d4a6c34d8dfd26bc411295c3b0fe6e",
+      "parent_root": "0x51c0c978918eb5251b24a867dd2b58bda380a689a7904a29a76e3e7f18cdb257",
+      "justified_epoch": "6",
+      "finalized_epoch": "5",
+      "weight": "0",
+      "validity": "optimistic",
+      "execution_block_hash": "0x0000000000000000000000000000000000000000000000000000000000000040"
     }
   ]
 }
