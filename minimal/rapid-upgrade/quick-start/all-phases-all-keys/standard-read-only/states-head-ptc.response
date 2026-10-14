@@ -1,0 +1,30 @@
+HTTP/1.0 200 OK
+content-type: application/json
+content-length: 163
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": {
+    "slot": "64",
+    "validators": [
+      "15",
+      "37",
+      "15",
+      "21",
+      "15",
+      "15",
+      "55",
+      "54",
+      "37",
+      "62",
+      "37",
+      "62",
+      "58",
+      "33",
+      "55",
+      "33"
+    ]
+  },
+  "execution_optimistic": true,
+  "finalized": false
+}
