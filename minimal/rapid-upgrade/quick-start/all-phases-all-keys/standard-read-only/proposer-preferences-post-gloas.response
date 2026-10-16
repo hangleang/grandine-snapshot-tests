@@ -1,0 +1,10 @@
+HTTP/1.0 200 OK
+content-type: application/json
+eth-consensus-version: gloas
+content-length: 29
+date: Thu, 01 Jan 1970 00:00:00 GMT
+
+{
+  "data": [],
+  "version": "gloas"
+}
