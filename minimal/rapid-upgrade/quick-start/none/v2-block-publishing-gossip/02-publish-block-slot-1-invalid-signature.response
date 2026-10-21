@@ -1,9 +1,9 @@
 HTTP/1.0 400 Bad Request
 content-type: application/json
-content-length: 66
+content-length: 198
 date: Thu, 01 Jan 1970 00:00:00 GMT
 
 {
   "code": 400,
-  "message": "invalid block: block signature is invalid"
+  "message": "invalid block: block rejected without a valid proposer signature (block root: 0x32520c04804d8bd5132364ad66eef468f42f551916bfcb83cc7628f25807e098): block signature is invalid"
 }
